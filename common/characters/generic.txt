@@ -1,0 +1,71 @@
+characters = {
+	generic_vacant_position = {
+		name = generic_vacant_position
+		portraits = {
+			civilian = {
+				small = "gfx/interface/ideas/idea_unknown.dds"
+				large = "gfx/leaders/leader_unknown.dds"
+			}
+		}
+		country_leader = {
+			desc = generic_vacant_position_desc
+			ideology = san_min_zhuyi_fascist
+			expire = "2065.1.1"
+		}
+		country_leader = {
+			desc = generic_vacant_position_desc
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+		country_leader = {
+			desc = generic_vacant_position_desc
+			ideology = san_min_zhuyi_third_positionist
+			expire = "2065.1.1"
+		}
+		country_leader = {
+			desc = generic_vacant_position_desc
+			ideology = san_min_zhuyi_populist_nationalist
+			expire = "2065.1.1"
+		}
+		country_leader = {
+			desc = generic_vacant_position_desc
+			ideology = san_min_zhuyi_national_conservative
+			expire = "2065.1.1"
+		}
+		country_leader = {
+			desc = generic_vacant_position_desc
+			ideology = san_min_zhuyi_liberal_conservative
+			expire = "2065.1.1"
+		}
+		country_leader = {
+			desc = generic_vacant_position_desc
+			ideology = san_min_zhuyi_classical_liberal
+			expire = "2065.1.1"
+		}
+		country_leader = {
+			desc = generic_vacant_position_desc
+			ideology = san_min_zhuyi_social_liberal
+			expire = "2065.1.1"
+		}
+		country_leader = {
+			desc = generic_vacant_position_desc
+			ideology = san_min_zhuyi_reformist_labourist
+			expire = "2065.1.1"
+		}
+		country_leader = {
+			desc = generic_vacant_position_desc
+			ideology = san_min_zhuyi_liberal_socialist
+			expire = "2065.1.1"
+		}
+		country_leader = {
+			desc = generic_vacant_position_desc
+			ideology = san_min_zhuyi_orthodox_socialist
+			expire = "2065.1.1"
+		}
+		country_leader = {
+			desc = generic_vacant_position_desc
+			ideology = san_min_zhuyi_communist
+			expire = "2065.1.1"
+		}
+	}
+}

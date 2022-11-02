@@ -1,0 +1,174 @@
+ideas = {
+	national_campaign = { 
+		law = yes
+		
+		support_the_national_conservative_party = {
+			cost = 300
+			removal_cost = -1
+			level = 5
+			
+			picture = generic_spy_intel
+			
+			available = {
+				OR = {
+					has_government = national_conservative
+					has_government = liberal_conservative
+					has_government = classical_liberal
+					has_government = social_liberal
+					has_government = reformist_labourist
+					has_government = liberal_socialist
+				}
+				national_conservative < 0.35
+			}
+			
+			
+			modifier = {
+				national_conservative_drift = 0.02
+			}
+			
+			cancel_if_invalid = yes
+			
+		}
+		
+		support_the_liberal_conservative_party = {
+			cost = 300
+			removal_cost = -1
+			level = 3
+			
+			available = {
+				OR = {
+					has_government = national_conservative
+					has_government = liberal_conservative
+					has_government = classical_liberal
+					has_government = social_liberal
+					has_government = reformist_labourist
+					has_government = liberal_socialist
+				}
+				liberal_conservative < 0.35
+			}
+			
+			
+			modifier = {
+				liberal_conservative_drift = 0.02
+			}
+			
+			picture = generic_spy_intel
+			
+			cancel_if_invalid = yes
+			
+		}
+		
+		support_the_classical_liberal_party = {
+			cost = 300
+			removal_cost = -1
+			level = 2
+			
+			available = {
+				OR = {
+					has_government = national_conservative
+					has_government = liberal_conservative
+					has_government = classical_liberal
+					has_government = social_liberal
+					has_government = reformist_labourist
+					has_government = liberal_socialist
+				}
+				classical_liberal < 0.35
+			}
+			
+			
+			modifier = {
+				classical_liberal_drift = 0.02
+			}
+			
+			picture = generic_spy_intel
+			
+			cancel_if_invalid = yes
+			
+		}
+		
+		support_the_social_liberal_party = {
+			cost = 300
+			removal_cost = -1
+			level = 1
+			
+			available = {
+				OR = {
+					has_government = national_conservative
+					has_government = liberal_conservative
+					has_government = classical_liberal
+					has_government = social_liberal
+					has_government = reformist_labourist
+					has_government = liberal_socialist
+				}
+				social_liberal < 0.35
+			}
+			
+			
+			modifier = {
+				social_liberal_drift = 0.02
+			}
+			
+			picture = generic_spy_intel
+			
+			cancel_if_invalid = yes
+			
+		}
+		
+		support_the_reformist_labourist_party = {
+			cost = 300
+			removal_cost = -1
+			level = 1
+			
+			available = {
+				OR = {
+					has_government = national_conservative
+					has_government = liberal_conservative
+					has_government = classical_liberal
+					has_government = social_liberal
+					has_government = reformist_labourist
+					has_government = liberal_socialist
+				}
+				reformist_labourist < 0.35
+			}
+			
+			
+			modifier = {
+				reformist_labourist_drift = 0.02
+			}
+			
+			picture = generic_spy_intel
+			
+			cancel_if_invalid = yes
+			
+		}
+		
+		support_the_liberal_socialist_party = {
+			cost = 300
+			removal_cost = -1
+			level = 1
+			
+			available = {
+				OR = {
+					has_government = national_conservative
+					has_government = liberal_conservative
+					has_government = classical_liberal
+					has_government = social_liberal
+					has_government = reformist_labourist
+					has_government = liberal_socialist
+				}
+				liberal_socialist < 0.35
+			}
+			
+			
+			modifier = {
+				liberal_socialist_drift = 0.02
+			}
+			
+			picture = generic_spy_intel
+			
+			cancel_if_invalid = yes
+			
+		}
+		
+	}
+}

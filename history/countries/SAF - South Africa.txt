@@ -1,0 +1,20 @@
+﻿# Although South Africa is officially tricameral in the mod, it will be depicted as unicameral
+# because for all intents and purposes the whites are the ones primarily in power due to Apartheid.
+# Also, South Africa will be depicted with the devolution idea to reflect the quasi-independence of
+# the Bantustans.
+
+capital = 275
+
+set_politics = {	
+	ruling_party = communist
+	last_election = "2005.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	communist = 100
+}
+
+add_ideas = {
+}

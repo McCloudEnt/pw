@@ -1,0 +1,12 @@
+focus_tree = {
+	id = korea_tree
+	country = {
+		factor = 0
+		modifier = {
+			add = 20
+			tag = KOR
+		}
+	}
+	default = no
+	reset_on_civilwar = no
+}

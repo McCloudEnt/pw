@@ -1,0 +1,518 @@
+defined_text = {
+	name = GUIHOSNAME
+	text = {
+		trigger = {
+			OR = {
+				has_country_flag = mon_queen_margaret
+				has_country_flag = mon_king_david
+				has_country_flag = mon_prinses_beatrix
+				has_country_flag = mon_groussherzog_henri
+				has_country_flag = mon_re_vittorio_emanuele_iv
+				has_country_flag = mon_konge_harald_v
+				has_country_flag = mon_konung_carl_xvi_gustaf
+				has_country_flag = mon_dronning_margrethe_ii
+				has_country_flag = mon_principu_albertu_ii
+				has_country_flag = mon_furst_hans_adam_ii
+				has_country_flag = mon_coprinceps_dandorra
+				has_country_flag = mon_rey_juan_carlos_i
+				has_country_flag = mon_roi_baudouin
+				has_country_flag = mon_roi_jean
+				has_country_flag = mon_roi_felix
+				has_country_flag = mon_roi_louis
+				has_country_flag = mon_roi_pierre_louis
+				has_country_flag = mon_roi_edouard
+				has_country_flag = mon_roi_nicolas
+				has_country_flag = mon_roi_charles_philippe
+				has_country_flag = mon_roi_joachim
+				has_country_flag = mon_roi_maximilien
+				has_country_flag = mon_vasilias_constantinos_ii
+				has_country_flag = mon_pacha_mohammed_zahir_shah
+				has_country_flag = mon_maharajdhiraja_birendra
+				has_country_flag = mon_druk_gyalpo_jigme_singye
+				has_country_flag = mon_druk_gyalpo_jigme_khesar
+				has_country_flag = mon_pra_mahaa_gasat_rama_ix
+				has_country_flag = mon_yang_dipertuan_agong_sirajuddin
+				has_country_flag = mon_tenno_fumihito
+				has_country_flag = mon_tenno_masahito
+			}
+		}
+		localization_key = GUIHOSNAME
+	}
+}
+defined_text = {
+	name = GetFigurehead
+	text = {
+		trigger = {
+			has_country_flag = mon_queen_margaret
+		}
+		localization_key = "Queen Margaret"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_prinses_beatrix
+		}
+		localization_key = "Princess Beatrix"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_groussherzog_henri
+		}
+		localization_key = "Grand Duke Henri"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_re_vittorio_emanuele_iv
+		}
+		localization_key = "King Victor Emmanuel IV"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_konge_harald_v
+		}
+		localization_key = "King Harald V"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_konung_carl_xvi_gustaf
+		}
+		localization_key = "King Carl XVI Gustaf"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_dronning_margrethe_ii
+		}
+		localization_key = "Queen Margrethe II"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_principu_albertu_ii
+		}
+		localization_key = "Prince Albert II"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_furst_hans_adam_ii
+		}
+		localization_key = "Prince Hans-Adam II"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_coprinceps_dandorra
+		}
+		localization_key = "Co-Princes of Andorra"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_rey_juan_carlos_i
+		}
+		localization_key = "King Juan Carlos I"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_vasilias_constantinos_ii
+		}
+		localization_key = "King Constantine II"
+	}
+}
+defined_text = {
+	name = GetHOSTrait
+	text = {
+		trigger = {
+			has_idea = hos_popular_figurehead
+		}
+		localization_key = popular_modifier
+	}
+	text = {
+		trigger = {
+			has_idea = hos_mediocre
+		}
+		localization_key = mediocre_modifier
+	}
+	text = {
+		trigger = {
+			has_idea = hos_unpopular_figurehead
+		}
+		localization_key = unpopular_modifier
+	}
+}
+defined_text = {
+	name = GetHOSTitle
+	text = {
+		trigger = {
+			OR = {
+				AND = {
+					tag = ENG
+					has_country_flag = mon_queen_margaret
+				}
+				AND = {
+					tag = DEN
+					has_country_flag = mon_dronning_margrethe_ii
+				}
+			}
+		}
+		localization_key = PM_OR_QUEEN
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = HOL
+				has_country_flag = mon_prinses_beatrix
+			}
+		}
+		localization_key = PM_OR_PRINCESS
+	}
+	text = {
+		trigger = {
+			AND = {
+				tag = LUX
+				has_country_flag = mon_groussherzog_henri
+			}
+		}
+		localization_key = PM_OR_GRANDDUKE
+	}
+	text = {
+		trigger = {
+			OR = {
+				AND = {
+					tag = LIC
+					has_country_flag = mon_furst_hans_adam_ii
+				}
+				AND = {
+					tag = MOC
+					has_country_flag = mon_principu_albertu_ii
+				}
+			}
+		}
+		localization_key = PM_OR_PRINCE
+	}
+	text = {
+		trigger = {
+			OR = {
+				AND = {
+					tag = ENG
+					has_country_flag = mon_king_david
+				}
+				AND = {
+					tag = ITA
+					has_country_flag = mon_re_vittorio_emanuele_iv
+				}
+				AND = {
+					tag = NOR
+					has_country_flag = mon_konge_harald_v
+				}
+				AND = {
+					tag = SWE
+					has_country_flag = mon_konung_carl_xvi_gustaf
+				}
+				AND = {
+					tag = SPR
+					has_country_flag = mon_rey_juan_carlos_i
+				}
+				AND = {
+					tag = CRE
+					has_country_flag = mon_vasilias_constantinos_ii
+				}
+				AND = {
+					tag = NEP
+					has_country_flag = mon_maharajdhiraja_birendra
+				}
+				AND = {
+					tag = BHU
+					OR = {
+						has_country_flag = mon_druk_gyalpo_jigme_khesar
+						has_country_flag = mon_druk_gyalpo_jigme_singye
+					}
+				}
+				AND = {
+					tag = SIA
+					has_country_flag = mon_pra_mahaa_gasat_rama_ix
+				}
+			}
+		}
+		localization_key = PM_OR_KING
+	}
+}
+defined_text = {
+	name = GetHOSDesc
+	text = {
+		trigger = {
+			has_country_flag = mon_queen_margaret
+		}
+		localization_key = "Margaret, by the Grace of God, Queen, Defender of the Faith"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_king_david
+		}
+		localization_key = "David, by the Grace of God, King, Defender of the Faith"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_prinses_beatrix
+		}
+		localization_key = "Beatrix, Princess of the Netherlands"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_groussherzog_henri
+		}
+		localization_key = "Henri, Grand Duke of Luxembourg"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_re_vittorio_emanuele_iv
+		}
+		localization_key = "Victor Emmanuel IV, King of Italy"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_konge_harald_v
+		}
+		localization_key = "Harald V, Norway's King"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_konung_carl_xvi_gustaf
+		}
+		localization_key = "Carl XVI Gustaf, Sweden's King"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_dronning_margrethe_ii
+		}
+		localization_key = "Margrethe II, Denmark's Queen"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_principu_albertu_ii
+		}
+		localization_key = "Albert II, Prince of Monaco"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_furst_hans_adam_ii
+		}
+		localization_key = "Hans-Adam II, Prince of Liechtenstein"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_coprinceps_dandorra
+		}
+		localization_key = "Bishop of Urgell and the President of France, Co-Princes of Andorra"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_rey_juan_carlos_i
+		}
+		localization_key = "Juan Carlos I, King of Spain"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_roi_baudouin
+		}
+		localization_key = "Baudouin, King of the Belgians"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_roi_jean
+		}
+		localization_key = "Jean, King of the Belgians"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_roi_felix
+		}
+		localization_key = "Félix, King of the Belgians"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_roi_louis
+		}
+		localization_key = "Louis, King of the Belgians"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_roi_pierre_louis
+		}
+		localization_key = "Pierre-Louis, King of the Belgians"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_roi_edouard
+		}
+		localization_key = "Édouard, King of the Belgians"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_roi_nicolas
+		}
+		localization_key = "Nicolas, King of the Belgians"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_roi_charles_philippe
+		}
+		localization_key = "Charles-Philippe, King of the Belgians"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_roi_joachim
+		}
+		localization_key = "Joachim, King of the Belgians"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_roi_maximilien
+		}
+		localization_key = "Maximilien, King of the Belgians"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_vasilias_constantinos_ii
+		}
+		localization_key = "Constantine II, King of the Hellenes"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_pacha_mohammed_zahir_shah
+		}
+		localization_key = "Mohammed Zahir Shah, King of Afghanistan"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_maharajdhiraja_birendra
+		}
+		localization_key = "Birendra, King of Nepal"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_druk_gyalpo_jigme_singye
+		}
+		localization_key = "Jigme Singye, The Fourth Druk Gyalpo, The King of Bhutan"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_druk_gyalpo_jigme_khesar
+		}
+		localization_key = "Jigme Khesar, The Fifth Druk Gyalpo, The King of Bhutan"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_pra_mahaa_gasat_rama_ix
+		}
+		localization_key = "Bhumibol Adulyadej, Rama IX"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_yang_dipertuan_agong_sirajuddin
+		}
+		localization_key = "Sultan Tuanku Syed Sirajuddin ibni Almarhum Tuanku Syed Putra, The 12th Yang di-Pertuan Agong"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_tenno_fumihito
+		}
+		localization_key = "Fumihito, Emperor Akishino"
+	}
+	text = {
+		trigger = {
+			has_country_flag = mon_tenno_masahito
+		}
+		localization_key = "Masahito, Emperor Hitachi"
+	}
+}
+defined_text = {
+	name = get_subideology
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_communist }
+		localization_key = san_min_zhuyi_communist
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_orthodox_socialist }
+		localization_key = san_min_zhuyi_orthodox_socialist
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_liberal_socialist }
+		localization_key = san_min_zhuyi_liberal_socialist
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_reformist_labourist }
+		localization_key = san_min_zhuyi_reformist_labourist
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_social_liberal }
+		localization_key = san_min_zhuyi_social_liberal
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_classical_liberal }
+		localization_key = san_min_zhuyi_classical_liberal
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_liberal_conservative }
+		localization_key = san_min_zhuyi_liberal_conservative
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_national_conservative }
+		localization_key = san_min_zhuyi_national_conservative
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_populist_nationalist }
+		localization_key = san_min_zhuyi_populist_nationalist
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_third_positionist }
+		localization_key = san_min_zhuyi_third_positionist
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_fascist }
+		localization_key = san_min_zhuyi_fascist
+	}
+}
+
+defined_text = {
+	name = get_subideology_desc
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_communist }
+		localization_key = san_min_zhuyi_communist_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_orthodox_socialist }
+		localization_key = san_min_zhuyi_orthodox_socialist_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_liberal_socialist }
+		localization_key = san_min_zhuyi_liberal_socialist_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_reformist_labourist }
+		localization_key = san_min_zhuyi_reformist_labourist_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_social_liberal }
+		localization_key = san_min_zhuyi_social_liberal_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_classical_liberal }
+		localization_key = san_min_zhuyi_classical_liberal_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_liberal_conservative }
+		localization_key = san_min_zhuyi_liberal_conservative_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_national_conservative }
+		localization_key = san_min_zhuyi_national_conservative_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_populist_nationalist }
+		localization_key = san_min_zhuyi_populist_nationalist_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_third_positionist }
+		localization_key = san_min_zhuyi_third_positionist_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = san_min_zhuyi_fascist }
+		localization_key = san_min_zhuyi_fascist_desc
+	}
+}

@@ -1,0 +1,17 @@
+﻿capital = 126
+
+set_politics = {	
+	ruling_party = social_liberal
+	last_election = "2005.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_cosmetic_tag = ENG_GBR
+
+set_popularities = {
+	communist = 100
+}
+
+add_ideas = {
+}

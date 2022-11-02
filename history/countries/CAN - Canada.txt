@@ -1,0 +1,15 @@
+﻿capital = 276
+
+set_politics = {	
+	ruling_party = communist
+	last_election = "2005.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+
+set_popularities = {
+	communist = 100
+}
+
+add_ideas = {
+}
