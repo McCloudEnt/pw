@@ -403,3 +403,12 @@
  ITA_third_positionist_party_long:0 "Power to the People!"
  ITA_fascist_party:0 "MSI - DN"
  ITA_fascist_party_long:0 "Italian Social Movement – National Right"
+ 
+ ITA_MON_populist_nationalist_party:0 "PDI"
+ ITA_MON_populist_nationalist_party_long:0 "Italian Democratic Party"
+ 
+ ITA_SAV_monarchist_party:0 "Savoy"
+ ITA_SAV_monarchist_party_long:0 "House of Savoy"
+ 
+ ITA_AOS_monarchist_party:0 "Savoy-Aosta"
+ ITA_AOS_monarchist_party_long:0 "House of Savoy-Aosta"
