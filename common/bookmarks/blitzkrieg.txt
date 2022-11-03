@@ -9,7 +9,7 @@ bookmarks = {
 		
 		"USA"={
 			history = ""
-			ideology = classical_liberal
+			ideology = liberal_conservative
 			ideas={
 			}
 			focuses = {

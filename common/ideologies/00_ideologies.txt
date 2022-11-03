@@ -229,6 +229,7 @@ ideologies = {
                         paleolibertarian = {}
                         christian_democracy = {}
                         progressive_conservative = {}
+			liberal_gaullist = {}
                         classical_republican = {}
                         fiscal_conservative = {}
                         san_min_zhuyi_liberal_conservative = {}

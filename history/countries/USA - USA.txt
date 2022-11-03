@@ -1,15 +1,33 @@
 ﻿capital = 361
 
 set_politics = {	
-	ruling_party = classical_liberal
+	ruling_party = liberal_conservative
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	communist = 100
+	reformist_labourist = 2
+	social_liberal = 17
+	classical_liberal = 20
+	liberal_conservative = 34
+	national_conservative = 22
+	populist_nationalist = 5
 }
 
 add_ideas = {
 }
+
+recruit_character = USA_sam_webb
+recruit_character = USA_noam_chomsky
+recruit_character = USA_pat_noble
+recruit_character = USA_bernie_sanders
+recruit_character = USA_gabrielle_giffords
+recruit_character = USA_joe_crowley
+recruit_character = USA_mitt_romney
+recruit_character = USA_virgil_goode
+recruit_character = USA_steve_king
+recruit_character = USA_charles_a_coulombe
+recruit_character = USA_tom_metzger
+recruit_character = USA_david_duke

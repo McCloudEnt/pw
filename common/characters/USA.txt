@@ -1,0 +1,158 @@
+characters = {
+	USA_sam_webb = {
+		name = "Sam Webb"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/USA/USA_Sam_Webb.dds"
+			}
+		}
+		country_leader = {
+			desc = SAM_WEBB_DESC
+			ideology = hallist
+			expire = "2065.1.1"
+		}
+	}
+	USA_noam_chomsky = {
+		name = "Noam Chomsky"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/USA/USA_Noam_Chomsky.dds"
+			}
+		}
+		country_leader = {
+			desc = NOAM_CHOMSKY_DESC
+			ideology = syndicalist
+			expire = "2065.1.1"
+		}
+	}
+	USA_pat_noble = {
+		name = "Pat Noble"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/USA/USA_Pat_Noble.dds"
+			}
+		}
+		country_leader = {
+			desc = PAT_NOBLE_DESC
+			ideology = sinclairist
+			expire = "2065.1.1"
+		}
+	}
+	USA_bernie_sanders = {
+		name = "Bernie Sanders"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/USA/USA_Bernie_Sanders.dds"
+			}
+		}
+		country_leader = {
+			desc = BERNIE_SANDERS_DESC
+			ideology = american_progressive
+			expire = "2065.1.1"
+		}
+	}
+	USA_gabrielle_giffords = {
+		name = "Gabrielle Giffords"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/USA/USA_Gabrielle_Giffords.dds"
+			}
+		}
+		country_leader = {
+			desc = GABRIELLE_GIFFORDS_DESC
+			ideology = neo_republican
+			expire = "2065.1.1"
+		}
+	}
+	USA_joe_crowley = {
+		name = "Joe Crowley"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/USA/USA_Joe_Crowley.dds"
+			}
+		}
+		country_leader = {
+			desc = JOE_CROWLEY_DESC
+			ideology = neo_democrat
+			expire = "2065.1.1"
+		}
+	}
+	USA_mitt_romney = {
+		name = "Mitt Romney"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/USA/USA_Mitt_Romney.dds"
+			}
+		}
+		country_leader = {
+			desc = MITT_ROMNEY_DESC
+			ideology = classical_republican
+			expire = "2065.1.1"
+		}
+	}
+	USA_virgil_goode = {
+		name = "Virgil Goode"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/USA/USA_Virgil_Goode.dds"
+			}
+		}
+		country_leader = {
+			desc = VIRGIL_GOODE_DESC
+			ideology = classical_democrat
+			expire = "2065.1.1"
+		}
+	}
+	USA_steve_king = {
+		name = "Steve King"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/USA/USA_Steve_King.dds"
+			}
+		}
+		country_leader = {
+			desc = STEVE_KING_DESC
+			ideology = tea_party_ideology
+			expire = "2065.1.1"
+		}
+	}
+	USA_charles_a_coulombe = {
+		name = "Charles A. Coulombe"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/USA/USA_Charles_A_Coulombe.dds"
+			}
+		}
+		country_leader = {
+			desc = CHARLES_A_COULOMBE_DESC
+			ideology = regency
+			expire = "2065.1.1"
+		}
+	}
+	USA_tom_metzger = {
+		name = "Tom Metzger"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/USA/USA_Tom_Metzger.dds"
+			}
+		}
+		country_leader = {
+			desc = TOM_METZGER_DESC
+			ideology = neostrasserist
+			expire = "2065.1.1"
+		}
+	}
+	USA_david_duke = {
+		name = "David Duke"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/USA/USA_David_Duke.dds"
+			}
+		}
+		country_leader = {
+			desc = DAVID_DUKE_DESC
+			ideology = klanist
+			expire = "2065.1.1"
+		}
+	}
+}
