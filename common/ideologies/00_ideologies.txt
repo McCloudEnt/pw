@@ -2,12 +2,12 @@ ideologies = {
 	communist = {
 	
 		types = {
-			leninist = {}
-			stalinist = {}
+                        leninist = {}
+                        stalinist = {}
                         maoist = {}
                         juche = {}
                         hallist = {}
-			san_min_zhuyi_communist = {}
+                        san_min_zhuyi_communist = {}
 		}
 		
 		dynamic_faction_names = {
@@ -38,12 +38,12 @@ ideologies = {
 	orthodox_socialist = {
 	
 		types = {
-			trotskyist = {}
-			syndicalist = {}
+                        trotskyist = {}
+                        syndicalist = {}
                         national_communist = {}
                         titoist = {}
                         anarcho_syndicalist = {}
-			san_min_zhuyi_orthodox_socialist = {}
+                        san_min_zhuyi_orthodox_socialist = {}
 		}
 		
 		dynamic_faction_names = {
@@ -76,12 +76,12 @@ ideologies = {
 	liberal_socialist = {
 	
 		types = {
-			arab_socialist = {}
-			eco_socialist = {}
+                        arab_socialist = {}
+                        eco_socialist = {}
                         sinclairist = {}
                         austro_marxist = {}
                         neocommunist = {}
-			san_min_zhuyi_liberal_socialist = {}
+                        san_min_zhuyi_liberal_socialist = {}
 		}
 		
 		dynamic_faction_names = {
@@ -112,12 +112,12 @@ ideologies = {
 	reformist_labourist = {
 	
 		types = {
-			social_corporatist = {}
-			nordic_model = {}
+                        social_corporatist = {}
+                        nordic_model = {}
                         liberal_welfarist = {}
                         american_progressive = {}
                         trudeauist = {}
-			san_min_zhuyi_reformist_labourist = {}
+                        san_min_zhuyi_reformist_labourist = {}
 		}
 		
 		dynamic_faction_names = {
@@ -150,12 +150,12 @@ ideologies = {
 	social_liberal = {
 	
 		types = {
-			neo_republican = {}
-			radical_liberal = {}
+                        neo_republican = {}
+                        radical_liberal = {}
                         chartist = {}
                         ordoliberal = {}
                         islamo_liberal = {}
-			san_min_zhuyi_social_liberal = {}
+                        san_min_zhuyi_social_liberal = {}
 		}
 		
 		dynamic_faction_names = {
@@ -188,12 +188,12 @@ ideologies = {
 	classical_liberal = {
 	
 		types = {
-			libertarian = {}
-			neo_democrat = {}
+                        libertarian = {}
+                        neo_democrat = {}
                         whigg = {}
                         venizelist = {}
                         market_liberalism = {}
-			san_min_zhuyi_classical_liberal = {}
+                        san_min_zhuyi_classical_liberal = {}
 		}
 		
 		dynamic_faction_names = {
@@ -226,12 +226,12 @@ ideologies = {
 	liberal_conservative = {
 	
 		types = {
-			paleolibertarian = {}
-			christian_democracy = {}
+                        paleolibertarian = {}
+                        christian_democracy = {}
                         progressive_conservative = {}
                         classical_republican = {}
                         fiscal_conservative = {}
-			san_min_zhuyi_liberal_conservative = {}
+                        san_min_zhuyi_liberal_conservative = {}
 		}
 		
 		dynamic_faction_names = {
@@ -262,12 +262,12 @@ ideologies = {
 	national_conservative = {
 	
 		types = {
-			neoconservative = {}
-			classical_democrat = {}
+                        neoconservative = {}
+                        classical_democrat = {}
                         gaullist = {}
                         christian_right = {}
                         harperist = {}
-			san_min_zhuyi_national_conservative = {}
+                        san_min_zhuyi_national_conservative = {}
 		}
 		
 		dynamic_faction_names = {
@@ -298,12 +298,12 @@ ideologies = {
 	populist_nationalist = {
 	
 		types = {
-			tea_party_ideology = {}
-			dominionist = {}
+                        tea_party_ideology = {}
+                        dominionist = {}
                         liberal_ilminism = {}
                         kemalist = {}
                         national_liberal = {}
-			san_min_zhuyi_populist_nationalist = {}
+                        san_min_zhuyi_populist_nationalist = {}
 		}
 		
 		dynamic_faction_names = {
@@ -334,11 +334,12 @@ ideologies = {
 	monarchist = {
 	
 		types = {
-			absolute_monarchist = {}
-			elective_monarchist = {}
+                        absolute_monarchist = {}
+                        elective_monarchist = {}
                         regency = {}
                         islamic_monarchist = {}
                         carlist = {}
+                        letatism = {}
 		}
 		
 		dynamic_faction_names = {
@@ -369,12 +370,13 @@ ideologies = {
 	third_positionist = {
 	
 		types = {
-			national_bolshevik = {}
-			social_nationalist = {}
+                        national_bolshevik = {}
+                        social_nationalist = {}
                         neostrasserist = {}
                         third_way = {}
                         eurasianist = {}
-			san_min_zhuyi_third_positionist = {}
+                        bonapartist = {}
+                        san_min_zhuyi_third_positionist = {}
 		}
 		
 		dynamic_faction_names = {
@@ -405,12 +407,15 @@ ideologies = {
 	fascist = {
 	
 		types = {
-			classical_fascist = {}
-			clerical_fascist = {}
+                        classical_fascist = {}
+                        french_integralism = {}
+                        portuguese_integralism = {}
+                        brazilian_integralism = {}
+                        clerical_fascist = {}
                         neonazi = {}
                         falangist = {}
                         klanist = {}
-			san_min_zhuyi_fascist = {}
+                        san_min_zhuyi_fascist = {}
 		}
 		
 		dynamic_faction_names = {
