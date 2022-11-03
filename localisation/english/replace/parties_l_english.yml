@@ -51,15 +51,23 @@
  san_min_zhuyi_reformist_labourist:0 "Tridemism"
  san_min_zhuyi_reformist_labourist_desc:0 "The Three Principles of the People is the cornerstone of the Kuomintang's national policy as developed by Sun Yat-Sen. The three principles are Nationalism, Popular Governance, and Welfare. To the United League, the Three Principles represent an independent China under a Chinese form of liberal democracy and a Chinese-oriented form of the economic and social policies of the Nordic Model."
  ##Social Liberal
+ neo_republican:0 "Rockefeller Republicans"
+ neo_republican_desc:0 "Rockefeller Republicans are members of the Republican Party who hold moderate-to-liberal views on domestic issues. While these views were once similar to that of Nelson Rockefeller's, they have since taken a more liberal turn, supporting civil liberties and moderate social welfare policies comparable to the New Deal Democrats from the mid-20th Century."
  san_min_zhuyi_social_liberal:0 "Tridemism"
  san_min_zhuyi_social_liberal_desc:0 "The Three Principles of the People is the cornerstone of the Kuomintang's national policy as developed by Sun Yat-Sen. The three principles are Nationalism, Popular Governance, and Welfare. To the Democratic Progressives, the Three Principles represent an independent China under a Chinese form of liberal democracy and a single-tax Georgist economy."
  ##Classical Liberal
+ neo_democrat:0 "Blue Dog Democrats"
+ neo_democrat_desc:0 "Blue Dog Democrats are members of the Democratic Party who hold socially liberal and fiscally conservative views. These members advocate for fiscal responsibility, a strong national defense and bipartisan consensus, the latter of which is often why they tend to support the policies of the Stalwart Republicans asides from the two groups agreeing on many viewpoints save for aspects of their social policies."
  san_min_zhuyi_classical_liberal:0 "Tridemism"
  san_min_zhuyi_classical_liberal_desc:0 "The Three Principles of the People is the cornerstone of the Kuomintang's national policy as developed by Sun Yat-Sen. The three principles are Nationalism, Popular Governance, and Welfare. To the Solidarity Union, the Three Principles represent an independent China under a Chinese form of liberal democracy, a so-called ethical form of a free-market economy, and the belief that the individual should not be impeded by government interference."
  ##Liberal Conservative
+ classical_republican:0 "Stalwart Republicans"
+ classical_republican_desc:0 "Stalwart Republicans are members of the Republican Party who generally hold conservative views within the confines of liberal values. Named after the Reconstruction Era faction of the GOP, Stalwarts are generally in support of economic liberalism, and a mildly strong federal government to protect the fundamental rights to life, liberty, and the pursuit of happeness."
  san_min_zhuyi_liberal_conservative:0 "Tridemism"
  san_min_zhuyi_liberal_conservative_desc:0 "The Three Principles of the People is the cornerstone of the Kuomintang's national policy as developed by Sun Yat-Sen. The three principles are Nationalism, Popular Governance, and Welfare. To the Broad Stream Society, the Three Principles represent an independent China under a Chinese form of liberal democracy, a so-called ethical form of a free-market economy, and the belief that the individual needs some guidance in other spheres of life."
  ##National Conservative
+ classical_democrat:0 "Yellow Dog Democrats"
+ classical_democrat_desc:0 "Yellow Dog Democrats are members of the Democratic Party who hold views generally seen as much more conservative than their Blue Dog counterparts. This faction more or less came to be in its modern form in the late 1940s with the brief existence of the Dixiecrat Party. Members of this faction generally hold paleoconservative views, stressing American nationalism, Christian ethics, regionalism, and traditionalist conservatism."
  san_min_zhuyi_national_conservative:0 "Tridemism"
  san_min_zhuyi_national_conservative_desc:0 "The Three Principles of the People is the cornerstone of the Kuomintang's national policy as developed by Sun Yat-Sen. The three principles are Nationalism, Popular Governance, and Welfare. To the Political Research Council, the Three Principles represent an independent China under a Chinese form of liberal democracy, policies to protect Chinese businesses from being out-competed by foreign businesses, and that the state needs to be strong to protect traditional values against subversive forces."
  ##Populist Nationalist

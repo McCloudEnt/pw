@@ -440,16 +440,32 @@ defined_text = {
 		localization_key = san_min_zhuyi_reformist_labourist
 	}
 	text = {
+		trigger = { has_country_leader_ideology = neo_republican }
+		localization_key = neo_republican
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_social_liberal }
 		localization_key = san_min_zhuyi_social_liberal
+	}
+	text = {
+		trigger = { has_country_leader_ideology = neo_democrat }
+		localization_key = neo_democrat
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_classical_liberal }
 		localization_key = san_min_zhuyi_classical_liberal
 	}
 	text = {
+		trigger = { has_country_leader_ideology = classical_republican }
+		localization_key = classical_republican
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_liberal_conservative }
 		localization_key = san_min_zhuyi_liberal_conservative
+	}
+	text = {
+		trigger = { has_country_leader_ideology = classical_democrat }
+		localization_key = classical_democrat
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_national_conservative }
@@ -488,16 +504,32 @@ defined_text = {
 		localization_key = san_min_zhuyi_reformist_labourist_desc
 	}
 	text = {
+		trigger = { has_country_leader_ideology = neo_republican }
+		localization_key = neo_republican_desc
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_social_liberal }
 		localization_key = san_min_zhuyi_social_liberal_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = neo_democrat }
+		localization_key = neo_democrat_desc
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_classical_liberal }
 		localization_key = san_min_zhuyi_classical_liberal_desc
 	}
 	text = {
+		trigger = { has_country_leader_ideology = classical_republican }
+		localization_key = classical_republican_desc
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_liberal_conservative }
 		localization_key = san_min_zhuyi_liberal_conservative_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = classical_democrat }
+		localization_key = classical_democrat_desc
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_national_conservative }
