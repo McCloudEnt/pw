@@ -1,0 +1,158 @@
+characters = {
+	KOR_hyon_yong_chol = {
+		name = "Hyon Yong-chol"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/KOR/KOR_Hyon_Yong_Chol.dds"
+			}
+		}
+		country_leader = {
+			desc = HYON_YONG_CHOL_DESC
+			ideology = juche
+			expire = "2065.1.1"
+		}
+	}
+	KOR_lee_jung_hee = {
+		name = "Lee Jung-hee"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/KOR/KOR_Lee_Jung_Hee.dds"
+			}
+		}
+		country_leader = {
+			desc = LEE_JUNG_HEE_DESC
+			ideology = left_communist
+			expire = "2065.1.1"
+		}
+	}
+	KOR_sim_sang_jung = {
+		name = "Sim Sang-jung"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/KOR/KOR_Sim_Sang_Jung.dds"
+			}
+		}
+		country_leader = {
+			desc = SIM_SANG_JUNG_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	KOR_ahn_cheol_soo = {
+		name = "Ahn Cheol-soo"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/KOR/KOR_Ahn_Cheol_Soo.dds"
+			}
+		}
+		country_leader = {
+			desc = AHN_CHEOL_SOO_DESC
+			ideology = neo_reformist
+			expire = "2065.1.1"
+		}
+	}
+	KOR_moon_jae_in = {
+		name = "Moon Jae-in"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/KOR/KOR_Moon_Jae_In.dds"
+			}
+		}
+		country_leader = {
+			desc = MOON_JAE_IN_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	KOR_jang_sung_min = {
+		name = "Jang Sung-min"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/KOR/KOR_Jang_Sung_Min.dds"
+			}
+		}
+		country_leader = {
+			desc = JANG_SUNG_MIN_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	KOR_lee_jae_myung = {
+		name = "Lee Jae-myung"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/KOR/KOR_Lee_Jae_Myung.dds"
+			}
+		}
+		country_leader = {
+			desc = LEE_JAE_MYUNG_DESC
+			ideology = fiscal_conservative
+			expire = "2065.1.1"
+		}
+	}
+	KOR_roh_tae_woo = {
+		name = "Roh Tae-woo"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/KOR/KOR_Roh_Tae_Woo.dds"
+			}
+		}
+		country_leader = {
+			desc = ROH_TAE_WOO_DESC
+			ideology = neoconservative
+			expire = "2065.1.1"
+		}
+	}
+	KOR_chun_doo_hwan = {
+		name = "Chun Doo-hwan"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/KOR/KOR_Chun_Doo_Hwan.dds"
+			}
+		}
+		country_leader = {
+			desc = CHUN_DOO_HWAN_DESC
+			ideology = liberal_ilminism
+			expire = "2065.1.1"
+		}
+	}
+	KOR_empress_hae_won = {
+		name = "Empress Hae-won"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/KOR/KOR_Hae_Won.dds"
+			}
+		}
+		country_leader = {
+			desc = EMPRESS_HAE_WON_DESC
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	KOR_kim_jong_un = {
+		name = "Kim Jong-un"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/KOR/KOR_Kim_Jong_Un.dds"
+			}
+		}
+		country_leader = {
+			desc = KIM_JONG_UN_DESC
+			ideology = neo_juche
+			expire = "2065.1.1"
+		}
+	}
+	KOR_park_geun_hye = {
+		name = "Park Geun-hye"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/KOR/KOR_Park_Geun_Hye.dds"
+			}
+		}
+		country_leader = {
+			desc = PARK_GEUN_HYE_DESC
+			ideology = ilminism
+			expire = "2065.1.1"
+		}
+	}
+}

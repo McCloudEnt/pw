@@ -8,8 +8,27 @@ set_politics = {
 }
 
 set_popularities = {
-	communist = 100
+	liberal_socialist = 12
+	reformist_labourist = 34
+	social_liberal = 7
+	classical_liberal = 8
+	liberal_conservative = 23
+	national_conservative = 11
+	populist_nationalist = 5
 }
 
 add_ideas = {
 }
+
+recruit_character = WGR_heinz_stehr
+recruit_character = WGR_lucy_redler
+recruit_character = WGR_oskar_lafontaine
+recruit_character = WGR_sigmar_gabriel
+recruit_character = WGR_cem_ozdemir
+recruit_character = WGR_philipp_rosler
+recruit_character = WGR_markus_soder
+recruit_character = WGR_beatrix_von_storch
+recruit_character = WGR_markus_wagner
+recruit_character = WGR_king_ernst_august
+recruit_character = WGR_christian_worch
+recruit_character = WGR_udo_voigt

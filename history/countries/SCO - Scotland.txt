@@ -1,7 +1,7 @@
 ﻿capital = 121
 
 set_politics = {	
-	ruling_party = communist
+	ruling_party = reformist_labourist
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -10,5 +10,22 @@ set_politics = {
 set_cosmetic_tag = SCO_GBR
 
 set_popularities = {
-    communist = 100
+	liberal_socialist = 3
+	reformist_labourist = 55
+	social_liberal = 32
+	classical_liberal = 4
+	liberal_conservative = 6
 }
+
+recruit_character = SCO_richie_venton
+recruit_character = SCO_alex_salmond
+recruit_character = SCO_colin_fox
+recruit_character = SCO_john_swinney
+recruit_character = SCO_tony_blair
+recruit_character = SCO_willie_rennie
+recruit_character = SCO_iain_stewart
+recruit_character = SCO_murdo_fraser
+recruit_character = SCO_mark_meechan
+recruit_character = SCO_alexander_douglas_hamilton
+recruit_character = SCO_john_reid
+recruit_character = SCO_colin_robertson

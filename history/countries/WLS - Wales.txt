@@ -1,7 +1,7 @@
 ﻿capital = 122
 
 set_politics = {	
-	ruling_party = communist
+	ruling_party = liberal_socialist
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -10,5 +10,24 @@ set_politics = {
 set_cosmetic_tag = WLS_GBR
 
 set_popularities = {
-    communist = 100
+	liberal_socialist = 37
+	reformist_labourist = 23
+	social_liberal = 18
+	classical_liberal = 8
+	liberal_conservative = 4
+	national_conservative = 2
+	populist_nationalist = 8
 }
+
+recruit_character = WLS_leanne_wood
+recruit_character = WLS_alan_woods
+recruit_character = WLS_adam_price
+recruit_character = WLS_carwyn_jones
+recruit_character = WLS_ieuan_wyn_jones
+recruit_character = WLS_kirsty_williams
+recruit_character = WLS_simone_finn
+recruit_character = WLS_byron_davies
+recruit_character = WLS_gwyn_wigley_evans
+recruit_character = WLS_george_mountbatten
+recruit_character = WLS_rhisiart_talebot
+recruit_character = WLS_guto_bebb

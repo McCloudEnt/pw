@@ -8,8 +8,31 @@ set_politics = {
 }
 
 set_popularities = {
-	communist = 100
+	communist = 50
+	orthodox_socialist = 20
+	liberal_socialist = 10
+	reformist_labourist = 5
+	social_liberal = 4
+	classical_liberal = 3
+	liberal_conservative = 3
+	national_conservative = 1
+	populist_nationalist = 1
+	third_positionist = 2
+	fascist = 1
 }
 
 add_ideas = {
 }
+
+recruit_character = DDR_wolfgang_schwanitz
+recruit_character = DDR_hans_modrow
+recruit_character = DDR_lothar_bisky
+recruit_character = DDR_markus_meckel
+recruit_character = DDR_angela_merkel
+recruit_character = DDR_ulrich_junghanns
+recruit_character = DDR_lothar_de_maiziere
+recruit_character = DDR_frauke_petry
+recruit_character = DDR_wolfgang_rauls
+recruit_character = DDR_emperor_georg_friedrich
+recruit_character = DDR_christa_luft
+recruit_character = DDR_lothar_ahrendt

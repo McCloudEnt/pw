@@ -14,8 +14,27 @@ set_politics = {
 }
 
 set_popularities = {
-	communist = 100
+	liberal_socialist = 10
+	reformist_labourist = 20
+	social_liberal = 21
+	classical_liberal = 13
+	liberal_conservative = 14
+	national_conservative = 15
+	populist_nationalist = 7
 }
 
 add_ideas = {
 }
+
+recruit_character = JAP_kazuo_shii
+recruit_character = JAP_masaaki_osaka
+recruit_character = JAP_taro_yamamoto
+recruit_character = JAP_satsuki_eda
+recruit_character = JAP_okada_katsuya
+recruit_character = JAP_tomoko_abe
+recruit_character = JAP_yasuo_fukuda
+recruit_character = JAP_shinzo_abe
+recruit_character = JAP_ichiro_matsui
+recruit_character = JAP_emperor_akihito
+recruit_character = JAP_ryuho_okawa
+recruit_character = JAP_makoto_sakurai

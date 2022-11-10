@@ -1,0 +1,158 @@
+characters = {
+	ENG_roy_greenslade = {
+		name = "Roy Greenslade"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ENG/ENG_Roy_Greenslade.dds"
+			}
+		}
+		country_leader = {
+			desc = ROY_GREENSLADE_DESC
+			ideology = maoist
+			expire = "2065.1.1"
+		}
+	}
+	ENG_arthur_scargill = {
+		name = "Arthur Scargill"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ENG/ENG_Arthur_Scargill.dds"
+			}
+		}
+		country_leader = {
+			desc = ARTHUR_SCARGILL_DESC
+			ideology = titoist
+			expire = "2065.1.1"
+		}
+	}
+	ENG_dennis_skinner = {
+		name = "Dennis Skinner"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ENG/ENG_Dennis_Skinner.dds"
+			}
+		}
+		country_leader = {
+			desc = DENNIS_SKINNER_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	ENG_michael_meacher = {
+		name = "Michael Meacher"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ENG/ENG_Michael_Meacher.dds"
+			}
+		}
+		country_leader = {
+			desc = MICHAEL_MEACHER_DESC
+			ideology = humanist_socialist
+			expire = "2065.1.1"
+		}
+	}
+	ENG_gareth_thomas = {
+		name = "Gareth Thomas"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ENG/ENG_Gareth_Thomas.dds"
+			}
+		}
+		country_leader = {
+			desc = GARETH_THOMAS_DESC
+			ideology = chartist
+			expire = "2065.1.1"
+		}
+	}
+	ENG_alan_beith = {
+		name = "Alan Beith"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ENG/ENG_Alan_Beith.dds"
+			}
+		}
+		country_leader = {
+			desc = ALAN_BEITH_DESC
+			ideology = whigg
+			expire = "2065.1.1"
+		}
+	}
+	ENG_david_davis = {
+		name = "David Davis"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ENG/ENG_David_Davis.dds"
+			}
+		}
+		country_leader = {
+			desc = DAVID_DAVIS_DESC
+			ideology = fiscal_conservative
+			expire = "2065.1.1"
+		}
+	}
+	ENG_theresa_may = {
+		name = "Theresa May"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ENG/ENG_Theresa_May.dds"
+			}
+		}
+		country_leader = {
+			desc = THERESA_MAY_DESC
+			ideology = social_conservative
+			expire = "2065.1.1"
+		}
+	}
+	ENG_malcolm_pearson = {
+		name = "Malcolm Pearson"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ENG/ENG_Malcolm_Pearson.dds"
+			}
+		}
+		country_leader = {
+			desc = MALCOLM_PEARSON_DESC
+			ideology = reactionary
+			expire = "2065.1.1"
+		}
+	}
+	ENG_queen_diana = {
+		name = "Queen Diana"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ENG/ENG_Diana.dds"
+			}
+		}
+		country_leader = {
+			desc = QUEEN_DIANA_DESC
+			ideology = regency
+			expire = "2065.1.1"
+		}
+	}
+	ENG_jim_dowson = {
+		name = "Jim Dowson"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ENG/ENG_Jim_Dowson.dds"
+			}
+		}
+		country_leader = {
+			desc = JIM_DOWSON_DESC
+			ideology = neostrasserist
+			expire = "2065.1.1"
+		}
+	}
+	ENG_adam_walker = {
+		name = "Adam Walker"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ENG/ENG_Adam_Walker.dds"
+			}
+		}
+		country_leader = {
+			desc = ADAM_WALKER_DESC
+			ideology = classical_fascist
+			expire = "2065.1.1"
+		}
+	}
+}

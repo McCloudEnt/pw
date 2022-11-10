@@ -8,8 +8,24 @@ set_politics = {
 }
 
 set_popularities = {
-	communist = 100
+	communist = 75
+	orthodox_socialist = 20
+	liberal_socialist = 3
+	reformist_labourist = 2
 }
 
 add_ideas = {
 }
+
+recruit_character = PRC_mao_xinyu
+recruit_character = PRC_bo_xilai
+recruit_character = PRC_li_changchun
+recruit_character = PRC_wang_lijun
+recruit_character = PRC_liu_xiaobo
+recruit_character = PRC_wang_gongquan
+recruit_character = PRC_zhang_dejiang
+recruit_character = PRC_qin_yuhai
+recruit_character = PRC_chen_yunlin
+recruit_character = PRC_emperor_puren
+recruit_character = PRC_li_na
+recruit_character = PRC_jason_adam_tonis

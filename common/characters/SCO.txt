@@ -1,0 +1,158 @@
+characters = {
+	SCO_richie_venton = {
+		name = "Richie Venton"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SCO/SCO_Richie_Venton.dds"
+			}
+		}
+		country_leader = {
+			desc = RICHIE_VENTON_DESC
+			ideology = leninist
+			expire = "2065.1.1"
+		}
+	}
+	SCO_alex_salmond = {
+		name = "Alex Salmond"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SCO/SCO_Alex_Salmond.dds"
+			}
+		}
+		country_leader = {
+			desc = ALEX_SALMOND_DESC
+			ideology = national_communist
+			expire = "2065.1.1"
+		}
+	}
+	SCO_colin_fox = {
+		name = "Colin Fox"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SCO/SCO_Colin_Fox.dds"
+			}
+		}
+		country_leader = {
+			desc = COLIN_FOX_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	SCO_john_swinney = {
+		name = "John Swinney"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SCO/SCO_John_Swinney.dds"
+			}
+		}
+		country_leader = {
+			desc = JOHN_SWINNEY_DESC
+			ideology = liberal_welfarist
+			expire = "2065.1.1"
+		}
+	}
+	SCO_tony_blair = {
+		name = "Tony Blair"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SCO/SCO_Tony_Blair.dds"
+			}
+		}
+		country_leader = {
+			desc = TONY_BLAIR_DESC
+			ideology = blairite
+			expire = "2065.1.1"
+		}
+	}
+	SCO_willie_rennie = {
+		name = "Willie Rennie"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SCO/SCO_Willie_Rennie.dds"
+			}
+		}
+		country_leader = {
+			desc = WILLIE_RENNIE_DESC
+			ideology = whigg
+			expire = "2065.1.1"
+		}
+	}
+	SCO_iain_stewart = {
+		name = "Iain Stewart"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SCO/SCO_Iain_Stewart.dds"
+			}
+		}
+		country_leader = {
+			desc = IAIN_STEWART_DESC
+			ideology = progressive_conservative
+			expire = "2065.1.1"
+		}
+	}
+	SCO_murdo_fraser = {
+		name = "Murdo Fraser"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SCO/SCO_Murdo_Fraser.dds"
+			}
+		}
+		country_leader = {
+			desc = MURDO_FRASER_DESC
+			ideology = social_conservative
+			expire = "2065.1.1"
+		}
+	}
+	SCO_mark_meechan = {
+		name = "Mark Meechan"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SCO/SCO_Mark_Meechan.dds"
+			}
+		}
+		country_leader = {
+			desc = MARK_MEECHAN_DESC
+			ideology = reactionary
+			expire = "2065.1.1"
+		}
+	}
+	SCO_alexander_douglas_hamilton = {
+		name = "Alexander Douglas-Hamilton"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SCO/SCO_Alexander_Douglas_Hamilton.dds"
+			}
+		}
+		country_leader = {
+			desc = ALEXANDER_DOUGLAS_HAMILTON_DESC
+			ideology = lord_chancellory
+			expire = "2065.1.1"
+		}
+	}
+	SCO_john_reid = {
+		name = "John Reid"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SCO/SCO_John_Reid.dds"
+			}
+		}
+		country_leader = {
+			desc = JOHN_REID_DESC
+			ideology = third_way
+			expire = "2065.1.1"
+		}
+	}
+	SCO_colin_robertson = {
+		name = "Colin Robertson"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SCO/SCO_Colin_Robertson.dds"
+			}
+		}
+		country_leader = {
+			desc = COLIN_ROBERTSON_DESC
+			ideology = ultranationalist
+			expire = "2065.1.1"
+		}
+	}
+}

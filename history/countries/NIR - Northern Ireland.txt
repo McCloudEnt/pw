@@ -1,7 +1,7 @@
 ﻿capital = 119
 
 set_politics = {	
-	ruling_party = communist
+	ruling_party = reformist_labourist
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
@@ -10,8 +10,26 @@ set_politics = {
 set_cosmetic_tag = NIR_IRE
 
 set_popularities = {
-	communist = 100
+	liberal_socialist = 27
+	reformist_labourist = 30
+	social_liberal = 19
+	classical_liberal = 8
+	liberal_conservative = 13
+	national_conservative = 3
 }
 
 add_ideas = {
 }
+
+recruit_character = NIR_james_stewart
+recruit_character = NIR_gerry_carroll
+recruit_character = NIR_gerry_adams
+recruit_character = NIR_colum_eastwood
+recruit_character = NIR_dawn_purvis
+recruit_character = NIR_david_ford
+recruit_character = NIR_reg_empey
+recruit_character = NIR_ian_paisley
+recruit_character = NIR_jim_allister
+recruit_character = NIR_maurice_fitzgerald
+recruit_character = NIR_army_council
+recruit_character = NIR_jackie_mcdonald

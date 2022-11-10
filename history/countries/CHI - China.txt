@@ -8,8 +8,23 @@ set_politics = {
 }
 
 set_popularities = {
-	communist = 100
+	national_conservative = 8
+	populist_nationalist = 82
+	fascist = 10
 }
 
 add_ideas = {
 }
+
+recruit_character = CHI_wang_cishan
+recruit_character = CHI_chen_jhihli
+recruit_character = CHI_hu_jintao
+recruit_character = CHI_su_jhenchang
+recruit_character = CHI_chen_shueibian
+recruit_character = CHI_fang_shihlong
+recruit_character = CHI_song_chuyu
+recruit_character = CHI_ma_yingjiou
+recruit_character = CHI_jiang_siaoyan
+recruit_character = CHI_emperor_chueichang
+recruit_character = CHI_wujue_miaotian
+recruit_character = CHI_jhang_anle

@@ -8,8 +8,23 @@ set_politics = {
 }
 
 set_popularities = {
-	communist = 100
+	national_conservative = 5
+	populist_nationalist = 65
+	fascist = 30
 }
 
 add_ideas = {
 }
+
+recruit_character = KOR_hyon_yong_chol
+recruit_character = KOR_lee_jung_hee
+recruit_character = KOR_sim_sang_jung
+recruit_character = KOR_ahn_cheol_soo
+recruit_character = KOR_moon_jae_in
+recruit_character = KOR_jang_sung_min
+recruit_character = KOR_lee_jae_myung
+recruit_character = KOR_roh_tae_woo
+recruit_character = KOR_chun_doo_hwan
+recruit_character = KOR_empress_hae_won
+recruit_character = KOR_kim_jong_un
+recruit_character = KOR_park_geun_hye

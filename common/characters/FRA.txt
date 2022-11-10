@@ -1,0 +1,158 @@
+characters = {
+	FRA_marie_george_buffet = {
+		name = "Marie-George Buffet"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FRA/FRA_Marie_George_Buffet.dds"
+			}
+		}
+		country_leader = {
+			desc = MARIE_GEORGE_BUFFET_DESC
+			ideology = leninist
+			expire = "2065.1.1"
+		}
+	}
+	FRA_charles_fiterman = {
+		name = "Charles Fiterman"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FRA/FRA_Charles_Fiterman.dds"
+			}
+		}
+		country_leader = {
+			desc = CHARLES_FITERMAN_DESC
+			ideology = national_communist
+			expire = "2065.1.1"
+		}
+	}
+	FRA_jean_luc_melenchon = {
+		name = "Jean-Luc Mélenchon"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FRA/FRA_Jean_Luc_Melenchon.dds"
+			}
+		}
+		country_leader = {
+			desc = JEAN_LUC_MELENCHON_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	FRA_segolene_royal = {
+		name = "Ségolène Royal"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FRA/FRA_Segolene_Royal.dds"
+			}
+		}
+		country_leader = {
+			desc = SEGOLENE_ROYAL_DESC
+			ideology = neo_reformist
+			expire = "2065.1.1"
+		}
+	}
+	FRA_francois_bayrou = {
+		name = "François Bayrou"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FRA/FRA_Francois_Bayrou.dds"
+			}
+		}
+		country_leader = {
+			desc = FRANCOIS_BAYROU_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	FRA_laurent_henart = {
+		name = "Laurent Hénart"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FRA/FRA_Laurent_Henart.dds"
+			}
+		}
+		country_leader = {
+			desc = LAURENT_HENART_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	FRA_nicolas_sarkozy = {
+		name = "Nicolas Sarkozy"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FRA/FRA_Nicolas_Sarkozy.dds"
+			}
+		}
+		country_leader = {
+			desc = NICOLAS_SARKOZY_DESC
+			ideology = liberal_gaullist
+			expire = "2065.1.1"
+		}
+	}
+	FRA_bruno_megret = {
+		name = "Bruno Mégret"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FRA/FRA_Bruno_Megret.dds"
+			}
+		}
+		country_leader = {
+			desc = BRUNO_MEGRET_DESC
+			ideology = gaullist
+			expire = "2065.1.1"
+		}
+	}
+	FRA_nicolas_dupont_aignan = {
+		name = "Nicolas Dupont-Aignan"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FRA/FRA_Nicolas_Dupont_Aignan.dds"
+			}
+		}
+		country_leader = {
+			desc = NICOLAS_DUPONT_AIGNAN_DESC
+			ideology = reactionary
+			expire = "2065.1.1"
+		}
+	}
+	FRA_yves_marie_adeline = {
+		name = "Yves-Marie Adeline"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FRA/FRA_Yves_Marie_Adeline.dds"
+			}
+		}
+		country_leader = {
+			desc = YVES_MARIE_ADELINE_DESC
+			ideology = regency
+			expire = "2065.1.1"
+		}
+	}
+	FRA_herve_morin = {
+		name = "Hervé Morin"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FRA/FRA_Herve_Morin.dds"
+			}
+		}
+		country_leader = {
+			desc = HERVE_MORIN_DESC
+			ideology = bonapartist
+			expire = "2065.1.1"
+		}
+	}
+	FRA_alain_soral = {
+		name = "Alain Soral"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/FRA/FRA_Alain_Soral.dds"
+			}
+		}
+		country_leader = {
+			desc = ALAIN_SORAL_DESC
+			ideology = ultranationalist
+			expire = "2065.1.1"
+		}
+	}
+}

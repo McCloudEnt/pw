@@ -8,8 +8,27 @@ set_politics = {
 }
 
 set_popularities = {
-	communist = 100
+	reformist_labourist = 1
+	social_liberal = 1
+	classical_liberal = 2
+	liberal_conservative = 7
+	national_conservative = 7
+	populist_nationalist = 75
+	fascist = 7
 }
 
 add_ideas = {
 }
+
+recruit_character = ITA_giorgio_napolitano
+recruit_character = ITA_massimo_dalema
+recruit_character = ITA_nichi_vendola
+recruit_character = ITA_gian_franco_schietroma
+recruit_character = ITA_enzo_bianco
+recruit_character = ITA_carlo_calenda
+recruit_character = ITA_angelino_alfano
+recruit_character = ITA_ignazio_la_russa
+recruit_character = ITA_gianfranco_fini
+recruit_character = ITA_silvio_berlusconi
+recruit_character = ITA_pino_rauti
+recruit_character = ITA_francesco_storace

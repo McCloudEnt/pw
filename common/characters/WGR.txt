@@ -1,0 +1,158 @@
+characters = {
+	WGR_heinz_stehr = {
+		name = "Heinz Stehr"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WGR/WGR_Heinz_Stehr.dds"
+			}
+		}
+		country_leader = {
+			desc = HEINZ_STEHR_DESC
+			ideology = stalinist
+			expire = "2065.1.1"
+		}
+	}
+	WGR_lucy_redler = {
+		name = "Lucy Redler"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WGR/WGR_Lucy_Redler.dds"
+			}
+		}
+		country_leader = {
+			desc = LUCY_REDLER_DESC
+			ideology = trotskyist
+			expire = "2065.1.1"
+		}
+	}
+	WGR_oskar_lafontaine = {
+		name = "Oskar Lafontaine"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WGR/WGR_Oskar_Lafontaine.dds"
+			}
+		}
+		country_leader = {
+			desc = OSKAR_LAFONTAINE_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	WGR_sigmar_gabriel = {
+		name = "Sigmar Gabriel"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WGR/WGR_Sigmar_Gabriel.dds"
+			}
+		}
+		country_leader = {
+			desc = SIGMAR_GABRIEL_DESC
+			ideology = neo_reformist
+			expire = "2065.1.1"
+		}
+	}
+	WGR_cem_ozdemir = {
+		name = "Cem Özdemir"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WGR/WGR_Cem_Ozdemir.dds"
+			}
+		}
+		country_leader = {
+			desc = CEM_OZDEMIR_DESC
+			ideology = ordoliberal
+			expire = "2065.1.1"
+		}
+	}
+	WGR_philipp_rosler = {
+		name = "Philipp Rösler"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WGR/WGR_Philipp_Rosler.dds"
+			}
+		}
+		country_leader = {
+			desc = PHILIPP_ROSLER_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	WGR_markus_soder = {
+		name = "Markus Söder"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WGR/WGR_Markus_Soder.dds"
+			}
+		}
+		country_leader = {
+			desc = MARKUS_SODER_DESC
+			ideology = christian_democracy
+			expire = "2065.1.1"
+		}
+	}
+	WGR_beatrix_von_storch = {
+		name = "Beatrix von Storch"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WGR/WGR_Beatrix_Von_Storch.dds"
+			}
+		}
+		country_leader = {
+			desc = BEATRIX_VON_STORCH_DESC
+			ideology = social_conservative
+			expire = "2065.1.1"
+		}
+	}
+	WGR_markus_wagner = {
+		name = "Markus Wagner"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WGR/WGR_Markus_Wagner.dds"
+			}
+		}
+		country_leader = {
+			desc = MARKUS_WAGNER_DESC
+			ideology = reactionary
+			expire = "2065.1.1"
+		}
+	}
+	WGR_king_ernst_august = {
+		name = "King Ernst August V"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WGR/WGR_Ernest_Augustus.dds"
+			}
+		}
+		country_leader = {
+			desc = KING_ERNST_AUGUST_DESC
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	WGR_christian_worch = {
+		name = "Christian Worch"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WGR/WGR_Christian_Worch.dds"
+			}
+		}
+		country_leader = {
+			desc = CHRISTIAN_WORCH_DESC
+			ideology = neostrasserist
+			expire = "2065.1.1"
+		}
+	}
+	WGR_udo_voigt = {
+		name = "Udo Voigt"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WGR/WGR_Udo_Voigt.dds"
+			}
+		}
+		country_leader = {
+			desc = UDO_VOIGT_DESC
+			ideology = neonazi
+			expire = "2065.1.1"
+		}
+	}
+}

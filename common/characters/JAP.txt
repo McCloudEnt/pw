@@ -1,0 +1,158 @@
+characters = {
+	JAP_kazuo_shii = {
+		name = "Shii Kazuo"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/JAP/JAP_Kazuo_Shii.dds"
+			}
+		}
+		country_leader = {
+			desc = KAZUO_SHII_DESC
+			ideology = maoist
+			expire = "2065.1.1"
+		}
+	}
+	JAP_masaaki_osaka = {
+		name = "Ōsaka Masaaki"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/JAP/JAP_Masaaki_Osaka.dds"
+			}
+		}
+		country_leader = {
+			desc = MASAAKI_OSAKA_DESC
+			ideology = trotskyist
+			expire = "2065.1.1"
+		}
+	}
+	JAP_taro_yamamoto = {
+		name = "Yamamoto Tarō"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/JAP/JAP_Taro_Yamamoto.dds"
+			}
+		}
+		country_leader = {
+			desc = TARO_YAMAMOTO_DESC
+			ideology = neo_eda_vision
+			expire = "2065.1.1"
+		}
+	}
+	JAP_satsuki_eda = {
+		name = "Eda Satsuki"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/JAP/JAP_Satsuki_Eda.dds"
+			}
+		}
+		country_leader = {
+			desc = SATSUKI_EDA_DESC
+			ideology = eda_vision
+			expire = "2065.1.1"
+		}
+	}
+	JAP_okada_katsuya = {
+		name = "Okada Katsuya"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/JAP/JAP_Okada_Katsuya.dds"
+			}
+		}
+		country_leader = {
+			desc = OKADA_KATSUYA_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	JAP_tomoko_abe = {
+		name = "Abe Tomoko"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/JAP/JAP_Tomoko_Abe.dds"
+			}
+		}
+		country_leader = {
+			desc = TOMOKO_ABE_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	JAP_yasuo_fukuda = {
+		name = "Fukuda Yasuo"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/JAP/JAP_Yasuo_Fukuda.dds"
+			}
+		}
+		country_leader = {
+			desc = YASUO_FUKUDA_DESC
+			ideology = fiscal_conservative
+			expire = "2065.1.1"
+		}
+	}
+	JAP_shinzo_abe = {
+		name = "Abe Shinzō"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/JAP/JAP_Shinzo_Abe.dds"
+			}
+		}
+		country_leader = {
+			desc = SHINZO_ABE_DESC
+			ideology = social_conservative
+			expire = "2065.1.1"
+		}
+	}
+	JAP_ichiro_matsui = {
+		name = "Matsui Ichirō"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/JAP/JAP_Ichiro_Matsui.dds"
+			}
+		}
+		country_leader = {
+			desc = ICHIRO_MATSUI_DESC
+			ideology = reactionary
+			expire = "2065.1.1"
+		}
+	}
+	JAP_emperor_akihito = {
+		name = "Emperor Akihito"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/JAP/JAP_Akihito.dds"
+			}
+		}
+		country_leader = {
+			desc = EMPEROR_AKIHITO_DESC
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	JAP_ryuho_okawa = {
+		name = "Ōkawa Ryūhō"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/JAP/JAP_Ryuho_Okawa.dds"
+			}
+		}
+		country_leader = {
+			desc = RYUHO_OKAWA_DESC
+			ideology = utopian_communitarian
+			expire = "2065.1.1"
+		}
+	}
+	JAP_makoto_sakurai = {
+		name = "Sakurai Makoto"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/JAP/JAP_Makoto_Sakurai.dds"
+			}
+		}
+		country_leader = {
+			desc = MAKOTO_SAKURAI_DESC
+			ideology = japanese_imperialism
+			expire = "2065.1.1"
+		}
+	}
+}

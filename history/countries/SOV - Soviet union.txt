@@ -8,8 +8,23 @@ set_politics = {
 }
 
 set_popularities = {
-	communist = 100
+	communist = 63
+	liberal_socialist = 7
+	third_positionist = 30
 }
 
 add_ideas = {
 }
+
+recruit_character = SOV_gennady_zyuganov
+recruit_character = SOV_ivan_melnikov
+recruit_character = SOV_gennady_semigin
+recruit_character = SOV_zakhar_prilepine
+recruit_character = SOV_grigory_yavlinsky
+recruit_character = SOV_konstantin_babkin
+recruit_character = SOV_rifat_shaykhutdinov
+recruit_character = SOV_aleksandr_rutskoy
+recruit_character = SOV_vladimir_zhirinovsky
+recruit_character = SOV_empress_maria
+recruit_character = SOV_eduard_limonov
+recruit_character = SOV_andrey_savelyev

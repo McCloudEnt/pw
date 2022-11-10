@@ -7,6 +7,8 @@ ideologies = {
                         maoist = {}
                         juche = {}
                         hallist = {}
+                        japanese_communist = {}
+                        italian_communist = {}
                         san_min_zhuyi_communist = {}
 		}
 		
@@ -42,7 +44,9 @@ ideologies = {
                         syndicalist = {}
                         national_communist = {}
                         titoist = {}
+                        left_communist = {}
                         anarcho_syndicalist = {}
+                        sino_communist = {}
                         san_min_zhuyi_orthodox_socialist = {}
 		}
 		
@@ -80,7 +84,11 @@ ideologies = {
                         eco_socialist = {}
                         sinclairist = {}
                         austro_marxist = {}
-                        neocommunist = {}
+                        eurocommunist = {}
+                        democratic_socialist = {}
+                        perestroikist = {}
+                        agrarian_socialist = {}
+                        neo_eda_vision = {}
                         san_min_zhuyi_liberal_socialist = {}
 		}
 		
@@ -117,6 +125,9 @@ ideologies = {
                         liberal_welfarist = {}
                         american_progressive = {}
                         trudeauist = {}
+                        humanist_socialist = {}
+                        neo_reformist = {}
+                        eda_vision = {}
                         san_min_zhuyi_reformist_labourist = {}
 		}
 		
@@ -154,7 +165,9 @@ ideologies = {
                         radical_liberal = {}
                         chartist = {}
                         ordoliberal = {}
+                        christian_liberal = {}
                         islamo_liberal = {}
+                        blairite = {}
                         san_min_zhuyi_social_liberal = {}
 		}
 		
@@ -192,7 +205,8 @@ ideologies = {
                         neo_democrat = {}
                         whigg = {}
                         venizelist = {}
-                        market_liberalism = {}
+                        market_liberal = {}
+                        nordic_agrarian = {}
                         san_min_zhuyi_classical_liberal = {}
 		}
 		
@@ -268,6 +282,7 @@ ideologies = {
                         gaullist = {}
                         christian_right = {}
                         harperist = {}
+                        social_conservative = {}
                         san_min_zhuyi_national_conservative = {}
 		}
 		
@@ -304,6 +319,8 @@ ideologies = {
                         liberal_ilminism = {}
                         kemalist = {}
                         national_liberal = {}
+                        reactionary = {}
+                        social_credit = {}
                         san_min_zhuyi_populist_nationalist = {}
 		}
 		
@@ -341,6 +358,9 @@ ideologies = {
                         islamic_monarchist = {}
                         carlist = {}
                         letatism = {}
+                        emergency_monarch = {}
+                        lord_chancellory = {}
+                        governor_general = {}
 		}
 		
 		dynamic_faction_names = {
@@ -374,9 +394,13 @@ ideologies = {
                         national_bolshevik = {}
                         social_nationalist = {}
                         neostrasserist = {}
+                        neofascist = {}
                         third_way = {}
+                        neo_maoist = {}
                         eurasianist = {}
                         bonapartist = {}
+                        utopian_communitarian = {}
+                        neo_juche = {}
                         san_min_zhuyi_third_positionist = {}
 		}
 		
@@ -416,6 +440,10 @@ ideologies = {
                         neonazi = {}
                         falangist = {}
                         klanist = {}
+			japanese_imperialism = {}
+                        ultranationalist = {}
+                        ilminism = {}
+                        manchu_imperialism = {}
                         san_min_zhuyi_fascist = {}
 		}
 		

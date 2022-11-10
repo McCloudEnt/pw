@@ -1,0 +1,158 @@
+characters = {
+	CHI_wang_cishan = {
+		name = "Wang Cishan"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CHI/CHI_Wang_Cishan.dds"
+			}
+		}
+		country_leader = {
+			desc = WANG_CISHAN_DESC
+			ideology = san_min_zhuyi_communist
+			expire = "2065.1.1"
+		}
+	}
+	CHI_chen_jhihli = {
+		name = "Chen Jhihli"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CHI/CHI_Chen_Jhihli.dds"
+			}
+		}
+		country_leader = {
+			desc = CHEN_JHIHLI_DESC
+			ideology = san_min_zhuyi_orthodox_socialist
+			expire = "2065.1.1"
+		}
+	}
+	CHI_hu_jintao = {
+		name = "Hu Jintao"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CHI/CHI_Hu_Jintao.dds"
+			}
+		}
+		country_leader = {
+			desc = HU_JINTAO_DESC
+			ideology = san_min_zhuyi_liberal_socialist
+			expire = "2065.1.1"
+		}
+	}
+	CHI_su_jhenchang = {
+		name = "Su Jhenchang"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CHI/CHI_Su_Jhenchang.dds"
+			}
+		}
+		country_leader = {
+			desc = SU_JHENCHANG_DESC
+			ideology = san_min_zhuyi_reformist_labourist
+			expire = "2065.1.1"
+		}
+	}
+	CHI_chen_shueibian = {
+		name = "Chen Shueibian"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CHI/CHI_Chen_Shueibian.dds"
+			}
+		}
+		country_leader = {
+			desc = CHEN_SHUEIBIAN_DESC
+			ideology = san_min_zhuyi_social_liberal
+			expire = "2065.1.1"
+		}
+	}
+	CHI_fang_shihlong = {
+		name = "Fang Shihlong"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CHI/CHI_Fang_Shihlong.dds"
+			}
+		}
+		country_leader = {
+			desc = FANG_SHIHLONG_DESC
+			ideology = san_min_zhuyi_classical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	CHI_song_chuyu = {
+		name = "Song Chuyu"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CHI/CHI_Song_Chuyu.dds"
+			}
+		}
+		country_leader = {
+			desc = SONG_CHUYU_DESC
+			ideology = san_min_zhuyi_liberal_conservative
+			expire = "2065.1.1"
+		}
+	}
+	CHI_ma_yingjiou = {
+		name = "Ma Yingjiou"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CHI/CHI_Ma_Yingjiou.dds"
+			}
+		}
+		country_leader = {
+			desc = MA_YINGJIOU_DESC
+			ideology = san_min_zhuyi_national_conservative
+			expire = "2065.1.1"
+		}
+	}
+	CHI_jiang_siaoyan = {
+		name = "Jiang Siaoyan"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CHI/CHI_Jiang_Siaoyan.dds"
+			}
+		}
+		country_leader = {
+			desc = JIANG_SIAOYAN_DESC
+			ideology = san_min_zhuyi_populist_nationalist
+			expire = "2065.1.1"
+		}
+	}
+	CHI_emperor_chueichang = {
+		name = "Emperor Chueichang"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CHI/CHI_Kong_Chueichang.dds"
+			}
+		}
+		country_leader = {
+			desc = EMPEROR_CHUEICHANG_DESC
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	CHI_wujue_miaotian = {
+		name = "Wujue Miaotian"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CHI/CHI_Wujue_Miaotian.dds"
+			}
+		}
+		country_leader = {
+			desc = WUJUE_MIAOTIAN_DESC
+			ideology = san_min_zhuyi_third_positionist
+			expire = "2065.1.1"
+		}
+	}
+	CHI_jhang_anle = {
+		name = "Jhang Anle"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CHI/CHI_Jhang_Anle.dds"
+			}
+		}
+		country_leader = {
+			desc = JHANG_ANLE_DESC
+			ideology = san_min_zhuyi_fascist
+			expire = "2065.1.1"
+		}
+	}
+}

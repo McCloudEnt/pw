@@ -1,0 +1,158 @@
+characters = {
+	NIR_james_stewart = {
+		name = "James Stewart"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/NIR/NIR_James_Stewart.dds"
+			}
+		}
+		country_leader = {
+			desc = JAMES_STEWART_DESC
+			ideology = leninist
+			expire = "2065.1.1"
+		}
+	}
+	NIR_gerry_carroll = {
+		name = "Gerry Carroll"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/NIR/NIR_Gerry_Carroll.dds"
+			}
+		}
+		country_leader = {
+			desc = GERRY_CARROLL_DESC
+			ideology = trotskyist
+			expire = "2065.1.1"
+		}
+	}
+	NIR_gerry_adams = {
+		name = "Gerry Adams"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/NIR/NIR_Gerry_Adams.dds"
+			}
+		}
+		country_leader = {
+			desc = GERRY_ADAMS_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	NIR_colum_eastwood = {
+		name = "Colum Eastwood"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/NIR/NIR_Colum_Eastwood.dds"
+			}
+		}
+		country_leader = {
+			desc = COLUM_EASTWOOD_DESC
+			ideology = humanist_socialist
+			expire = "2065.1.1"
+		}
+	}
+	NIR_dawn_purvis = {
+		name = "Dawn Purvis"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/NIR/NIR_Dawn_Purvis.dds"
+			}
+		}
+		country_leader = {
+			desc = DAWN_PURVIS_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	NIR_david_ford = {
+		name = "David Ford"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/NIR/NIR_David_Ford.dds"
+			}
+		}
+		country_leader = {
+			desc = DAVID_FORD_DESC
+			ideology = whigg
+			expire = "2065.1.1"
+		}
+	}
+	NIR_reg_empey = {
+		name = "Reg Empey"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/NIR/NIR_Reg_Empey.dds"
+			}
+		}
+		country_leader = {
+			desc = REG_EMPEY_DESC
+			ideology = progressive_conservative
+			expire = "2065.1.1"
+		}
+	}
+	NIR_ian_paisley = {
+		name = "Ian Paisley"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/NIR/NIR_Ian_Paisley.dds"
+			}
+		}
+		country_leader = {
+			desc = IAN_PAISLEY_DESC
+			ideology = christian_right
+			expire = "2065.1.1"
+		}
+	}
+	NIR_jim_allister = {
+		name = "Jim Allister"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/NIR/NIR_Jim_Allister.dds"
+			}
+		}
+		country_leader = {
+			desc = JIM_ALLISTER_DESC
+			ideology = reactionary
+			expire = "2065.1.1"
+		}
+	}
+	NIR_maurice_fitzgerald = {
+		name = "Maurice FitzGerald"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/NIR/NIR_Maurice_Fitzgerald.dds"
+			}
+		}
+		country_leader = {
+			desc = MAURICE_FITZGERALD_DESC
+			ideology = lord_chancellory
+			expire = "2065.1.1"
+		}
+	}
+	NIR_army_council = {
+		name = "Republican Army Council"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/NIR/NIR_Army_Council.dds"
+			}
+		}
+		country_leader = {
+			desc = ARMY_COUNCIL_DESC
+			ideology = third_way
+			expire = "2065.1.1"
+		}
+	}
+	NIR_jackie_mcdonald = {
+		name = "Jackie McDonald"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/NIR/NIR_Jackie_McDonald.dds"
+			}
+		}
+		country_leader = {
+			desc = JACKIE_MCDONALD_DESC
+			ideology = ultranationalist
+			expire = "2065.1.1"
+		}
+	}
+}

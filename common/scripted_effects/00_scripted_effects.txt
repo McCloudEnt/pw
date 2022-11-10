@@ -133,39 +133,51 @@ on_daily = {
 
 remove_from_allowed_party = { #NVX# Changed
 	if = {
-		limit = { has_government = libertarian_socialism }
-		set_temp_variable = { allowed_party_libertarian_socialism = 0 }
+		limit = { has_government = liberal_socialist }
+		set_temp_variable = { allowed_party_liberal_socialist = 0 }
 	}
 	else_if = {
-		limit = { has_government = ultranationalism }
-		set_temp_variable = { allowed_party_ultranationalism = 0 }
+		limit = { has_government = fascist }
+		set_temp_variable = { allowed_party_fascist = 0 }
 	}
 	else_if = {
-		limit = { has_government = despotism }
-		set_temp_variable = { allowed_party_despotism = 0 }
+		limit = { has_government = monarchist }
+		set_temp_variable = { allowed_party_monarchist = 0 }
 	}
 	else_if = {
-		limit = { has_government = classical_authoritarianism }
-		set_temp_variable = { allowed_party_classical_authoritarianism = 0 }
+		limit = { has_government = populist_nationalist }
+		set_temp_variable = { allowed_party_populist_nationalist = 0 }
 	}
 	else_if = {
-		limit = { has_government = conservative_democracy }
-		set_temp_variable = { allowed_party_conservative_democracy = 0 }
+		limit = { has_government = liberal_conservative }
+		set_temp_variable = { allowed_party_liberal_conservative = 0 }
 	}
 	else_if = {
-		limit = { has_government = liberal_democracy }
-		set_temp_variable = { allowed_party_liberal_democracy = 0 }
+		limit = { has_government = social_liberal }
+		set_temp_variable = { allowed_party_social_liberal = 0 }
 	}
 	else_if = {
-		limit = { has_government = social_democracy }
-		set_temp_variable = { allowed_party_social_democracy = 0 }
+		limit = { has_government = reformist_labourist }
+		set_temp_variable = { allowed_party_reformist_labourist = 0 }
 	}
 	else_if = {
-		limit = { has_government = revisionist_socialism }
-		set_temp_variable = { allowed_party_revisionist_socialism = 0 }
+		limit = { has_government = orthodox_socialist }
+		set_temp_variable = { allowed_party_orthodox_socialist = 0 }
 	}
 	else_if = {
-		limit = { has_government = marxism_leninism }
-		set_temp_variable = { allowed_party_marxism_leninism = 0 }
+		limit = { has_government = communist }
+		set_temp_variable = { allowed_party_communist = 0 }
+	}
+	else_if = {
+		limit = { has_government = classical_liberal }
+		set_temp_variable = { allowed_party_classical_liberal = 0 }
+	}
+	else_if = {
+		limit = { has_government = national_conservative }
+		set_temp_variable = { allowed_party_national_conservative = 0 }
+	}
+	else_if = {
+		limit = { has_government = third_positionist }
+		set_temp_variable = { allowed_party_third_positionist = 0 }
 	}
 } #/NVX#

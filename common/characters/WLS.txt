@@ -1,0 +1,158 @@
+characters = {
+	WLS_leanne_wood = {
+		name = "Leanne Wood"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WLS/WLS_Leanne_Wood.dds"
+			}
+		}
+		country_leader = {
+			desc = LEANNE_WOOD_DESC
+			ideology = leninist
+			expire = "2065.1.1"
+		}
+	}
+	WLS_alan_woods = {
+		name = "Alan Woods"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WLS/WLS_Alan_Woods.dds"
+			}
+		}
+		country_leader = {
+			desc = ALAN_WOODS_DESC
+			ideology = trotskyist
+			expire = "2065.1.1"
+		}
+	}
+	WLS_adam_price = {
+		name = "Adam Price"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WLS/WLS_Adam_Price.dds"
+			}
+		}
+		country_leader = {
+			desc = ADAM_PRICE_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	WLS_carwyn_jones = {
+		name = "Carwyn Jones"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WLS/WLS_Carwyn_Jones.dds"
+			}
+		}
+		country_leader = {
+			desc = CARWYN_JONES_DESC
+			ideology = neo_reformist
+			expire = "2065.1.1"
+		}
+	}
+	WLS_ieuan_wyn_jones = {
+		name = "Ieuan Wyn Jones"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WLS/WLS_Ieuan_Wyn_Jones.dds"
+			}
+		}
+		country_leader = {
+			desc = IEUAN_WYN_JONES_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	WLS_kirsty_williams = {
+		name = "Kirsty Williams"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WLS/WLS_Kirsty_Williams.dds"
+			}
+		}
+		country_leader = {
+			desc = KIRSTY_WILLIAMS_DESC
+			ideology = whigg
+			expire = "2065.1.1"
+		}
+	}
+	WLS_simone_finn = {
+		name = "Simone Finn"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WLS/WLS_Simone_Finn.dds"
+			}
+		}
+		country_leader = {
+			desc = SIMONE_FINN_DESC
+			ideology = fiscal_conservative
+			expire = "2065.1.1"
+		}
+	}
+	WLS_byron_davies = {
+		name = "Byron Davies"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WLS/WLS_Byron_Davies.dds"
+			}
+		}
+		country_leader = {
+			desc = BYRON_DAVIES_DESC
+			ideology = christian_right
+			expire = "2065.1.1"
+		}
+	}
+	WLS_gwyn_wigley_evans = {
+		name = "Gwyn Wigley Evans"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WLS/WLS_Gwyn_Wigley_Evans.dds"
+			}
+		}
+		country_leader = {
+			desc = GWYN_WIGLEY_EVANS_DESC
+			ideology = national_liberal
+			expire = "2065.1.1"
+		}
+	}
+	WLS_george_mountbatten = {
+		name = "George Mountbatten"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WLS/WLS_George_Mountbatten.dds"
+			}
+		}
+		country_leader = {
+			desc = GEORGE_MOUNTBATTEN_DESC
+			ideology = lord_chancellory
+			expire = "2065.1.1"
+		}
+	}
+	WLS_rhisiart_talebot = {
+		name = "Rhisiart Tal-e-bot"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WLS/WLS_Rhisiart_Tal_E_Bot.dds"
+			}
+		}
+		country_leader = {
+			desc = RHISIART_TALEBOT_DESC
+			ideology = third_way
+			expire = "2065.1.1"
+		}
+	}
+	WLS_guto_bebb = {
+		name = "Guto Bebb"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/WLS/WLS_Guto_Bebb.dds"
+			}
+		}
+		country_leader = {
+			desc = GUTO_BEBB_DESC
+			ideology = ultranationalist
+			expire = "2065.1.1"
+		}
+	}
+}

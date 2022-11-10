@@ -8,8 +8,31 @@ set_politics = {
 }
 
 set_popularities = {
-	communist = 100
+	communist = 3
+	orthodox_socialist = 1
+	liberal_socialist = 5
+	reformist_labourist = 22
+	social_liberal = 7
+	classical_liberal = 2
+	liberal_conservative = 10
+	national_conservative = 32
+	populist_nationalist = 15
+	monarchist = 2
+	third_positionist = 1
 }
 
 add_ideas = {
 }
+
+recruit_character = FRA_marie_george_buffet
+recruit_character = FRA_charles_fiterman
+recruit_character = FRA_jean_luc_melenchon
+recruit_character = FRA_segolene_royal
+recruit_character = FRA_francois_bayrou
+recruit_character = FRA_laurent_henart
+recruit_character = FRA_nicolas_sarkozy
+recruit_character = FRA_bruno_megret
+recruit_character = FRA_nicolas_dupont_aignan
+recruit_character = FRA_yves_marie_adeline
+recruit_character = FRA_herve_morin
+recruit_character = FRA_alain_soral

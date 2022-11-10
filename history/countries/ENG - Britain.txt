@@ -10,8 +10,27 @@ set_politics = {
 set_cosmetic_tag = ENG_GBR
 
 set_popularities = {
-	communist = 100
+	liberal_socialist = 5
+	reformist_labourist = 12
+	social_liberal = 45
+	classical_liberal = 24
+	liberal_conservative = 8
+	national_conservative = 4
+	populist_nationalist = 2
 }
 
 add_ideas = {
 }
+
+recruit_character = ENG_roy_greenslade
+recruit_character = ENG_arthur_scargill
+recruit_character = ENG_dennis_skinner
+recruit_character = ENG_michael_meacher
+recruit_character = ENG_gareth_thomas
+recruit_character = ENG_alan_beith
+recruit_character = ENG_david_davis
+recruit_character = ENG_theresa_may
+recruit_character = ENG_malcolm_pearson
+recruit_character = ENG_queen_diana
+recruit_character = ENG_jim_dowson
+recruit_character = ENG_adam_walker

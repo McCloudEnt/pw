@@ -1,0 +1,158 @@
+characters = {
+	SOV_gennady_zyuganov = {
+		name = "Gennady Zyuganov"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SOV/SOV_Gennady_Zyuganov.dds"
+			}
+		}
+		country_leader = {
+			desc = GENNADY_ZYUGANOV_DESC
+			ideology = stalinist
+			expire = "2065.1.1"
+		}
+	}
+	SOV_ivan_melnikov = {
+		name = "Ivan Melnikov"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SOV/SOV_Ivan_Melnikov.dds"
+			}
+		}
+		country_leader = {
+			desc = IVAN_MELNIKOV_DESC
+			ideology = trotskyist
+			expire = "2065.1.1"
+		}
+	}
+	SOV_gennady_semigin = {
+		name = "Gennady Semigin"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SOV/SOV_Gennady_Semigin.dds"
+			}
+		}
+		country_leader = {
+			desc = GENNADY_SEMIGIN_DESC
+			ideology = perestroikist
+			expire = "2065.1.1"
+		}
+	}
+	SOV_zakhar_prilepine = {
+		name = "Zakhar Prilepine"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SOV/SOV_Zakhar_Prilepine.dds"
+			}
+		}
+		country_leader = {
+			desc = ZAKHAR_PRILEPINE_DESC
+			ideology = social_corporatist
+			expire = "2065.1.1"
+		}
+	}
+	SOV_grigory_yavlinsky = {
+		name = "Grigory Yavlinsky"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SOV/SOV_Grigory_Yavlinsky.dds"
+			}
+		}
+		country_leader = {
+			desc = GRIGORY_YAVLINSKY_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	SOV_konstantin_babkin = {
+		name = "Konstantin Babkin"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SOV/SOV_Konstantin_Babkin.dds"
+			}
+		}
+		country_leader = {
+			desc = KONSTANTIN_BABKIN_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	SOV_rifat_shaykhutdinov = {
+		name = "Rifat Shaykhutdinov"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SOV/SOV_Rifat_Shaykhutdinov.dds"
+			}
+		}
+		country_leader = {
+			desc = RIFAT_SHAYKHUTDINOV_DESC
+			ideology = fiscal_conservative
+			expire = "2065.1.1"
+		}
+	}
+	SOV_aleksandr_rutskoy = {
+		name = "Aleksandr Rutskoy"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SOV/SOV_Alexander_Rutskoy.dds"
+			}
+		}
+		country_leader = {
+			desc = ALEKSANDR_RUTSKOY_DESC
+			ideology = social_conservative
+			expire = "2065.1.1"
+		}
+	}
+	SOV_vladimir_zhirinovsky = {
+		name = "Vladimir Zhirinovsky"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SOV/SOV_Vladimir_Zhirinovsky.dds"
+			}
+		}
+		country_leader = {
+			desc = VLADIMIR_ZHIRINOVSKY_DESC
+			ideology = reactionary
+			expire = "2065.1.1"
+		}
+	}
+	SOV_empress_maria = {
+		name = "Empress Maria"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SOV/SOV_Maria.dds"
+			}
+		}
+		country_leader = {
+			desc = EMPRESS_MARIA_DESC
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	SOV_eduard_limonov = {
+		name = "Eduard Limonov"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SOV/SOV_Eduard_Limonov.dds"
+			}
+		}
+		country_leader = {
+			desc = EDUARD_LIMONOV_DESC
+			ideology = national_bolshevik
+			expire = "2065.1.1"
+		}
+	}
+	SOV_andrey_savelyev = {
+		name = "Andrey Savelyev"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SOV/SOV_Andrey_Savelyev.dds"
+			}
+		}
+		country_leader = {
+			desc = ANDREY_SAVELYEV_DESC
+			ideology = ultranationalist
+			expire = "2065.1.1"
+		}
+	}
+}
