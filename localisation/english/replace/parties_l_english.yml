@@ -677,3 +677,55 @@
  POR_third_positionist_party_long:0 "Popular Unity Party"
  POR_fascist_party:0 "PIL"
  POR_fascist_party_long:0 "Lusitanian Integralist Party"
+ 
+ #SPR
+ SPR_communist_party:0 "PCE"
+ SPR_communist_party_long:0 "Communist Party of Spain"
+ SPR_orthodox_socialist_party:0 "PCO"
+ SPR_orthodox_socialist_party_long:0 "Workers' Carlist Party"
+ SPR_liberal_socialist_party:0 "PSP"
+ SPR_liberal_socialist_party_long:0 "People's Socialist Party"
+ SPR_reformist_labourist_party:0 "PSOE"
+ SPR_reformist_labourist_party_long:0 "Spanish Socialist Workers' Party"
+ SPR_social_liberal_party:0 "PDL"
+ SPR_social_liberal_party_long:0 "Liberal Democratic Party"
+ SPR_classical_liberal_party:0 "PLE"
+ SPR_classical_liberal_party_long:0 "Spanish Liberal Party"
+ SPR_liberal_conservative_party:0 "UDPE"
+ SPR_liberal_conservative_party_long:0 "Spanish People's Union"
+ SPR_national_conservative_party:0 "PADE"
+ SPR_national_conservative_party_long:0 "Spanish Democratic Party"
+ SPR_populist_nationalist_party:0 "PRR"
+ SPR_populist_nationalist_party_long:0 "Radical Republican Party"
+ SPR_monarchist_party:0 "Bourbon-Parma"
+ SPR_monarchist_party_long:0 "House of Bourbon-Parma"
+ SPR_third_positionist_party:0 "MSR"
+ SPR_third_positionist_party_long:0 "Republican Social Movement"
+ SPR_fascist_party:0 "AES"
+ SPR_fascist_party_long:0 "Spanish Alternative"
+ 
+ #YUG
+ YUG_communist_party:0 "SKJ - Soviet" #BOS
+ YUG_communist_party_long:0 "Soviet Faction of the League of Communists of Yugoslavia"
+ YUG_orthodox_socialist_party:0 "SKJ - Titoist" #CRO
+ YUG_orthodox_socialist_party_long:0 "Titoist Faction of the League of Communists of Yugoslavia"
+ YUG_liberal_socialist_party:0 "SDP" #CRO
+ YUG_liberal_socialist_party_long:0 "Party of Democratic Reform"
+ YUG_reformist_labourist_party:0 "SRS" #MNT
+ YUG_reformist_labourist_party_long:0 "Union of Reform Forces"
+ YUG_social_liberal_party:0 "SLD" #SLO
+ YUG_social_liberal_party_long:0 "Party of Liberal Democracy"
+ YUG_classical_liberal_party:0 "YZP" #BUL
+ YUG_classical_liberal_party_long:0 "Yugoslav Agrarian Party"
+ YUG_liberal_conservative_party:0 "DSJ"  #SER
+ YUG_liberal_conservative_party_long:0 "Democratic Party of Yugoslavia"
+ YUG_national_conservative_party:0 "SDA" #BOS
+ YUG_national_conservative_party_long:0 "Party of Democratic Action"
+ YUG_populist_nationalist_party:0 "PPJ" #ALB
+ YUG_populist_nationalist_party_long:0 "People's Party of Yugoslavia"
+ YUG_monarchist_party:0 "JPO" #SER
+ YUG_monarchist_party_long:0 "Yugoslav Renewal Movement"
+ YUG_third_positionist_party:0 "SPJ" #SER
+ YUG_third_positionist_party_long:0 "Socialist Party of Yugoslavia"
+ YUG_fascist_party:0 "JDZ" #CRO
+ YUG_fascist_party_long:0 "Yugoslav Democratic Union"

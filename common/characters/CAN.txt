@@ -1,0 +1,158 @@
+characters = {
+	CAN_elizabeth_rowley = {
+		name = "Elizabeth Rowley"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAN/CAN_Elizabeth_Rowley.dds"
+			}
+		}
+		country_leader = {
+			desc = ELIZABETH_ROWLEY_DESC
+			ideology = leninist
+			expire = "2065.1.1"
+		}
+	}
+	CAN_ernie_tate = {
+		name = "Ernie Tate"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAN/CAN_Ernie_Tate.dds"
+			}
+		}
+		country_leader = {
+			desc = ERNIE_TATE_DESC
+			ideology = trotskyist
+			expire = "2065.1.1"
+		}
+	}
+	CAN_jack_layton = {
+		name = "Jack Layton"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAN/CAN_Jack_Layton.dds"
+			}
+		}
+		country_leader = {
+			desc = JACK_LAYTON_DESC
+			ideology = agrarian_socialist
+			expire = "2065.1.1"
+		}
+	}
+	CAN_tom_mulcair = {
+		name = "Tom Mulcair"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAN/CAN_Tom_Mulcair.dds"
+			}
+		}
+		country_leader = {
+			desc = TOM_MULCAIR_DESC
+			ideology = liberal_welfarist
+			expire = "2065.1.1"
+		}
+	}
+	CAN_bob_rae = {
+		name = "Bob Rae"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAN/CAN_Bob_Rae.dds"
+			}
+		}
+		country_leader = {
+			desc = BOB_RAE_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	CAN_tim_moen = {
+		name = "Tim Moen"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAN/CAN_Tim_Moen.dds"
+			}
+		}
+		country_leader = {
+			desc = TIM_MOEN_DESC
+			ideology = libertarian
+			expire = "2065.1.1"
+		}
+	}
+	CAN_kim_campbell = {
+		name = "Kim Campbell"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAN/CAN_Kim_Campbell.dds"
+			}
+		}
+		country_leader = {
+			desc = KIM_CAMPBELL_DESC
+			ideology = progressive_conservative
+			expire = "2065.1.1"
+		}
+	}
+	CAN_stockwell_day = {
+		name = "Stockwell Day"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAN/CAN_Stockwell_Day.dds"
+			}
+		}
+		country_leader = {
+			desc = STOCKWELL_DAY_DESC
+			ideology = harperist
+			expire = "2065.1.1"
+		}
+	}
+	CAN_preston_manning = {
+		name = "Preston Manning"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAN/CAN_Preston_Manning.dds"
+			}
+		}
+		country_leader = {
+			desc = PRESTON_MANNING_DESC
+			ideology = social_credit
+			expire = "2065.1.1"
+		}
+	}
+	CAN_david_johnston = {
+		name = "David Johnston"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAN/CAN_David_Johnston.dds"
+			}
+		}
+		country_leader = {
+			desc = DAVID_JOHNSTON_DESC
+			ideology = governor_general
+			expire = "2065.1.1"
+		}
+	}
+	CAN_judy_darcy = {
+		name = "Judy Darcy"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAN/CAN_Judy_Darcy.dds"
+			}
+		}
+		country_leader = {
+			desc = JUDY_DARCY_DESC
+			ideology = neo_maoist
+			expire = "2065.1.1"
+		}
+	}
+	CAN_stephen_garvey = {
+		name = "Stephen Garvey"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAN/CAN_Stephen_Garvey.dds"
+			}
+		}
+		country_leader = {
+			desc = STEPHEN_GARVEY_DESC
+			ideology = neonazi
+			expire = "2065.1.1"
+		}
+	}
+}

@@ -1,15 +1,33 @@
 ﻿capital = 113
 
 set_politics = {	
-	ruling_party = communist
+	ruling_party = liberal_conservative
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	communist = 100
+	liberal_socialist = 7
+	reformist_labourist = 10
+	social_liberal = 5
+	classical_liberal = 27
+	liberal_conservative = 42
+	national_conservative = 9
 }
 
 add_ideas = {
 }
+
+recruit_character = IRE_eugene_mccartan
+recruit_character = IRE_seamus_mcdonagh
+recruit_character = IRE_mary_lou_mcdonald
+recruit_character = IRE_eamon_gilmore
+recruit_character = IRE_eamon_ryan
+recruit_character = IRE_enda_kenny
+recruit_character = IRE_micheal_martin
+recruit_character = IRE_ronan_mullen
+recruit_character = IRE_lucinda_creighton
+recruit_character = IRE_ruairi_o_bradaigh
+recruit_character = IRE_brian_kenna
+recruit_character = IRE_peter_o_loughlin

@@ -1,0 +1,158 @@
+characters = {
+	IRE_eugene_mccartan = {
+		name = "Eugene McCartan"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRE/IRE_Eugene_McCartan.dds"
+			}
+		}
+		country_leader = {
+			desc = EUGENE_MCCARTAN_DESC
+			ideology = leninist
+			expire = "2065.1.1"
+		}
+	}
+	IRE_seamus_mcdonagh = {
+		name = "Seamus McDonagh"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRE/IRE_Seamus_McDonagh.dds"
+			}
+		}
+		country_leader = {
+			desc = SEAMUS_MCDONAGH_DESC
+			ideology = trotskyist
+			expire = "2065.1.1"
+		}
+	}
+	IRE_mary_lou_mcdonald = {
+		name = "Mary Lou McDonald"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRE/IRE_Mary_Lou_McDonald.dds"
+			}
+		}
+		country_leader = {
+			desc = MARY_LOU_MCDONALD_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	IRE_eamon_gilmore = {
+		name = "Eamon Gilmore"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRE/IRE_Eamon_Gilmore.dds"
+			}
+		}
+		country_leader = {
+			desc = EAMON_GILMORE_DESC
+			ideology = neo_reformist
+			expire = "2065.1.1"
+		}
+	}
+	IRE_eamon_ryan = {
+		name = "Eamon Ryan"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRE/IRE_Eamon_Ryan.dds"
+			}
+		}
+		country_leader = {
+			desc = EAMON_RYAN_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	IRE_enda_kenny = {
+		name = "Enda Kenny"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRE/IRE_Enda_Kenny.dds"
+			}
+		}
+		country_leader = {
+			desc = ENDA_KENNY_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	IRE_micheal_martin = {
+		name = "Micheál Martin"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRE/IRE_Micheal_Martin.dds"
+			}
+		}
+		country_leader = {
+			desc = REG_EMPEY_DESC
+			ideology = christian_democracy
+			expire = "2065.1.1"
+		}
+	}
+	IRE_ronan_mullen = {
+		name = "Rónán Mullen"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRE/IRE_Ronan_Mullen.dds"
+			}
+		}
+		country_leader = {
+			desc = RONAN_MULLEN_DESC
+			ideology = christian_right
+			expire = "2065.1.1"
+		}
+	}
+	IRE_lucinda_creighton = {
+		name = "Lucinda Creighton"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRE/IRE_Lucinda_Creighton.dds"
+			}
+		}
+		country_leader = {
+			desc = LUCINDA_CREIGHTON_DESC
+			ideology = reactionary
+			expire = "2065.1.1"
+		}
+	}
+	IRE_ruairi_o_bradaigh = {
+		name = "Ruairí Ó Brádaigh"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRE/IRE_Ruairi_O_Bradaigh.dds"
+			}
+		}
+		country_leader = {
+			desc = RUAIRI_O_BRADAIGH_DESC
+			ideology = regency
+			expire = "2065.1.1"
+		}
+	}
+	IRE_brian_kenna = {
+		name = "Brian Kenna"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRE/IRE_Brian_Kenna.dds"
+			}
+		}
+		country_leader = {
+			desc = BRIAN_KENNA_DESC
+			ideology = third_way
+			expire = "2065.1.1"
+		}
+	}
+	IRE_peter_o_loughlin = {
+		name = "Peter O'Loughlin"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRE/IRE_Peter_O_Loughlin.dds"
+			}
+		}
+		country_leader = {
+			desc = PETER_O_LOUGHLIN_DESC
+			ideology = ultranationalist
+			expire = "2065.1.1"
+		}
+	}
+}

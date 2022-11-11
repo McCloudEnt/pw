@@ -1,0 +1,158 @@
+characters = {
+	POR_jeronimo_de_sousa = {
+		name = "Jerónimo de Sousa"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/POR/POR_Jeronimo_De_Sousa.dds"
+			}
+		}
+		country_leader = {
+			desc = JERONIMO_DE_SOUSA_DESC
+			ideology = leninist
+			expire = "2065.1.1"
+		}
+	}
+	POR_francisco_louca = {
+		name = "Francisco Louçã"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/POR/POR_Francisco_Louca.dds"
+			}
+		}
+		country_leader = {
+			desc = FRANCISCO_LOUCA_DESC
+			ideology = trotskyist
+			expire = "2065.1.1"
+		}
+	}
+	POR_catarina_martins = {
+		name = "Catarina Martins"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/POR/POR_Catarina_Martins.dds"
+			}
+		}
+		country_leader = {
+			desc = CATARINA_MARTINS_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	POR_jose_socrates = {
+		name = "José Sócrates"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/POR/POR_Jose_Socrates.dds"
+			}
+		}
+		country_leader = {
+			desc = JOSE_SOCRATES_DESC
+			ideology = liberal_welfarist
+			expire = "2065.1.1"
+		}
+	}
+	POR_antonio_marinho_e_pinto = {
+		name = "António Marinho e Pinto"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/POR/POR_Antonio_Marinho_E_Pinto.dds"
+			}
+		}
+		country_leader = {
+			desc = ANTONIO_MARINHO_E_PINTO_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	POR_pedro_passos_coelho = {
+		name = "Pedro Passos Coelho"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/POR/POR_Pedro_Passos_Coelho.dds"
+			}
+		}
+		country_leader = {
+			desc = PEDRO_PASSOS_COELHO_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	POR_paulo_portas = {
+		name = "Paulo Portas"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/POR/POR_Paulo_Portas.dds"
+			}
+		}
+		country_leader = {
+			desc = PAULO_PORTAS_DESC
+			ideology = christian_democracy
+			expire = "2065.1.1"
+		}
+	}
+	POR_nuno_melo = {
+		name = "Nuno Melo"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/POR/POR_Nuno_Melo.dds"
+			}
+		}
+		country_leader = {
+			desc = NUNO_MELO_DESC
+			ideology = social_conservative
+			expire = "2065.1.1"
+		}
+	}
+	POR_jose_pinto_coelho = {
+		name = "José Pinto Coelho"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/POR/POR_Jose_Pinto_Coelho.dds"
+			}
+		}
+		country_leader = {
+			desc = JOSE_PINTO_COELHO_DESC
+			ideology = reactionary
+			expire = "2065.1.1"
+		}
+	}
+	POR_king_duarte_iii = {
+		name = "King Duarte III"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/POR/POR_Duarte_III.dds"
+			}
+		}
+		country_leader = {
+			desc = KING_DUARTE_III_DESC
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	POR_antonio_garcia_pereira = {
+		name = "António Garcia Pereira"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/POR/POR_Antonio_Garcia_Pereira.dds"
+			}
+		}
+		country_leader = {
+			desc = ANTONIO_GARCIA_PEREIRA_DESC
+			ideology = neo_maoist
+			expire = "2065.1.1"
+		}
+	}
+	POR_mario_machado = {
+		name = "Mário Machado"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/POR/POR_Mario_Machado.dds"
+			}
+		}
+		country_leader = {
+			desc = MARIO_MACHADO_DESC
+			ideology = portuguese_integralism
+			expire = "2065.1.1"
+		}
+	}
+}
