@@ -401,6 +401,7 @@ ideologies = {
                         bonapartist = {}
                         utopian_communitarian = {}
                         neo_juche = {}
+                        getulist = {}
                         san_min_zhuyi_third_positionist = {}
 		}
 		

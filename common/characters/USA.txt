@@ -77,15 +77,15 @@ characters = {
 			expire = "2065.1.1"
 		}
 	}
-	USA_mitt_romney = {
-		name = "Mitt Romney"
+	USA_william_weld = {
+		name = "William Weld"
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/USA/USA_Mitt_Romney.dds"
+				large = "gfx/leaders/USA/USA_William_Weld.dds"
 			}
 		}
 		country_leader = {
-			desc = MITT_ROMNEY_DESC
+			desc = WILLIAM_WELD_DESC
 			ideology = classical_republican
 			expire = "2065.1.1"
 		}
