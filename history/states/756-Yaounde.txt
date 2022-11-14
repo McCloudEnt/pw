@@ -6,7 +6,8 @@ state={
 		rubber=8.000
 	}
 	history={
-		owner = CMR
+		owner = CAR
+		add_core_of = CAR
 		add_core_of = CMR
 		buildings = {
 			infrastructure = 4

@@ -6,7 +6,8 @@ state={
 		1544 4440 
 	}
 	history={
-		owner = JOR
+		owner = IRQ
+		add_core_of = IRQ
 		buildings = {
 			infrastructure = 3
 

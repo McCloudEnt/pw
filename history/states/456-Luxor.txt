@@ -8,9 +8,8 @@ state={
 	}
 
 	history={
-		owner = UAR
+		owner = EGY
 		add_core_of = EGY
-		add_core_of = UAR
 		buildings = {
 			infrastructure = 4
 			industrial_complex = 4

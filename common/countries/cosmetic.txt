@@ -338,3 +338,11 @@ NIR_IRE = {
 	color = rgb { 80 159 90 }
 	color_ui = rgb { 104 207 117 }
 }
+UAR = {
+	color = rgb { 192 147 0 }
+	color_ui = rgb { 230 230 70 }
+}
+FAR = {
+	color = rgb { 212 127 0 }
+	color_ui = rgb { 230 230 70 }
+}

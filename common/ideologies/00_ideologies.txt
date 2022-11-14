@@ -9,6 +9,7 @@ ideologies = {
                         hallist = {}
                         japanese_communist = {}
                         italian_communist = {}
+                        nimeiryist = {}
                         san_min_zhuyi_communist = {}
 		}
 		
@@ -47,6 +48,7 @@ ideologies = {
                         left_communist = {}
                         anarcho_syndicalist = {}
                         sino_communist = {}
+                        nasserist = {}
                         san_min_zhuyi_orthodox_socialist = {}
 		}
 		
@@ -166,7 +168,7 @@ ideologies = {
                         chartist = {}
                         ordoliberal = {}
                         christian_liberal = {}
-                        islamo_liberal = {}
+                        islamo_progressive = {}
                         blairite = {}
                         san_min_zhuyi_social_liberal = {}
 		}
@@ -246,6 +248,7 @@ ideologies = {
 			liberal_gaullist = {}
                         classical_republican = {}
                         fiscal_conservative = {}
+                        islamic_liberal = {}
                         san_min_zhuyi_liberal_conservative = {}
 		}
 		
@@ -283,6 +286,7 @@ ideologies = {
                         christian_right = {}
                         harperist = {}
                         social_conservative = {}
+                        islamic_democracy = {}
                         san_min_zhuyi_national_conservative = {}
 		}
 		
@@ -321,6 +325,7 @@ ideologies = {
                         national_liberal = {}
                         reactionary = {}
                         social_credit = {}
+                        baathist = {}
                         san_min_zhuyi_populist_nationalist = {}
 		}
 		
@@ -402,6 +407,8 @@ ideologies = {
                         utopian_communitarian = {}
                         neo_juche = {}
                         getulist = {}
+                        gaddafist = {}
+                        milosevicist = {}
                         san_min_zhuyi_third_positionist = {}
 		}
 		
@@ -445,6 +452,7 @@ ideologies = {
                         ultranationalist = {}
                         ilminism = {}
                         manchu_imperialism = {}
+                        islamist = {}
                         san_min_zhuyi_fascist = {}
 		}
 		

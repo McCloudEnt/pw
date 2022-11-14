@@ -8,7 +8,8 @@ state={
 	}
 	state_category = state_level_3
 	history={
-		owner = TRI
+		owner = CAN
+		add_core_of = CAN
 		buildings = {
 			infrastructure = 5
 			industrial_complex = 2

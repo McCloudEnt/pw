@@ -1,15 +1,32 @@
 ﻿capital = 107
 
 set_politics = {	
-	ruling_party = communist
+	ruling_party = third_positionist
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	communist = 100
+	communist = 5
+	orthodox_socialist = 10
+	liberal_socialist = 3
+	reformist_labourist = 2
+	third_positionist = 80
 }
 
 add_ideas = {
 }
+
+recruit_character = YUG_ratko_mladic
+recruit_character = YUG_ivo_josipovic
+recruit_character = YUG_zdravko_tomac
+recruit_character = YUG_filip_vujanovic
+recruit_character = YUG_jelko_kacin
+recruit_character = YUG_nikolay_nenchev
+recruit_character = YUG_vuk_jeremic
+recruit_character = YUG_bakir_izetbegovic
+recruit_character = YUG_fatmir_mediu
+recruit_character = YUG_aleksandar_karadordevic
+recruit_character = YUG_slobodan_milosevic
+recruit_character = YUG_tomislav_karamarko

@@ -4,7 +4,8 @@ state={
 	name="STATE_820"
 
 	history={
-		owner = MLW
+		owner = ZIM
+		add_core_of = ZIM
 		add_core_of = MLW
 		buildings = {
 			infrastructure = 2

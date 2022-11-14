@@ -5,7 +5,9 @@ state = {
 	state_category = state_level_2
 	
 	history = {
-		owner = BLZ
+		owner = CAN
+		add_core_of = CAN
+		add_core_of = BLZ
 		victory_points = { 2077 2 }
 		buildings = {
 			infrastructure = 4

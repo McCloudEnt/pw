@@ -1,0 +1,158 @@
+characters = {
+	YUG_ratko_mladic = {
+		name = "Ratko Mladić"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/YUG/YUG_Ratko_Mladic.dds"
+			}
+		}
+		country_leader = {
+			desc = RATKO_MLADIC_DESC
+			ideology = stalinist
+			expire = "2065.1.1"
+		}
+	}
+	YUG_ivo_josipovic = {
+		name = "Ivo Josipović"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/YUG/YUG_Ivo_Josipovic.dds"
+			}
+		}
+		country_leader = {
+			desc = IVO_JOSIPOVIC_DESC
+			ideology = titoist
+			expire = "2065.1.1"
+		}
+	}
+	YUG_zdravko_tomac = {
+		name = "Zdravko Tomac"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/YUG/YUG_Zdravko_Tomac.dds"
+			}
+		}
+		country_leader = {
+			desc = ZDRAVKO_TOMAC_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	YUG_filip_vujanovic = {
+		name = "Filip Vujanović"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/YUG/YUG_Filip_Vujanovic.dds"
+			}
+		}
+		country_leader = {
+			desc = FILIP_VUJANOVIC_DESC
+			ideology = humanist_socialist
+			expire = "2065.1.1"
+		}
+	}
+	YUG_jelko_kacin = {
+		name = "Jelko Kacin"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/YUG/YUG_Jelko_Kacin.dds"
+			}
+		}
+		country_leader = {
+			desc = JELKO_KACIN_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	YUG_nikolay_nenchev = {
+		name = "Nikolay Nenchev"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/YUG/YUG_Nikolay_Nenchev.dds"
+			}
+		}
+		country_leader = {
+			desc = NIKOLAY_NENCHEV_DESC
+			ideology = nordic_agrarian
+			expire = "2065.1.1"
+		}
+	}
+	YUG_vuk_jeremic = {
+		name = "Vuk Jeremić"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/YUG/YUG_Vuk_Jeremic.dds"
+			}
+		}
+		country_leader = {
+			desc = VUK_JEREMIC_DESC
+			ideology = fiscal_conservative
+			expire = "2065.1.1"
+		}
+	}
+	YUG_bakir_izetbegovic = {
+		name = "Bakir Izetbegović"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/YUG/YUG_Bakir_Izetbegovic.dds"
+			}
+		}
+		country_leader = {
+			desc = BAKIR_IZETBEGOVIC_DESC
+			ideology = social_conservative
+			expire = "2065.1.1"
+		}
+	}
+	YUG_fatmir_mediu = {
+		name = "Fatmir Mediu"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/YUG/YUG_Fatmir_Mediu.dds"
+			}
+		}
+		country_leader = {
+			desc = FATMIR_MEDIU_DESC
+			ideology = national_liberal
+			expire = "2065.1.1"
+		}
+	}
+	YUG_aleksandar_karadordevic = {
+		name = "Aleksandar Karađorđević"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/YUG/YUG_Aleksandar_II.dds"
+			}
+		}
+		country_leader = {
+			desc = ALEKSANDAR_KARADORDEVIC_DESC
+			ideology = regency
+			expire = "2065.1.1"
+		}
+	}
+	YUG_slobodan_milosevic = {
+		name = "Slobodan Milošević"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/YUG/YUG_Slobodan_Milosevic.dds"
+			}
+		}
+		country_leader = {
+			desc = SLOBODAN_MILOSEVIC_DESC
+			ideology = milosevicist
+			expire = "2065.1.1"
+		}
+	}
+	YUG_tomislav_karamarko = {
+		name = "Tomislav Karamarko"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/YUG/YUG_Tomislav_Karamarko.dds"
+			}
+		}
+		country_leader = {
+			desc = TOMISLAV_KARAMARKO_DESC
+			ideology = clerical_fascist
+			expire = "2065.1.1"
+		}
+	}
+}

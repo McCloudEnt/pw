@@ -6,7 +6,8 @@ state={
 		oil=2.000
 	}
 	history={
-		owner = SYR
+		owner = EGY
+		add_core_of = EGY
 		victory_points = {
 			1606 10
 		}

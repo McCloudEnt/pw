@@ -7,9 +7,9 @@ state={
 	}
 
 	history={
-		owner = UAR
+		owner = EGY
+		add_core_of = EGY
 		add_core_of = LBA
-		add_core_of = UAR
 		victory_points = {
 			11954 10
 		}

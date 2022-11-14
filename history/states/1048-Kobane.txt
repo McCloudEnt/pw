@@ -5,7 +5,8 @@ state={
 		13328 
 	}
 	history={
-		owner = SYR
+		owner = EGY
+		add_core_of = EGY
 		add_core_of = SYR
 		add_core_of = KUR
 		victory_points = {

@@ -1,0 +1,158 @@
+characters = {
+	BRA_ivan_pinheiro = {
+		name = "Ivan Pinheiro"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/BRA/BRA_Ivan_Pinheiro.dds"
+			}
+		}
+		country_leader = {
+			desc = IVAN_PINHEIRO_DESC
+			ideology = stalinist
+			expire = "2065.1.1"
+		}
+	}
+	BRA_jose_maria_de_almeida = {
+		name = "José Maria de Almeida"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/BRA/BRA_Jose_Maria_De_Almeida.dds"
+			}
+		}
+		country_leader = {
+			desc = JOSE_MARIA_DE_ALMEIDA_DESC
+			ideology = trotskyist
+			expire = "2065.1.1"
+		}
+	}
+	BRA_dilma_rousseff = {
+		name = "Dilma Rousseff"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/BRA/BRA_Dilma_Rousseff.dds"
+			}
+		}
+		country_leader = {
+			desc = DILMA_ROUSSEFF_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	BRA_cristovam_buarque = {
+		name = "Cristovam Buarque"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/BRA/BRA_Cristovam_Buarque.dds"
+			}
+		}
+		country_leader = {
+			desc = CRISTOVAM_BUARQUE_DESC
+			ideology = neo_reformist
+			expire = "2065.1.1"
+		}
+	}
+	BRA_alvaro_dias = {
+		name = "Alvaro Dias"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/BRA/BRA_Alvaro_Dias.dds"
+			}
+		}
+		country_leader = {
+			desc = ALVARO_DIAS_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	BRA_michel_temer = {
+		name = "Michel Temer"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/BRA/BRA_Michel_Temer.dds"
+			}
+		}
+		country_leader = {
+			desc = MICHEL_TEMER_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	BRA_tasso_jereissati = {
+		name = "Tasso Jereissati"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/BRA/BRA_Tasso_Jereissati.dds"
+			}
+		}
+		country_leader = {
+			desc = TASSO_JEREISSATI_DESC
+			ideology = christian_democracy
+			expire = "2065.1.1"
+		}
+	}
+	BRA_everaldo_pereira = {
+		name = "Everaldo Pereira"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/BRA/BRA_Everaldo_Pereira.dds"
+			}
+		}
+		country_leader = {
+			desc = EVERALDO_PEREIRA_DESC
+			ideology = christian_right
+			expire = "2065.1.1"
+		}
+	}
+	BRA_valdemar_costa_neto = {
+		name = "Valdemar Costa Neto"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/BRA/BRA_Valdemar_Costa_Neto.dds"
+			}
+		}
+		country_leader = {
+			desc = VALDEMAR_COSTA_NETO_DESC
+			ideology = reactionary
+			expire = "2065.1.1"
+		}
+	}
+	BRA_emperor_pedro_v = {
+		name = "Emperor Pedro V"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/BRA/BRA_Pedro_V.dds"
+			}
+		}
+		country_leader = {
+			desc = EMPEROR_PEDRO_V_DESC
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	BRA_jair_bolsonaro = {
+		name = "Jair Bolsonaro"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/BRA/BRA_Jair_Bolsonaro.dds"
+			}
+		}
+		country_leader = {
+			desc = JAIR_BOLSONARO_DESC
+			ideology = getulist
+			expire = "2065.1.1"
+		}
+	}
+	BRA_moises_lima = {
+		name = "Moisés Lima"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/BRA/BRA_Moises_Lima.dds"
+			}
+		}
+		country_leader = {
+			desc = MOISES_LIMA_DESC
+			ideology = brazilian_integralism
+			expire = "2065.1.1"
+		}
+	}
+}

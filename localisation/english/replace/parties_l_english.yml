@@ -755,3 +755,53 @@
  BRA_third_positionist_party_long:0 "National Renewal Alliance"
  BRA_fascist_party:0 "FIB"
  BRA_fascist_party_long:0 "Brazilian Integralist Front"
+ 
+ #EGY
+ EGY_communist_party:0 "IIA - Nimeiryist" #Nimeiry - SUD
+ EGY_communist_party_long:0 "Nimeiryist Faction of the Arab Socialist Union"
+ EGY_orthodox_socialist_party:0 "IIA - Nasserist" #Nasser - EGY
+ EGY_orthodox_socialist_party_long:0 "Nasserist Faction of the Arab Socialist Union"
+ EGY_liberal_socialist_party:0 "IIA - Anti-Personalist" #EGY
+ EGY_liberal_socialist_party_long:0 "Anti-Personalist Faction of the Arab Socialist Union"
+ EGY_reformist_labourist_party:0 "HSD" #SYR
+ EGY_reformist_labourist_party_long:0 "Democratic People's Party"
+ EGY_social_liberal_party:0 "HLA" #SUD
+ EGY_social_liberal_party_long:0 "Arab Liberal Party"
+ EGY_classical_liberal_party:0 "HIT" #EGY
+ EGY_classical_liberal_party_long:0 "Reform and Development Party"
+ EGY_liberal_conservative_party:0 "HWM" #LBA
+ EGY_liberal_conservative_party_long:0 "United Centrist Party"
+ EGY_national_conservative_party:0 "HAB" #LBA
+ EGY_national_conservative_party_long:0 "Justice and Construction Party"
+ EGY_populist_nationalist_party:0 "IIA - Assadist" #Assad - SYR
+ EGY_populist_nationalist_party_long:0 "Assadist Faction of the Arab Socialist Union"
+ EGY_monarchist_party:0 "HASD" #LBA - EGY - SUD - SYR
+ EGY_monarchist_party_long:0 "Movement for the Return of Constitutional Legitimacy"
+ EGY_third_positionist_party:0 "IIA - Gaddafist" #Gaddafi - LBA
+ EGY_third_positionist_party_long:0 "Gaddafist Faction of the Arab Socialist Union"
+ EGY_fascist_party:0 "HT" #LBA - EGY - SUD - SYR
+ EGY_fascist_party_long:0 "Party of Liberation"
+ 
+ EGY_IND_communist_party:0 "HSM"
+ EGY_IND_communist_party_long:0 "Egyptian Communist Party"
+ EGY_IND_orthodox_socialist_party:0 "HTWTW" #Same FAR leader
+ EGY_IND_orthodox_socialist_party_long:0 "National Progressive Unionist Party"
+ EGY_IND_liberal_socialist_party:0 "HMM"
+ EGY_IND_liberal_socialist_party_long:0 "Egyptian Conference Party"
+ EGY_IND_reformist_labourist_party:0 "HMDI"
+ EGY_IND_reformist_labourist_party_long:0 "Egyptian Social Democratic Party"
+ EGY_IND_social_liberal_party:0 "HML"
+ EGY_IND_social_liberal_party_long:0 "Liberal Egyptian Party"
+ #classical_liberal is unchanged
+ EGY_IND_liberal_conservative_party:0 "HWM"
+ EGY_IND_liberal_conservative_party_long:0 "Egyptian Delegation Party"
+ EGY_IND_national_conservative_party:0 "HBT"
+ EGY_IND_national_conservative_party_long:0 "Building and Development Party"
+ EGY_IND_populist_nationalist_party:0 "HMW"
+ EGY_IND_populist_nationalist_party_long:0 "Nation's Future Party"
+ EGY_IND_monarchist_party:0 "Alawite"
+ EGY_IND_monarchist_party_long:0 "Alawite Dynasty"
+ EGY_IND_third_positionist_party:0 "HWA"
+ EGY_IND_third_positionist_party_long:0 "Arab Unification Party"
+ EGY_IND_fascist_party:0 "HN"
+ EGY_IND_fascist_party_long:0 "Party of The Light"

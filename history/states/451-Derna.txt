@@ -4,9 +4,9 @@ state={
 	name="STATE_451"
 
 	history={
-		owner = UAR
+		owner = EGY
+		add_core_of = EGY
 		add_core_of = LBA
-		add_core_of = UAR
 		add_extra_state_shared_building_slots = 1
 		victory_points = {
 			1130 2

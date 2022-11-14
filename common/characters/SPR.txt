@@ -1,0 +1,158 @@
+characters = {
+	SPR_jose_luis_centella = {
+		name = "José Luis Centella"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SPR/SPR_Jose_Luis_Centella.dds"
+			}
+		}
+		country_leader = {
+			desc = JOSE_LUIS_CENTELLA_DESC
+			ideology = leninist
+			expire = "2065.1.1"
+		}
+	}
+	SPR_alberto_garzon = {
+		name = "Alberto Garzón"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SPR/SPR_Alberto_Garzon.dds"
+			}
+		}
+		country_leader = {
+			desc = ALBERTO_GARZON_DESC
+			ideology = titoist
+			expire = "2065.1.1"
+		}
+	}
+	SPR_pablo_iglesias_turrion = {
+		name = "Pablo Iglesias Turrión"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SPR/SPR_Pablo_Iglesias_Turrion.dds"
+			}
+		}
+		country_leader = {
+			desc = PABLO_IGLESIAS_TURRION_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	SPR_cristina_narbona = {
+		name = "Cristina Narbona"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SPR/SPR_Cristina_Narbona.dds"
+			}
+		}
+		country_leader = {
+			desc = CRISTINA_NARBONA_DESC
+			ideology = neo_reformist
+			expire = "2065.1.1"
+		}
+	}
+	SPR_eduard_punset = {
+		name = "Eduard Punset"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SPR/SPR_Eduard_Punset.dds"
+			}
+		}
+		country_leader = {
+			desc = EDUARD_PUNSET_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	SPR_edmundo_bal = {
+		name = "Edmundo Bal"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SPR/SPR_Edmundo_Bal.dds"
+			}
+		}
+		country_leader = {
+			desc = EDMUNDO_BAL_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	SPR_mariano_rajoy = {
+		name = "Mariano Rajoy"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SPR/SPR_Mariano_Rajoy.dds"
+			}
+		}
+		country_leader = {
+			desc = MARIANO_RAJOY_DESC
+			ideology = christian_democracy
+			expire = "2065.1.1"
+		}
+	}
+	SPR_santiago_abascal = {
+		name = "Santiago Abascal"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SPR/SPR_Santiago_Abascal.dds"
+			}
+		}
+		country_leader = {
+			desc = SANTIAGO_ABASCAL_DESC
+			ideology = social_conservative
+			expire = "2065.1.1"
+		}
+	}
+	SPR_albert_rivera = {
+		name = "Albert Rivera"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SPR/SPR_Albert_Rivera.dds"
+			}
+		}
+		country_leader = {
+			desc = ALBERT_RIVERA_DESC
+			ideology = national_liberal
+			expire = "2065.1.1"
+		}
+	}
+	SPR_carlos_hugo_de_borbon_parma = {
+		name = "Carlos Hugo de Borbón-Parma"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SPR/SPR_Carlos_VIII.dds"
+			}
+		}
+		country_leader = {
+			desc = CARLOS_HUGO_DE_BORBON_DESC
+			ideology = regency
+			expire = "2065.1.1"
+		}
+	}
+	SPR_luis_pio_moa_rodriguez = {
+		name = "Luis Pío Moa Rodríguez"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SPR/SPR_Luis_Pio_Moa_Rodriguez.dds"
+			}
+		}
+		country_leader = {
+			desc = LUIS_PIO_MOA_RODRIGUEZ_DESC
+			ideology = neo_maoist
+			expire = "2065.1.1"
+		}
+	}
+	SPR_antonio_perez_bencomo = {
+		name = "Antonio Pérez Bencomo"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SPR/SPR_Antonio_Perez_Bencomo.dds"
+			}
+		}
+		country_leader = {
+			desc = ANTONIO_PEREZ_BENCOMO_DESC
+			ideology = falangist
+			expire = "2065.1.1"
+		}
+	}
+}

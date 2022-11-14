@@ -11,9 +11,8 @@ state=
 	state_category = state_level_1
 	
 	history = {
-		owner = UAR
+		owner = EGY
 		add_core_of = EGY
-		add_core_of = UAR
 		buildings = {
 			infrastructure = 4
 			air_base = 1

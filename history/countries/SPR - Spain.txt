@@ -1,15 +1,37 @@
 ﻿capital = 41
 
 set_politics = {	
-	ruling_party = communist
+	ruling_party = liberal_socialist
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	communist = 100
+	communist = 2
+	orthodox_socialist = 7
+	liberal_socialist = 44
+	reformist_labourist = 4
+	social_liberal = 6
+	classical_liberal = 4
+	liberal_conservative = 25
+	national_conservative = 2
+	populist_nationalist = 4
+	third_positionist = 2
 }
 
 add_ideas = {
 }
+
+recruit_character = SPR_jose_luis_centella
+recruit_character = SPR_alberto_garzon
+recruit_character = SPR_pablo_iglesias_turrion
+recruit_character = SPR_cristina_narbona
+recruit_character = SPR_eduard_punset
+recruit_character = SPR_edmundo_bal
+recruit_character = SPR_mariano_rajoy
+recruit_character = SPR_santiago_abascal
+recruit_character = SPR_albert_rivera
+recruit_character = SPR_carlos_huge_de_borbon_parma
+recruit_character = SPR_luis_pio_moa_rodriguez
+recruit_character = SPR_antonio_perez_bencomo
