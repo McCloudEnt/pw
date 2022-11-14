@@ -409,6 +409,7 @@ ideologies = {
                         getulist = {}
                         gaddafist = {}
                         milosevicist = {}
+                        arab_islamist = {}
                         san_min_zhuyi_third_positionist = {}
 		}
 		

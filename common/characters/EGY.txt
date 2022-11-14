@@ -1,0 +1,158 @@
+characters = {
+	EGY_omar_al_bashir = {
+		name = "Omar al-Bashir"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/EGY/EGY_Omar_Al_Bashir.dds"
+			}
+		}
+		country_leader = {
+			desc = OMAR_AL_BASHIR_DESC
+			ideology = nimeiryist
+			expire = "2065.1.1"
+		}
+	}
+	EGY_hosni_mubarak = {
+		name = "Hosni Mubarak"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/EGY/EGY_Hosni_Mubarak.dds"
+			}
+		}
+		country_leader = {
+			desc = HOSNI_MUBARAK_DESC
+			ideology = nasserist
+			expire = "2065.1.1"
+		}
+	}
+	EGY_ahmed_bahaa_el_din_shaaban = {
+		name = "Ahmed Bahaa El-Din Shaaban"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/EGY/EGY_Ahmed_Bahaa_El_Din_Shaaban.dds"
+			}
+		}
+		country_leader = {
+			desc = AHMED_BAHAA_EL_DIN_SHAABAN_DESC
+			ideology = arab_socialist
+			expire = "2065.1.1"
+		}
+	}
+	EGY_riad_al_turk = {
+		name = "Riad al-Turk"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/EGY/EGY_Riad_Al_Turk.dds"
+			}
+		}
+		country_leader = {
+			desc = RIAD_AL_TURK_DESC
+			ideology = eda_vision
+			expire = "2065.1.1"
+		}
+	}
+	EGY_adil_abdel_aati = {
+		name = "Adil Abdel Aati"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/EGY/EGY_Adil_Abdel_Aati.dds"
+			}
+		}
+		country_leader = {
+			desc = ADIL_ABDEL_AATI_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	EGY_raymond_lakah = {
+		name = "Raymond Lakah"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/EGY/EGY_Raymond_Lakah.dds"
+			}
+		}
+		country_leader = {
+			desc = RAYMOND_LAKAH_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	EGY_ali_tarhouni = {
+		name = "Ali Tarhouni"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/EGY/EGY_Ali_Tarhouni.dds"
+			}
+		}
+		country_leader = {
+			desc = ALI_TARHOUNI_DESC
+			ideology = islamic_liberal
+			expire = "2065.1.1"
+		}
+	}
+	EGY_mohamed_sowan = {
+		name = "Mohamed Sowan"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/EGY/EGY_Mohamed_Sowan.dds"
+			}
+		}
+		country_leader = {
+			desc = MOHAMED_SOWAN_DESC
+			ideology = islamic_democracy
+			expire = "2065.1.1"
+		}
+	}
+	EGY_rifaat_al_assad = {
+		name = "Rifaat al-Assad"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/EGY/EGY_Rifaat_Al_Assad.dds"
+			}
+		}
+		country_leader = {
+			desc = RIFAAT_AL_ASSAD_DESC
+			ideology = baathist
+			expire = "2065.1.1"
+		}
+	}
+	EGY_mohamed_abdelaziz = {
+		name = "Mohamed Abdelaziz"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/EGY/EGY_Mohamed_Abdelaziz.dds"
+			}
+		}
+		country_leader = {
+			desc = MOHAMED_ABDELAZIZ_DESC
+			ideology = regency
+			expire = "2065.1.1"
+		}
+	}
+	EGY_muammar_al_gaddafi = {
+		name = "Muammar al-Gaddafi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/EGY/EGY_Muammar_Al_Gaddafi.dds"
+			}
+		}
+		country_leader = {
+			desc = MUAMMAR_AL_GADDAFI_DESC
+			ideology = gaddafist
+			expire = "2065.1.1"
+		}
+	}
+	EGY_shura_council = {
+		name = "Shura Council"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/EGY/EGY_Shura_Council.dds"
+			}
+		}
+		country_leader = {
+			desc = SHURA_COUNCIL_DESC
+			ideology = islamist
+			expire = "2065.1.1"
+		}
+	}
+}

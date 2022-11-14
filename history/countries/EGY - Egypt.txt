@@ -1,12 +1,31 @@
 ﻿capital = 446
 
 set_politics = {	
-	ruling_party = communist
+	ruling_party = orthodox_socialist
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
+set_cosmetic_tag = FAR
+
 set_popularities = {
-    communist = 100
+	communist = 8
+	orthodox_socialist = 60
+	liberal_socialist = 2
+	populist_nationalist = 10
+	third_positionist = 20
 }
+
+recruit_character = EGY_omar_al_bashir
+recruit_character = EGY_hosni_mubarak
+recruit_character = EGY_ahmed_bahaa_el_din_shaaban
+recruit_character = EGY_riad_al_turk
+recruit_character = EGY_adil_abdel_aati
+recruit_character = EGY_raymond_lakah
+recruit_character = EGY_ali_tarhouni
+recruit_character = EGY_mohamed_sowan
+recruit_character = EGY_rifaat_al_assad
+recruit_character = EGY_mohamed_abdelaziz
+recruit_character = EGY_muammar_al_gaddafi
+recruit_character = EGY_shura_council

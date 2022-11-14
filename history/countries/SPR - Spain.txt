@@ -32,6 +32,6 @@ recruit_character = SPR_edmundo_bal
 recruit_character = SPR_mariano_rajoy
 recruit_character = SPR_santiago_abascal
 recruit_character = SPR_albert_rivera
-recruit_character = SPR_carlos_huge_de_borbon_parma
+recruit_character = SPR_carlos_hugo_de_borbon_parma
 recruit_character = SPR_luis_pio_moa_rodriguez
 recruit_character = SPR_antonio_perez_bencomo
