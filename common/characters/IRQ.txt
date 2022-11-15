@@ -1,0 +1,158 @@
+characters = {
+	IRQ_hamid_majid_mousa = {
+		name = "Hamid Majid Mousa"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRQ/IRQ_Hamid_Majid_Mousa.dds"
+			}
+		}
+		country_leader = {
+			desc = HAMID_MAJID_MOUSA_DESC
+			ideology = leninist
+			expire = "2065.1.1"
+		}
+	}
+	IRQ_abla_abu_elbah = {
+		name = "Abla Abu Elbah"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRQ/IRQ_Abla_Abu_Elbah.dds"
+			}
+		}
+		country_leader = {
+			desc = ABLA_ABU_ELBAH_DESC
+			ideology = national_communist
+			expire = "2065.1.1"
+		}
+	}
+	IRQ_nayef_hawatmeh = {
+		name = "Nayef Hawatmeh"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRQ/IRQ_Nayef_Hawatmeh.dds"
+			}
+		}
+		country_leader = {
+			desc = NAYEF_HAWATMEH_DESC
+			ideology = arab_socialist
+			expire = "2065.1.1"
+		}
+	}
+	IRQ_kais_zayadin = {
+		name = "Kais Zayadin"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRQ/IRQ_Kais_Zayadin.dds"
+			}
+		}
+		country_leader = {
+			desc = KAIS_ZAYADIN_DESC
+			ideology = neo_reformist
+			expire = "2065.1.1"
+		}
+	}
+	IRQ_rula_alhroob = {
+		name = "Rula Alhroob"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRQ/IRQ_Rula_Alhroob.dds"
+			}
+		}
+		country_leader = {
+			desc = RULA_ALHROOB_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	IRQ_shaswar_abdulwahid = {
+		name = "Shaswar Abdulwahid"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRQ/IRQ_Shaswar_Abdulwahid.dds"
+			}
+		}
+		country_leader = {
+			desc = SHASWAR_ABDULWAHID_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	IRQ_hani_al_mulki = {
+		name = "Hani al-Mulki"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRQ/IRQ_Hani_Al_Mulki.dds"
+			}
+		}
+		country_leader = {
+			desc = HANI_AL_MULKI_DESC
+			ideology = fiscal_conservative
+			expire = "2065.1.1"
+		}
+	}
+	IRQ_osama_al_nujaifi = {
+		name = "Osama al-Nujaifi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRQ/IRQ_Osama_Al_Nujaifi.dds"
+			}
+		}
+		country_leader = {
+			desc = OSAMA_AL_NUJAIFI_DESC
+			ideology = islamic_democracy
+			expire = "2065.1.1"
+		}
+	}
+	IRQ_saddam_hussein = {
+		name = "Saddam Hussein"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRQ/IRQ_Saddam_Hussein.dds"
+			}
+		}
+		country_leader = {
+			desc = SADDAM_HUSSEIN_DESC
+			ideology = baathist
+			expire = "2065.1.1"
+		}
+	}
+	IRQ_hashemite_co_monarchs = {
+		name = "Hashemite Co-Monarchs"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRQ/IRQ_Hashemite_Co_Monarchs.dds"
+			}
+		}
+		country_leader = {
+			desc = HASHEMITE_CO_MONARCHS_DESC
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	IRQ_izzat_ibrahim_al_douri = {
+		name = "Izzat Ibrahim al-Douri"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRQ/IRQ_Izzat_Ibrahim_Al_Douri.dds"
+			}
+		}
+		country_leader = {
+			desc = IZZAT_IBRAHIM_AL_DOURI_DESC
+			ideology = arab_islamist
+			expire = "2065.1.1"
+		}
+	}
+	IRQ_humam_hamoudi = {
+		name = "Humam Hamoudi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/IRQ/IRQ_Humam_Hamoudi.dds"
+			}
+		}
+		country_leader = {
+			desc = HUMAM_HAMOUDI_DESC
+			ideology = islamist
+			expire = "2065.1.1"
+		}
+	}
+}

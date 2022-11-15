@@ -1,15 +1,35 @@
 ﻿capital = 291
 
 set_politics = {	
-	ruling_party = communist
+	ruling_party = liberal_conservative
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	communist = 100
+	reformist_labourist = 5
+	social_liberal = 7
+	classical_liberal = 6
+	liberal_conservative = 56
+	national_conservative = 2
+	populist_nationalist = 24
 }
+
+set_cosmetic_tag = ARF
 
 add_ideas = {
 }
+
+recruit_character = IRQ_hamid_majid_mousa
+recruit_character = IRQ_abla_abu_elbah
+recruit_character = IRQ_nayef_hawatmeh
+recruit_character = IRQ_kais_zayadin
+recruit_character = IRQ_rula_alhroob
+recruit_character = IRQ_shaswar_abdulwahid
+recruit_character = IRQ_hani_al_mulki
+recruit_character = IRQ_osama_al_nujaifi
+recruit_character = IRQ_saddam_hussein
+recruit_character = IRQ_hashemite_co_monarchs
+recruit_character = IRQ_izzat_ibrahim_al_douri
+recruit_character = IRQ_humam_hamoudi
