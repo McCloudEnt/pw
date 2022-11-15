@@ -792,7 +792,7 @@
  EGY_IND_reformist_labourist_party_long:0 "Egyptian Social Democratic Party"
  EGY_IND_social_liberal_party:0 "HML"
  EGY_IND_social_liberal_party_long:0 "Liberal Egyptian Party"
- #classical_liberal is unchanged
+ #classical_liberal party and leader are unchanged
  EGY_IND_liberal_conservative_party:0 "HWM"
  EGY_IND_liberal_conservative_party_long:0 "Egyptian Delegation Party"
  EGY_IND_national_conservative_party:0 "HBT"
@@ -807,33 +807,34 @@
  EGY_IND_fascist_party_long:0 "Party of The Light"
  
  #IRQ
- IRQ_communist_party:0 ""
- IRQ_communist_party_long:0 ""
- IRQ_orthodox_socialist_party:0 ""
- IRQ_orthodox_socialist_party_long:0 ""
- IRQ_liberal_socialist_party:0 ""
- IRQ_liberal_socialist_party_long:0 ""
- IRQ_reformist_labourist_party:0 ""
- IRQ_reformist_labourist_party_long:0 ""
- IRQ_social_liberal_party:0 ""
- IRQ_social_liberal_party_long:0 ""
- IRQ_classical_liberal_party:0 ""
- IRQ_classical_liberal_party_long:0 ""
- IRQ_liberal_conservative_party:0 ""
- IRQ_liberal_conservative_party_long:0 ""
- IRQ_national_conservative_party:0 ""
- IRQ_national_conservative_party_long:0 ""
- IRQ_populist_nationalist_party:0 ""
- IRQ_populist_nationalist_party_long:0 ""
- IRQ_monarchist_party:0 ""
- IRQ_monarchist_party_long:0 ""
- IRQ_third_positionist_party:0 ""
- IRQ_third_positionist_party_long:0 ""
- IRQ_fascist_party:0 ""
- IRQ_fascist_party_long:0 ""
+ IRQ_communist_party:0 "HSA" #IRQ
+ IRQ_communist_party_long:0 "Arab Communist Party"
+ IRQ_orthodox_socialist_party:0 "HSD" #JOR
+ IRQ_orthodox_socialist_party_long:0 "Democratic People's Party"
+ IRQ_liberal_socialist_party:0 "HWSD" #JOR
+ IRQ_liberal_socialist_party_long:0 "Democratic Popular Unity Party"
+ IRQ_reformist_labourist_party:0 "HWI" #JOR
+ IRQ_reformist_labourist_party_long:0 "National Socialist Party"
+ IRQ_social_liberal_party:0 "HTM" #JOR
+ IRQ_social_liberal_party_long:0 "Civil Alliance Party"
+ IRQ_classical_liberal_party:0 "HJJ" #IRQ
+ IRQ_classical_liberal_party_long:0 "New Generation Movement"
+ IRQ_liberal_conservative_party:0 "HMW" #JOR
+ IRQ_liberal_conservative_party_long:0 "National Congress Party"
+ IRQ_national_conservative_party:0 "IMI" #IRQ
+ IRQ_national_conservative_party_long:0 "Uniters for Reform Coalition"
+ IRQ_populist_nationalist_party:0 "HBAI" #IRQ
+ IRQ_populist_nationalist_party_long:0 "Arab Socialist Renaissance Party"
+ IRQ_monarchist_party:0 "Hashemites" #IRQ - JOR
+ IRQ_monarchist_party_long:0 "House of Hashim"
+ IRQ_third_positionist_party:0 "HSUY" #IRQ
+ IRQ_third_positionist_party_long:0 "Left Worker-Communist Party"
+ IRQ_fascist_party:0 "MAI" #IRQ
+ IRQ_fascist_party_long:0 "Islamic Supreme Council"
  
- IRQ_IND_communist_party:0 ""
- IRQ_IND_communist_party_long:0 ""
+ IRQ_IND_communist_party:0 "HSI"
+ IRQ_IND_communist_party_long:0 "Iraqi Communist Party"
+ #communist party leader is unchanged
  IRQ_IND_orthodox_socialist_party:0 ""
  IRQ_IND_orthodox_socialist_party_long:0 ""
  IRQ_IND_liberal_socialist_party:0 ""
@@ -842,17 +843,37 @@
  IRQ_IND_reformist_labourist_party_long:0 ""
  IRQ_IND_social_liberal_party:0 ""
  IRQ_IND_social_liberal_party_long:0 ""
- IRQ_IND_classical_liberal_party:0 ""
- IRQ_IND_classical_liberal_party_long:0 ""
+ #classical_liberal party and leader are unchanged
  IRQ_IND_liberal_conservative_party:0 ""
  IRQ_IND_liberal_conservative_party_long:0 ""
- IRQ_IND_national_conservative_party:0 ""
- IRQ_IND_national_conservative_party_long:0 ""
- IRQ_IND_populist_nationalist_party:0 ""
- IRQ_IND_populist_nationalist_party_long:0 ""
- IRQ_IND_monarchist_party:0 ""
- IRQ_IND_monarchist_party_long:0 ""
- IRQ_IND_third_positionist_party:0 ""
- IRQ_IND_third_positionist_party_long:0 ""
- IRQ_IND_fascist_party:0 ""
- IRQ_IND_fascist_party_long:0 ""
+ #national_conservative party and leader are unchanged
+ #populist_nationalist party and leader are unchanged
+ #monarchist party is unchanged
+ #third_positionist party and leader are unchanged
+ #fascist party and leader are unchanged
+ 
+ #ISR
+ ISR_communist_party:0 ""
+ ISR_communist_party_long:0 ""
+ ISR_orthodox_socialist_party:0 ""
+ ISR_orthodox_socialist_party_long:0 ""
+ ISR_liberal_socialist_party:0 ""
+ ISR_liberal_socialist_party_long:0 ""
+ ISR_reformist_labourist_party:0 ""
+ ISR_reformist_labourist_party_long:0 ""
+ ISR_social_liberal_party:0 ""
+ ISR_social_liberal_party_long:0 ""
+ ISR_classical_liberal_party:0 ""
+ ISR_classical_liberal_party_long:0 ""
+ ISR_liberal_conservative_party:0 ""
+ ISR_liberal_conservative_party_long:0 ""
+ ISR_national_conservative_party:0 ""
+ ISR_national_conservative_party_long:0 ""
+ ISR_populist_nationalist_party:0 ""
+ ISR_populist_nationalist_party_long:0 ""
+ ISR_monarchist_party:0 ""
+ ISR_monarchist_party_long:0 ""
+ ISR_third_positionist_party:0 ""
+ ISR_third_positionist_party_long:0 ""
+ ISR_fascist_party:0 ""
+ ISR_fascist_party_long:0 ""
