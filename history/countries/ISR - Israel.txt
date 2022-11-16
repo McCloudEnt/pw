@@ -8,5 +8,22 @@ set_politics = {
 }
 
 set_popularities = {
-    communist = 100
+	communist = 35
+	orthodox_socialist = 25
+	liberal_socialist = 15
+	social_liberal = 17
+	liberal_conservative = 8
 }
+
+recruit_character = ISR_ayman_odeh
+recruit_character = ISR_haim_oron
+recruit_character = ISR_tamar_zandberg
+recruit_character = ISR_ehud_barak
+recruit_character = ISR_benny_gantz
+recruit_character = ISR_yair_lapid
+recruit_character = ISR_avigdor_lieberman
+recruit_character = ISR_aryeh_deri
+recruit_character = ISR_benjamin_netanyahu
+recruit_character = ISR_israeli_dodecarchy
+recruit_character = ISR_michael_melchior
+recruit_character = ISR_ofir_sofer

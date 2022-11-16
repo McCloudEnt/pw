@@ -1,0 +1,158 @@
+characters = {
+	ISR_ayman_odeh = {
+		name = "Ayman Odeh"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ISR/ISR_Ayman_Odeh.dds"
+			}
+		}
+		country_leader = {
+			desc = AYMAN_ODEH_DESC
+			ideology = non_zionist_communist
+			expire = "2065.1.1"
+		}
+	}
+	ISR_haim_oron = {
+		name = "Haim Oron"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ISR/ISR_Haim_Oron.dds"
+			}
+		}
+		country_leader = {
+			desc = HAIM_ORON_DESC
+			ideology = binational_communist
+			expire = "2065.1.1"
+		}
+	}
+	ISR_tamar_zandberg = {
+		name = "Tamar Zandberg"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ISR/ISR_Tamar_Zandberg.dds"
+			}
+		}
+		country_leader = {
+			desc = TAMAR_ZANDBERG_DESC
+			ideology = binational_marxist
+			expire = "2065.1.1"
+		}
+	}
+	ISR_ehud_barak = {
+		name = "Ehud Barak"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ISR/ISR_Ehud_Barak.dds"
+			}
+		}
+		country_leader = {
+			desc = EHUD_BARAK_DESC
+			ideology = labour_zionist
+			expire = "2065.1.1"
+		}
+	}
+	ISR_benny_gantz = {
+		name = "Benny Gantz"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ISR/ISR_Benny_Gantz.dds"
+			}
+		}
+		country_leader = {
+			desc = BENNY_GANTZ_DESC
+			ideology = binational_liberal
+			expire = "2065.1.1"
+		}
+	}
+	ISR_yair_lapid = {
+		name = "Yair Lapid"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ISR/ISR_Yair_Lapid.dds"
+			}
+		}
+		country_leader = {
+			desc = YAIR_LAPID_DESC
+			ideology = liberal_zionist
+			expire = "2065.1.1"
+		}
+	}
+	ISR_avigdor_lieberman = {
+		name = "Avigdor Lieberman"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ISR/ISR_Avigdor_Lieberman.dds"
+			}
+		}
+		country_leader = {
+			desc = AVIGDOR_LIEBERMAN_DESC
+			ideology = binational_centrist
+			expire = "2065.1.1"
+		}
+	}
+	ISR_aryeh_deri = {
+		name = "Aryeh Deri"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ISR/ISR_Aryeh_Deri.dds"
+			}
+		}
+		country_leader = {
+			desc = ARYEH_DERI_DESC
+			ideology = clerical_zionist
+			expire = "2065.1.1"
+		}
+	}
+	ISR_benjamin_netanyahu = {
+		name = "Benjamin Netanyahu"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ISR/ISR_Benjamin_Netanyahu.dds"
+			}
+		}
+		country_leader = {
+			desc = BENJAMIN_NETANYAHU_DESC
+			ideology = classical_zionist
+			expire = "2065.1.1"
+		}
+	}
+	ISR_israeli_dodecarchy = {
+		name = "Israeli Dodecarchy"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ISR/ISR_Israeli_Dodecarchy.dds"
+			}
+		}
+		country_leader = {
+			desc = HASHEMITE_CO_MONARCHS_DESC
+			ideology = dodecarchy
+			expire = "2065.1.1"
+		}
+	}
+	ISR_michael_melchior = {
+		name = "Michael Melchior"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ISR/ISR_Michael_Melchior.dds"
+			}
+		}
+		country_leader = {
+			desc = MICHAEL_MELCHIOR_DESC
+			ideology = neo_zionist
+			expire = "2065.1.1"
+		}
+	}
+	ISR_ofir_sofer = {
+		name = "Ofir Sofer"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ISR/ISR_Ofir_Sofer.dds"
+			}
+		}
+		country_leader = {
+			desc = OFIR_SOFER_DESC
+			ideology = revisionist_zionist
+			expire = "2065.1.1"
+		}
+	}
+}

@@ -10,6 +10,7 @@ ideologies = {
                         japanese_communist = {}
                         italian_communist = {}
                         nimeiryist = {}
+                        non_zionist_communist = {}
                         san_min_zhuyi_communist = {}
 		}
 		
@@ -49,6 +50,7 @@ ideologies = {
                         anarcho_syndicalist = {}
                         sino_communist = {}
                         nasserist = {}
+                        binational_communist = {}
                         san_min_zhuyi_orthodox_socialist = {}
 		}
 		
@@ -91,6 +93,7 @@ ideologies = {
                         perestroikist = {}
                         agrarian_socialist = {}
                         neo_eda_vision = {}
+                        binational_marxist = {}
                         san_min_zhuyi_liberal_socialist = {}
 		}
 		
@@ -130,6 +133,8 @@ ideologies = {
                         humanist_socialist = {}
                         neo_reformist = {}
                         eda_vision = {}
+                        labour_zionist = {}
+                        binational_progressivism = {}
                         san_min_zhuyi_reformist_labourist = {}
 		}
 		
@@ -170,6 +175,8 @@ ideologies = {
                         christian_liberal = {}
                         islamo_progressive = {}
                         blairite = {}
+                        social_zionist = {}
+                        binational_liberal = {}
                         san_min_zhuyi_social_liberal = {}
 		}
 		
@@ -209,6 +216,8 @@ ideologies = {
                         venizelist = {}
                         market_liberal = {}
                         nordic_agrarian = {}
+                        liberal_zionist = {}
+                        binational_democracy = {}
                         san_min_zhuyi_classical_liberal = {}
 		}
 		
@@ -249,6 +258,8 @@ ideologies = {
                         classical_republican = {}
                         fiscal_conservative = {}
                         islamic_liberal = {}
+                        conservative_zionist = {}
+                        binational_centrist = {}
                         san_min_zhuyi_liberal_conservative = {}
 		}
 		
@@ -287,6 +298,8 @@ ideologies = {
                         harperist = {}
                         social_conservative = {}
                         islamic_democracy = {}
+                        clerical_zionist = {}
+                        duo_clericalist = {}
                         san_min_zhuyi_national_conservative = {}
 		}
 		
@@ -326,6 +339,8 @@ ideologies = {
                         reactionary = {}
                         social_credit = {}
                         baathist = {}
+                        classical_zionist = {}
+                        binationalist = {}
                         san_min_zhuyi_populist_nationalist = {}
 		}
 		
@@ -365,6 +380,7 @@ ideologies = {
                         letatism = {}
                         emergency_monarch = {}
                         lord_chancellory = {}
+                        dodecarchy = {}
                         governor_general = {}
 		}
 		
@@ -410,6 +426,7 @@ ideologies = {
                         gaddafist = {}
                         milosevicist = {}
                         arab_islamist = {}
+                        neo_zionist = {}
                         san_min_zhuyi_third_positionist = {}
 		}
 		
@@ -454,6 +471,7 @@ ideologies = {
                         ilminism = {}
                         manchu_imperialism = {}
                         islamist = {}
+                        revisionist_zionist = {}
                         san_min_zhuyi_fascist = {}
 		}
 		
