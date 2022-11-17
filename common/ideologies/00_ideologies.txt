@@ -51,6 +51,8 @@ ideologies = {
                         sino_communist = {}
                         nasserist = {}
                         binational_communist = {}
+                        orthodox_leninist = {}
+                        christian_communist = {}
                         san_min_zhuyi_orthodox_socialist = {}
 		}
 		
@@ -93,7 +95,6 @@ ideologies = {
                         perestroikist = {}
                         agrarian_socialist = {}
                         neo_eda_vision = {}
-                        binational_marxist = {}
                         san_min_zhuyi_liberal_socialist = {}
 		}
 		
@@ -134,7 +135,7 @@ ideologies = {
                         neo_reformist = {}
                         eda_vision = {}
                         labour_zionist = {}
-                        binational_progressivism = {}
+                        binational_progressive = {}
                         san_min_zhuyi_reformist_labourist = {}
 		}
 		
@@ -472,6 +473,7 @@ ideologies = {
                         manchu_imperialism = {}
                         islamist = {}
                         revisionist_zionist = {}
+                        austrofascist = {}
                         san_min_zhuyi_fascist = {}
 		}
 		

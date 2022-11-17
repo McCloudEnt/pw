@@ -34,7 +34,7 @@ characters = {
 		}
 		country_leader = {
 			desc = TAMAR_ZANDBERG_DESC
-			ideology = binational_marxist
+			ideology = austro_marxist
 			expire = "2065.1.1"
 		}
 	}
@@ -124,7 +124,7 @@ characters = {
 			}
 		}
 		country_leader = {
-			desc = HASHEMITE_CO_MONARCHS_DESC
+			desc = ISRAELI_DODECARCHY_DESC
 			ideology = dodecarchy
 			expire = "2065.1.1"
 		}
