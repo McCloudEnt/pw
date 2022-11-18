@@ -1,15 +1,31 @@
-﻿capital = 671
+﻿capital = 783
 
 set_politics = {	
-	ruling_party = communist
+	ruling_party = fascist
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	communist = 100
+	national_conservative = 3
+	populist_nationalist = 25
+	third_positionist = 5
+	fascist = 67
 }
 
 add_ideas = {
 }
+
+recruit_character = VIN_nong_duc_manh
+recruit_character = VIN_vi_duc_hoi
+recruit_character = VIN_tran_quoc_hien
+recruit_character = VIN_nguyen_quoc_quan
+recruit_character = VIN_hoang_tu_duy
+recruit_character = VIN_do_hoang_diem
+recruit_character = VIN_thadeus_nguyen_van_ly
+recruit_character = VIN_nguyen_si_binh
+recruit_character = VIN_ngo_dinh_le_quyen
+recruit_character = VIN_emperor_bao_thang
+recruit_character = VIN_cao_quang_anh
+recruit_character = VIN_tran_thien_khiem

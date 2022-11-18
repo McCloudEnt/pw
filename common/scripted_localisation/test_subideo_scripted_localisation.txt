@@ -38,6 +38,10 @@ defined_text = {
 		localization_key = non_zionist_communist
 	}
 	text = {
+		trigger = { has_country_leader_ideology = ho_chi_minh_thought }
+		localization_key = ho_chi_minh_thought
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_communist }
 		localization_key = san_min_zhuyi_communist
 	}
@@ -85,6 +89,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = christian_communist }
 		localization_key = christian_communist
+	}
+	text = {
+		trigger = { has_country_leader_ideology = buddhist_socialist }
+		localization_key = buddhist_socialist
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_orthodox_socialist }
@@ -378,6 +386,10 @@ defined_text = {
 		localization_key = binationalist
 	}
 	text = {
+		trigger = { has_country_leader_ideology = can_lao_ideology }
+		localization_key = can_lao_ideology
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_populist_nationalist }
 		localization_key = san_min_zhuyi_populist_nationalist
 	}
@@ -594,6 +606,10 @@ defined_text = {
 		localization_key = non_zionist_communist_desc
 	}
 	text = {
+		trigger = { has_country_leader_ideology = ho_chi_minh_thought }
+		localization_key = ho_chi_minh_thought_desc
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_communist }
 		localization_key = san_min_zhuyi_communist_desc
 	}
@@ -641,6 +657,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = christian_communist }
 		localization_key = christian_communist_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = buddhist_socialist }
+		localization_key = buddhist_socialist_desc
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_orthodox_socialist }
@@ -932,6 +952,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = binationalist }
 		localization_key = binationalist_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = can_lao_ideology }
+		localization_key = can_lao_ideology_desc
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_populist_nationalist }

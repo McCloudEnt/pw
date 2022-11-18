@@ -1,15 +1,31 @@
 ﻿capital = 4
 
 set_politics = {	
-	ruling_party = communist
+	ruling_party = liberal_socialist
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	communist = 100
+	communist = 25
+	orthodox_socialist = 15
+	liberal_socialist = 42
+	reformist_labourist = 18
 }
 
 add_ideas = {
 }
+
+recruit_character = AUS_mirko_messner
+recruit_character = AUS_sebastian_kurz
+recruit_character = AUS_alexander_van_der_bellen
+recruit_character = AUS_christian_kern
+recruit_character = AUS_angelika_mlinar
+recruit_character = AUS_alexander_zach
+recruit_character = AUS_michael_spindelegger
+recruit_character = AUS_heinz_christian_strache
+recruit_character = AUS_norbert_hofer
+recruit_character = AUS_ernst_fuchs
+recruit_character = AUS_gottfried_kussel
+recruit_character = AUS_gerhard_dorfler

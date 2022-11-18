@@ -1,0 +1,158 @@
+characters = {
+	VIN_nong_duc_manh = {
+		name = "Nong Duc Manh"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/VIN/VIN_Nong_Duc_Manh.dds"
+			}
+		}
+		country_leader = {
+			desc = NONG_DUC_MANH_DESC
+			ideology = ho_chi_minh_thought
+			expire = "2065.1.1"
+		}
+	}
+	VIN_vi_duc_hoi = {
+		name = "Vi Duc Hoi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/VIN/VIN_Vi_Duc_Hoi.dds"
+			}
+		}
+		country_leader = {
+			desc = VI_DUC_HOI_DESC
+			ideology = left_communist
+			expire = "2065.1.1"
+		}
+	}
+	VIN_tran_quoc_hien = {
+		name = "Tran Quoc Hien"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/VIN/VIN_Tran_Quoc_Hien.dds"
+			}
+		}
+		country_leader = {
+			desc = TRAN_QUOC_HIEN_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	VIN_nguyen_quoc_quan = {
+		name = "Nguyen Quoc Quan"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/VIN/VIN_Nguyen_Quoc_Quan.dds"
+			}
+		}
+		country_leader = {
+			desc = NGUYEN_QUOC_QUAN_DESC
+			ideology = neo_reformist
+			expire = "2065.1.1"
+		}
+	}
+	VIN_hoang_tu_duy = {
+		name = "Hoang Tu Duy"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/VIN/VIN_Hoang_Tu_Duy.dds"
+			}
+		}
+		country_leader = {
+			desc = HOANG_TU_DUY_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	VIN_do_hoang_diem = {
+		name = "Do Hoang Diem"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/VIN/VIN_Do_Hoang_Diem.dds"
+			}
+		}
+		country_leader = {
+			desc = DO_HOANG_DIEM_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	VIN_thadeus_nguyen_van_ly = {
+		name = "Thadeus Nguyen Van Ly"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/VIN/VIN_Thadeus_Nguyen_Van_Ly.dds"
+			}
+		}
+		country_leader = {
+			desc = THADEUS_NGUYEN_VAN_LY_DESC
+			ideology = christian_democracy
+			expire = "2065.1.1"
+		}
+	}
+	VIN_nguyen_si_binh = {
+		name = "Nguyen Si Binh"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/VIN/VIN_Nguyen_Si_Binh.dds"
+			}
+		}
+		country_leader = {
+			desc = NGUYEN_SI_BINH_DESC
+			ideology = christian_right
+			expire = "2065.1.1"
+		}
+	}
+	VIN_ngo_dinh_le_quyen = {
+		name = "Ngo Dinh Le Quyen"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/VIN/VIN_Ngo_Dinh_Le_Quyen.dds"
+			}
+		}
+		country_leader = {
+			desc = NGO_DINH_LE_QUYEN_DESC
+			ideology = can_lao_ideology
+			expire = "2065.1.1"
+		}
+	}
+	VIN_emperor_bao_thang = {
+		name = "Emperor Bao Thang"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/VIN/VIN_Bao_Thang.dds"
+			}
+		}
+		country_leader = {
+			desc = EMPEROR_BAO_THANG_DESC
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	VIN_cao_quang_anh = {
+		name = "Cao Quang Anh"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/VIN/VIN_Cao_Quang_Anh.dds"
+			}
+		}
+		country_leader = {
+			desc = CAO_QUANG_ANH_DESC
+			ideology = neofascist
+			expire = "2065.1.1"
+		}
+	}
+	VIN_tran_thien_khiem = {
+		name = "Tran Thien Khiem"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/VIN/VIN_Tran_Thien_Khiem.dds"
+			}
+		}
+		country_leader = {
+			desc = TRAN_THIEN_KHIEM_DESC
+			ideology = clerical_fascist
+			expire = "2065.1.1"
+		}
+	}
+}

@@ -1,0 +1,158 @@
+characters = {
+	LAO_choummaly_sayasone = {
+		name = "Choummaly Sayasone"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LAO/LAO_Choummaly_Sayasone.dds"
+			}
+		}
+		country_leader = {
+			desc = CHOUMMALY_SAYASONE_DESC
+			ideology = stalinist
+			expire = "2065.1.1"
+		}
+	}
+	LAO_bouasone_bouphavanh = {
+		name = "Bouasone Bouphavanh"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LAO/LAO_Bouasone_Bouphavanh.dds"
+			}
+		}
+		country_leader = {
+			desc = BOUASONE_BOUPHAVANH_DESC
+			ideology = sino_communist
+			expire = "2065.1.1"
+		}
+	}
+	LAO_bounnhang_vorachith = {
+		name = "Bounnhang Vorachith"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LAO/LAO_Bounnhang_Vorachith.dds"
+			}
+		}
+		country_leader = {
+			desc = BOUNNHANG_VORACHITH_DESC
+			ideology = agrarian_socialist
+			expire = "2065.1.1"
+		}
+	}
+	LAO_sombath_somphone = {
+		name = "Sombath Somphone"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LAO/LAO_Sombath_Somphone.dds"
+			}
+		}
+		country_leader = {
+			desc = SOMBATH_SOMPHONE_DESC
+			ideology = social_corporatist
+			expire = "2065.1.1"
+		}
+	}
+	LAO_somnuk_phongsouvanh = {
+		name = "Somnuk Phongsouvanh"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LAO/LAO_Somnuk_Phongsouvanh.dds"
+			}
+		}
+		country_leader = {
+			desc = SOMNUK_PHONGSOUVANH_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	LAO_vang_wangyee = {
+		name = "Vang Wangyee"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LAO/LAO_Vang_Wangyee.dds"
+			}
+		}
+		country_leader = {
+			desc = VANG_WANGYEE_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	LAO_khamphoui_sisavatdy = {
+		name = "Khamphoui Sisavatdy"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LAO/LAO_Khamphoui_Sisavatdy.dds"
+			}
+		}
+		country_leader = {
+			desc = KHAMPHOUI_SISAVATDY_DESC
+			ideology = progressive_conservative
+			expire = "2065.1.1"
+		}
+	}
+	LAO_vang_pao = {
+		name = "Vang Pao"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LAO/LAO_Vang_Pao.dds"
+			}
+		}
+		country_leader = {
+			desc = VANG_PAO_DESC
+			ideology = neoconservative
+			expire = "2065.1.1"
+		}
+	}
+	LAO_kong_le = {
+		name = "Kong Le"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LAO/LAO_Kong_Le.dds"
+			}
+		}
+		country_leader = {
+			desc = KONG_LE_DESC
+			ideology = national_liberal
+			expire = "2065.1.1"
+		}
+	}
+	LAO_king_soulivong_savang = {
+		name = "King Soulivong Savang"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LAO/LAO_Soulivong_Savang.dds"
+			}
+		}
+		country_leader = {
+			desc = KING_SOULIVONG_SAVANG_DESC
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	LAO_somsavat_lengsavad = {
+		name = "Somsavat Lengsavad"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LAO/LAO_Somsavat_Lengsavad.dds"
+			}
+		}
+		country_leader = {
+			desc = SOMSAVAT_LENGSAVAD_DESC
+			ideology = neo_maoist
+			expire = "2065.1.1"
+		}
+	}
+	LAO_vang_chai = {
+		name = "Vang Chai"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LAO/LAO_Vang_Chai.dds"
+			}
+		}
+		country_leader = {
+			desc = VANG_CHAI_DESC
+			ideology = ultranationalist
+			expire = "2065.1.1"
+		}
+	}
+}

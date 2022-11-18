@@ -11,6 +11,7 @@ ideologies = {
                         italian_communist = {}
                         nimeiryist = {}
                         non_zionist_communist = {}
+                        ho_chi_minh_thought = {}
                         san_min_zhuyi_communist = {}
 		}
 		
@@ -53,6 +54,7 @@ ideologies = {
                         binational_communist = {}
                         orthodox_leninist = {}
                         christian_communist = {}
+                        buddhist_socialist = {}
                         san_min_zhuyi_orthodox_socialist = {}
 		}
 		
@@ -342,6 +344,7 @@ ideologies = {
                         baathist = {}
                         classical_zionist = {}
                         binationalist = {}
+                        can_lao_ideology = {}
                         san_min_zhuyi_populist_nationalist = {}
 		}
 		

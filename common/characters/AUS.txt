@@ -1,0 +1,158 @@
+characters = {
+	AUS_mirko_messner = {
+		name = "Mirko Messner"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/AUS/AUS_Mirko_Messner.dds"
+			}
+		}
+		country_leader = {
+			desc = MIRKO_MESSNER_DESC
+			ideology = leninist
+			expire = "2065.1.1"
+		}
+	}
+	AUS_sebastian_kurz = {
+		name = "Sebastian Kurz"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/AUS/AUS_Sebastian_Kurz.dds"
+			}
+		}
+		country_leader = {
+			desc = SEBASTIAN_KURZ_DESC
+			ideology = christian_communist
+			expire = "2065.1.1"
+		}
+	}
+	AUS_alexander_van_der_bellen = {
+		name = "Alexander Van der Bellen"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/AUS/AUS_Alexander_Van_Der_Bellen.dds"
+			}
+		}
+		country_leader = {
+			desc = ALEXANDER_VAN_DER_BELLEN_DESC
+			ideology = eco_socialist
+			expire = "2065.1.1"
+		}
+	}
+	AUS_christian_kern = {
+		name = "Christian Kern"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/AUS/AUS_Christian_Kern.dds"
+			}
+		}
+		country_leader = {
+			desc = CHRISTIAN_KERN_DESC
+			ideology = neo_reformist
+			expire = "2065.1.1"
+		}
+	}
+	AUS_angelika_mlinar = {
+		name = "Angelika Mlinar"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/AUS/AUS_Angelika_Mlinar.dds"
+			}
+		}
+		country_leader = {
+			desc = ANGELIKA_MLINAR_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	AUS_alexander_zach = {
+		name = "Alexander Zach"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/AUS/AUS_Alexander_Zach.dds"
+			}
+		}
+		country_leader = {
+			desc = ALEXANDER_ZACH_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	AUS_michael_spindelegger = {
+		name = "Michael Spindelegger"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/AUS/AUS_Michael_Spindelegger.dds"
+			}
+		}
+		country_leader = {
+			desc = MICHAEL_SPINDELEGGER_DESC
+			ideology = christian_democracy
+			expire = "2065.1.1"
+		}
+	}
+	AUS_heinz_christian_strache = {
+		name = "Heinz-Christian Strache"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/AUS/AUS_Heinz_Christian_Strache.dds"
+			}
+		}
+		country_leader = {
+			desc = HEINZ_CHRISTIAN_STRACHE_DESC
+			ideology = christian_right
+			expire = "2065.1.1"
+		}
+	}
+	AUS_norbert_hofer = {
+		name = "Norbert Hofer"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/AUS/AUS_Norbert_Hofer.dds"
+			}
+		}
+		country_leader = {
+			desc = NORBERT_HOFER_DESC
+			ideology = reactionary
+			expire = "2065.1.1"
+		}
+	}
+	AUS_ernst_fuchs = {
+		name = "Ernst Fuchs"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/AUS/AUS_Ernst_Fuchs.dds"
+			}
+		}
+		country_leader = {
+			desc = ERNST_FUCHS_DESC
+			ideology = regency
+			expire = "2065.1.1"
+		}
+	}
+	AUS_gottfried_kussel = {
+		name = "Gottfried Küssel"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/AUS/AUS_Gottfried_Kussel.dds"
+			}
+		}
+		country_leader = {
+			desc = GOTTFRIED_KUSSEL_DESC
+			ideology = neostrasserist
+			expire = "2065.1.1"
+		}
+	}
+	AUS_gerhard_dorfler = {
+		name = "Gerhard Dörfler"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/AUS/AUS_Gerhard_Dorfler.dds"
+			}
+		}
+		country_leader = {
+			desc = GERHARD_DORFLER_DESC
+			ideology = austrofascist
+			expire = "2065.1.1"
+		}
+	}
+}

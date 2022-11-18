@@ -1,15 +1,29 @@
 ﻿capital = 670
 
 set_politics = {	
-	ruling_party = communist
+	ruling_party = populist_nationalist
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	communist = 100
+	national_conservative = 32
+	populist_nationalist = 68
 }
 
 add_ideas = {
 }
+
+recruit_character = LAO_choummaly_sayasone
+recruit_character = LAO_bouasone_bouphavanh
+recruit_character = LAO_bounnhang_vorachith
+recruit_character = LAO_sombath_somphone
+recruit_character = LAO_somnuk_phongsouvanh
+recruit_character = LAO_vang_wangyee
+recruit_character = LAO_khamphoui_sisavatdy
+recruit_character = LAO_vang_pao
+recruit_character = LAO_kong_le
+recruit_character = LAO_king_soulivong_savang
+recruit_character = LAO_somsavat_lengsavad
+recruit_character = LAO_vang_chai
