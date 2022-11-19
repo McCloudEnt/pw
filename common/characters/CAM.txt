@@ -1,0 +1,158 @@
+characters = {
+	CAM_heng_samrin = {
+		name = "Heng Samrin"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAM/CAM_Heng_Samrin.dds"
+			}
+		}
+		country_leader = {
+			desc = HENG_SAMRIN_DESC
+			ideology = leninist
+			expire = "2065.1.1"
+		}
+	}
+	CAM_king_norodom_sihanouk = {
+		name = "King Norodom Sihanouk"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAM/CAM_Norodom_Sihanouk.dds"
+			}
+		}
+		country_leader = {
+			desc = KING_NORODOM_SIHANOUK_DESC
+			ideology = buddhist_socialist
+			expire = "2065.1.1"
+		}
+	}
+	CAM_pen_sovan = {
+		name = "Pen Sovan"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAM/CAM_Pen_Sovan.dds"
+			}
+		}
+		country_leader = {
+			desc = PEN_SOVAN_DESC
+			ideology = neo_eda_vision
+			expire = "2065.1.1"
+		}
+	}
+	CAM_kem_ley = {
+		name = "Kem Ley"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAM/CAM_Kem_Ley.dds"
+			}
+		}
+		country_leader = {
+			desc = KEM_LEY_DESC
+			ideology = eda_vision
+			expire = "2065.1.1"
+		}
+	}
+	CAM_tea_banh = {
+		name = "Tea Banh"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAM/CAM_Tea_Banh.dds"
+			}
+		}
+		country_leader = {
+			desc = TEA_BANH_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	CAM_sam_rainsy = {
+		name = "Sam Rainsy"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAM/CAM_Sam_Rainsy.dds"
+			}
+		}
+		country_leader = {
+			desc = SAM_RAINSY_DESC
+			ideology = nordic_agrarian
+			expire = "2065.1.1"
+		}
+	}
+	CAM_kem_sokha = {
+		name = "Kem Sokha"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAM/CAM_Kem_Sokha.dds"
+			}
+		}
+		country_leader = {
+			desc = KEM_SOKHA_DESC
+			ideology = fiscal_conservative
+			expire = "2065.1.1"
+		}
+	}
+	CAM_dien_del = {
+		name = "Dien Del"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAM/CAM_Dien_Del.dds"
+			}
+		}
+		country_leader = {
+			desc = DIEN_DEL_DESC
+			ideology = social_conservative
+			expire = "2065.1.1"
+		}
+	}
+	CAM_kong_korm = {
+		name = "Kong Korm"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAM/CAM_Kong_Korm.dds"
+			}
+		}
+		country_leader = {
+			desc = KONG_KORM_DESC
+			ideology = reactionary
+			expire = "2065.1.1"
+		}
+	}
+	CAM_king_sisowath_noryvong = {
+		name = "King Sisowath Noryvong"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAM/CAM_Sisowath_Noryvong.dds"
+			}
+		}
+		country_leader = {
+			desc = KING_SISOWATH_NORYVONG_DESC
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	CAM_nuon_chea = {
+		name = "Nuon Chea"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAM/CAM_Nuon_Chea.dds"
+			}
+		}
+		country_leader = {
+			desc = NUON_CHEA_DESC
+			ideology = utopian_communitarian
+			expire = "2065.1.1"
+		}
+	}
+	CAM_lon_rith = {
+		name = "Lon Rith"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAM/CAM_Lon_Rith.dds"
+			}
+		}
+		country_leader = {
+			desc = LON_RITH_DESC
+			ideology = ultranationalist
+			expire = "2065.1.1"
+		}
+	}
+}
