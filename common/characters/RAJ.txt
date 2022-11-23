@@ -1,0 +1,158 @@
+characters = {
+	RAJ_sanjay_gandhi = {
+		name = "Sanjay Gandhi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RAJ/RAJ_Sanjay_Gandhi.dds"
+			}
+		}
+		country_leader = {
+			desc = SANJAY_GANDHI_DESC
+			ideology = nehruvian_communist
+			expire = "2065.1.1"
+		}
+	}
+	RAJ_varun_gandhi = {
+		name = "Varun Gandhi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RAJ/RAJ_Varun_Gandhi.dds"
+			}
+		}
+		country_leader = {
+			desc = VARUN_GANDHI_DESC
+			ideology = varun_gandhi_thought
+			expire = "2065.1.1"
+		}
+	}
+	RAJ_sonia_gandhi = {
+		name = "Sonia Gandhi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RAJ/RAJ_Sonia_Gandhi.dds"
+			}
+		}
+		country_leader = {
+			desc = SONIA_GANDHI_DESC
+			ideology = orthodox_nehru
+			expire = "2065.1.1"
+		}
+	}
+	RAJ_priyanka_gandhi = {
+		name = "Priyanka Gandhi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RAJ/RAJ_Priyanka_Gandhi.dds"
+			}
+		}
+		country_leader = {
+			desc = PRIYANKA_GANDHI_DESC
+			ideology = self_respect_movement
+			expire = "2065.1.1"
+		}
+	}
+	RAJ_rajiv_gandhi = {
+		name = "Rajiv Gandhi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RAJ/RAJ_Rajiv_Gandhi.dds"
+			}
+		}
+		country_leader = {
+			desc = RAJIV_GANDHI_DESC
+			ideology = rajiv_liberal
+			expire = "2065.1.1"
+		}
+	}
+	RAJ_sanjeev_sabhlok = {
+		name = "Sanjeev Sabhlok"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RAJ/RAJ_Sanjeev_Sabhlok.dds"
+			}
+		}
+		country_leader = {
+			desc = SANJEEV_SABHLOK_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	RAJ_h_d_deve_gowda = {
+		name = "H. D. Deve Gowda"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RAJ/RAJ_H_D_Deve_Gowda.dds"
+			}
+		}
+		country_leader = {
+			desc = H_D_DEVE_GOWDA_DESC
+			ideology = fiscal_conservative
+			expire = "2065.1.1"
+		}
+	}
+	RAJ_arun_jaitley = {
+		name = "Arun Jaitley"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RAJ/RAJ_Arun_Jaitley.dds"
+			}
+		}
+		country_leader = {
+			desc = ARUN_JAITLEY_DESC
+			ideology = social_conservative
+			expire = "2065.1.1"
+		}
+	}
+	RAJ_mohan_bhagwat = {
+		name = "Mohan Bhagwat"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RAJ/RAJ_Mohan_Bhagwat.dds"
+			}
+		}
+		country_leader = {
+			desc = MOHAN_BHAGWAT_DESC
+			ideology = rss_nationalist
+			expire = "2065.1.1"
+		}
+	}
+	RAJ_imperial_council = {
+		name = "Imperial Council"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RAJ/RAJ_Imperial_Council.dds"
+			}
+		}
+		country_leader = {
+			desc = IMPERIAL_COUNCIL_DESC
+			ideology = regency
+			expire = "2065.1.1"
+		}
+	}
+	RAJ_rahul_gandhi = {
+		name = "Rahul Gandhi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RAJ/RAJ_Rahul_Gandhi.dds"
+			}
+		}
+		country_leader = {
+			desc = RAHUL_GANDHI_DESC
+			ideology = subhasist
+			expire = "2065.1.1"
+		}
+	}
+	RAJ_bal_thackeray = {
+		name = "Bal Thackeray"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RAJ/RAJ_Bal_Thackeray.dds"
+			}
+		}
+		country_leader = {
+			desc = BAL_THACKERAY_DESC
+			ideology = shiv_sena
+			expire = "2065.1.1"
+		}
+	}
+}

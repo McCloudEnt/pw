@@ -12,6 +12,7 @@ ideologies = {
                         nimeiryist = {}
                         non_zionist_communist = {}
                         ho_chi_minh_thought = {}
+                        nehruvian_communist = {}
                         san_min_zhuyi_communist = {}
 		}
 		
@@ -55,6 +56,7 @@ ideologies = {
                         orthodox_leninist = {}
                         christian_communist = {}
                         buddhist_socialist = {}
+                        varun_gandhi_thought = {}
                         san_min_zhuyi_orthodox_socialist = {}
 		}
 		
@@ -97,6 +99,7 @@ ideologies = {
                         perestroikist = {}
                         agrarian_socialist = {}
                         neo_eda_vision = {}
+                        orthodox_nehru = {}
                         san_min_zhuyi_liberal_socialist = {}
 		}
 		
@@ -138,6 +141,7 @@ ideologies = {
                         eda_vision = {}
                         labour_zionist = {}
                         binational_progressive = {}
+                        self_respect_movement = {}
                         san_min_zhuyi_reformist_labourist = {}
 		}
 		
@@ -180,6 +184,7 @@ ideologies = {
                         blairite = {}
                         social_zionist = {}
                         binational_liberal = {}
+                        rajiv_liberal = {}
                         san_min_zhuyi_social_liberal = {}
 		}
 		
@@ -345,6 +350,8 @@ ideologies = {
                         classical_zionist = {}
                         binationalist = {}
                         can_lao_ideology = {}
+                        rss_nationalist = {}
+                        metaxist = {}
                         san_min_zhuyi_populist_nationalist = {}
 		}
 		
@@ -431,6 +438,7 @@ ideologies = {
                         milosevicist = {}
                         arab_islamist = {}
                         neo_zionist = {}
+                        subhasist = {}
                         san_min_zhuyi_third_positionist = {}
 		}
 		
@@ -477,6 +485,7 @@ ideologies = {
                         islamist = {}
                         revisionist_zionist = {}
                         austrofascist = {}
+                        shiv_sena = {}
                         san_min_zhuyi_fascist = {}
 		}
 		

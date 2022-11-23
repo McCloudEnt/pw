@@ -1,0 +1,158 @@
+characters = {
+	GRE_aleka_papariga = {
+		name = "Aleka Papariga"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/GRE/GRE_Aleka_Papariga.dds"
+			}
+		}
+		country_leader = {
+			desc = ALEKA_PAPARIGA_DESC
+			ideology = stalinist
+			expire = "2065.1.1"
+		}
+	}
+	GRE_yanis_varoufakis = {
+		name = "Yanis Varoufakis"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/GRE/GRE_Yanis_Varoufakis.dds"
+			}
+		}
+		country_leader = {
+			desc = YANIS_VAROUFAKIS_DESC
+			ideology = titoist
+			expire = "2065.1.1"
+		}
+	}
+	GRE_alexis_tsipras = {
+		name = "Alexis Tsipras"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/GRE/GRE_Alexis_Tsipras.dds"
+			}
+		}
+		country_leader = {
+			desc = ALEXIS_TSIPRAS_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	GRE_george_papandreou = {
+		name = "George Papandreou"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/GRE/GRE_George_Papandreou.dds"
+			}
+		}
+		country_leader = {
+			desc = GEORGE_PAPANDREOU_DESC
+			ideology = liberal_welfarist
+			expire = "2065.1.1"
+		}
+	}
+	GRE_stavros_theodorakis = {
+		name = "Stavros Theodorakis"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/GRE/GRE_Stavros_Theodorakis.dds"
+			}
+		}
+		country_leader = {
+			desc = STAVROS_THEODORAKIS_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	GRE_vasilis_leventis = {
+		name = "Vasilis Leventis"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/GRE/GRE_Vasilis_Leventis.dds"
+			}
+		}
+		country_leader = {
+			desc = VASILIS_LEVENTIS_DESC
+			ideology = venizelist
+			expire = "2065.1.1"
+		}
+	}
+	GRE_kostas_karamanlis = {
+		name = "Kostas Karamanlis"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/GRE/GRE_Kostas_Karamanlis.dds"
+			}
+		}
+		country_leader = {
+			desc = KOSTAS_KARAMANLIS_DESC
+			ideology = christian_democracy
+			expire = "2065.1.1"
+		}
+	}
+	GRE_panos_kammenos = {
+		name = "Panos Kammenos"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/GRE/GRE_Panos_Kammenos.dds"
+			}
+		}
+		country_leader = {
+			desc = PANOS_KAMMENOS_DESC
+			ideology = neoconservative
+			expire = "2065.1.1"
+		}
+	}
+	GRE_georgios_karatzaferis = {
+		name = "Georgios Karatzaferis"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/GRE/GRE_Georgios_Karatzaferis.dds"
+			}
+		}
+		country_leader = {
+			desc = GEORGIOS_KARATZAFERIS_DESC
+			ideology = metaxist
+			expire = "2065.1.1"
+		}
+	}
+	GRE_king_constantine_ii = {
+		name = "King Constantine II"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/GRE/GRE_Constantine_II.dds"
+			}
+		}
+		country_leader = {
+			desc = KING_CONSTANTINE_II_DESC
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	GRE_zoe_konstantopoulou = {
+		name = "Zoe Konstantopoulou"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/GRE/GRE_Zoe_Konstantopoulou.dds"
+			}
+		}
+		country_leader = {
+			desc = ZOE_KONSTANTOPOULOU_DESC
+			ideology = third_way
+			expire = "2065.1.1"
+		}
+	}
+	GRE_nikolaos_michaloliakos = {
+		name = "Nikolaos Michaloliakos"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/GRE/GRE_Nikolaos_Michaloliakos.dds"
+			}
+		}
+		country_leader = {
+			desc = NIKOLAOS_MICHALOLIAKOS_DESC
+			ideology = neonazi
+			expire = "2065.1.1"
+		}
+	}
+}

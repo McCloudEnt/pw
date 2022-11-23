@@ -8,8 +8,26 @@ set_politics = {
 }
 
 set_popularities = {
-	communist = 100
+	communist = 63
+	orthodox_socialist = 16
+	liberal_socialist = 9
+	reformist_labourist = 3
+	social_liberal = 7
+	third_positionist = 2
 }
 
 add_ideas = {
 }
+
+recruit_character = RAJ_sanjay_gandhi
+recruit_character = RAJ_varun_gandhi
+recruit_character = RAJ_sonia_gandhi
+recruit_character = RAJ_priyanka_gandhi
+recruit_character = RAJ_rajiv_gandhi
+recruit_character = RAJ_sanjeev_sabhlok
+recruit_character = RAJ_h_d_deve_gowda
+recruit_character = RAJ_arun_jaitley
+recruit_character = RAJ_mohan_bhagwat
+recruit_character = RAJ_imperial_council
+recruit_character = RAJ_rahul_gandhi
+recruit_character = RAJ_bal_thackeray

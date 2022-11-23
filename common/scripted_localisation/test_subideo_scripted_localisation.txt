@@ -42,6 +42,10 @@ defined_text = {
 		localization_key = ho_chi_minh_thought
 	}
 	text = {
+		trigger = { has_country_leader_ideology = nehruvian_communist }
+		localization_key = nehruvian_communist
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_communist }
 		localization_key = san_min_zhuyi_communist
 	}
@@ -95,6 +99,10 @@ defined_text = {
 		localization_key = buddhist_socialist
 	}
 	text = {
+		trigger = { has_country_leader_ideology = varun_gandhi_thought }
+		localization_key = varun_gandhi_thought
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_orthodox_socialist }
 		localization_key = san_min_zhuyi_orthodox_socialist
 	}
@@ -134,6 +142,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = neo_eda_vision }
 		localization_key = neo_eda_vision
+	}
+	text = {
+		trigger = { has_country_leader_ideology = orthodox_nehru }
+		localization_key = orthodox_nehru
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_liberal_socialist }
@@ -181,6 +193,10 @@ defined_text = {
 		localization_key = binational_progressive
 	}
 	text = {
+		trigger = { has_country_leader_ideology = self_respect_movement }
+		localization_key = self_respect_movement
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_reformist_labourist }
 		localization_key = san_min_zhuyi_reformist_labourist
 	}
@@ -220,6 +236,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = binational_liberal }
 		localization_key = binational_liberal
+	}
+	text = {
+		trigger = { has_country_leader_ideology = rajiv_liberal }
+		localization_key = rajiv_liberal
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_social_liberal }
@@ -390,6 +410,14 @@ defined_text = {
 		localization_key = can_lao_ideology
 	}
 	text = {
+		trigger = { has_country_leader_ideology = rss_nationalist }
+		localization_key = rss_nationalist
+	}
+	text = {
+		trigger = { has_country_leader_ideology = metaxist }
+		localization_key = metaxist
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_populist_nationalist }
 		localization_key = san_min_zhuyi_populist_nationalist
 	}
@@ -496,6 +524,10 @@ defined_text = {
 		localization_key = neo_zionist
 	}
 	text = {
+		trigger = { has_country_leader_ideology = subhasist }
+		localization_key = subhasist
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_third_positionist }
 		localization_key = san_min_zhuyi_third_positionist
 	}
@@ -561,6 +593,10 @@ defined_text = {
 		localization_key = austrofascist
 	}
 	text = {
+		trigger = { has_country_leader_ideology = shiv_sena }
+		localization_key = shiv_sena
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_fascist }
 		localization_key = san_min_zhuyi_fascist
 	}
@@ -608,6 +644,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = ho_chi_minh_thought }
 		localization_key = ho_chi_minh_thought_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = nehruvian_communist }
+		localization_key = nehruvian_communist_desc
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_communist }
@@ -663,6 +703,10 @@ defined_text = {
 		localization_key = buddhist_socialist_desc
 	}
 	text = {
+		trigger = { has_country_leader_ideology = varun_gandhi_thought }
+		localization_key = varun_gandhi_thought_desc
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_orthodox_socialist }
 		localization_key = san_min_zhuyi_orthodox_socialist_desc
 	}
@@ -702,6 +746,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = neo_eda_vision }
 		localization_key = neo_eda_vision_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = orthodox_nehru }
+		localization_key = orthodox_nehru_desc
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_liberal_socialist }
@@ -749,6 +797,10 @@ defined_text = {
 		localization_key = binational_progressive_desc
 	}
 	text = {
+		trigger = { has_country_leader_ideology = self_respect_movement }
+		localization_key = self_respect_movement_desc
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_reformist_labourist }
 		localization_key = san_min_zhuyi_reformist_labourist_desc
 	}
@@ -788,6 +840,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = binational_liberal }
 		localization_key = binational_liberal_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = rajiv_liberal }
+		localization_key = rajiv_liberal_desc
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_social_liberal }
@@ -958,6 +1014,14 @@ defined_text = {
 		localization_key = can_lao_ideology_desc
 	}
 	text = {
+		trigger = { has_country_leader_ideology = rss_nationalist }
+		localization_key = rss_nationalist_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = metaxist }
+		localization_key = metaxist_desc
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_populist_nationalist }
 		localization_key = san_min_zhuyi_populist_nationalist_desc
 	}
@@ -1064,6 +1128,10 @@ defined_text = {
 		localization_key = neo_zionist_desc
 	}
 	text = {
+		trigger = { has_country_leader_ideology = subhasist }
+		localization_key = subhasist_desc
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_third_positionist }
 		localization_key = san_min_zhuyi_third_positionist_desc
 	}
@@ -1127,6 +1195,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = austrofascist }
 		localization_key = austrofascist_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = shiv_sena }
+		localization_key = shiv_sena_desc
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_fascist }
