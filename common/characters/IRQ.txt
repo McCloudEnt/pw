@@ -125,7 +125,7 @@ characters = {
 		}
 		country_leader = {
 			desc = HASHEMITE_CO_MONARCHS_DESC
-			ideology = absolute_monarchist
+			ideology = semi_constitutional_monarchist
 			expire = "2065.1.1"
 		}
 	}

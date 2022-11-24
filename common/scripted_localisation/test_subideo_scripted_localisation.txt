@@ -148,6 +148,10 @@ defined_text = {
 		localization_key = orthodox_nehru
 	}
 	text = {
+		trigger = { has_country_leader_ideology = democratic_confederalist }
+		localization_key = democratic_confederalist
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_liberal_socialist }
 		localization_key = san_min_zhuyi_liberal_socialist
 	}
@@ -277,6 +281,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = binational_democracy }
 		localization_key = binational_democracy
+	}
+	text = {
+		trigger = { has_country_leader_ideology = jandalist }
+		localization_key = jandalist
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_classical_liberal }
@@ -461,6 +469,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = governor_general }
 		localization_key = governor_general
+	}
+	text = {
+		trigger = { has_country_leader_ideology = semi_constitutional_monarchist }
+		localization_key = semi_constitutional_monarchist
 	}
 	#third_positionist
 	text = {
@@ -752,6 +764,10 @@ defined_text = {
 		localization_key = orthodox_nehru_desc
 	}
 	text = {
+		trigger = { has_country_leader_ideology = democratic_confederalist }
+		localization_key = democratic_confederalist_desc
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_liberal_socialist }
 		localization_key = san_min_zhuyi_liberal_socialist_desc
 	}
@@ -881,6 +897,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = binational_democracy }
 		localization_key = binational_democracy_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = jandalist }
+		localization_key = jandalist_desc
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_classical_liberal }
@@ -1065,6 +1085,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = governor_general }
 		localization_key = governor_general_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = semi_constitutional_monarchist }
+		localization_key = semi_constitutional_monarchist_desc
 	}
 	#third_positionist
 	text = {

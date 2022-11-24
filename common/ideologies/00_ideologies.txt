@@ -100,6 +100,7 @@ ideologies = {
                         agrarian_socialist = {}
                         neo_eda_vision = {}
                         orthodox_nehru = {}
+                        democratic_confederalist = {}
                         san_min_zhuyi_liberal_socialist = {}
 		}
 		
@@ -226,6 +227,7 @@ ideologies = {
                         nordic_agrarian = {}
                         liberal_zionist = {}
                         binational_democracy = {}
+                        jandalist = {}
                         san_min_zhuyi_classical_liberal = {}
 		}
 		
@@ -393,6 +395,7 @@ ideologies = {
                         lord_chancellory = {}
                         dodecarchy = {}
                         governor_general = {}
+                        semi_constitutional_monarchist = {}
 		}
 		
 		dynamic_faction_names = {

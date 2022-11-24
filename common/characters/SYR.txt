@@ -1,0 +1,158 @@
+characters = {
+	SYR_ammar_bakdash = {
+		name = "Ammar Bakdash"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SYR/SYR_Ammar_Bakdash.dds"
+			}
+		}
+		country_leader = {
+			desc = AMMAR_BAKDASH_DESC
+			ideology = leninist
+			expire = "2065.1.1"
+		}
+	}
+	SYR_safwan_al_qudsi = {
+		name = "Safwan al-Qudsi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SYR/SYR_Safwan_Al_Qudsi.dds"
+			}
+		}
+		country_leader = {
+			desc = SAFWAN_AL_QUDSI_DESC
+			ideology = nasserist
+			expire = "2065.1.1"
+		}
+	}
+	SYR_farid_ghadry = {
+		name = "Farid Ghadry"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SYR/SYR_Farid_Ghadry.dds"
+			}
+		}
+		country_leader = {
+			desc = FARID_GHADRY_DESC
+			ideology = democratic_confederalist
+			expire = "2065.1.1"
+		}
+	}
+	SYR_riad_al_turk = {
+		name = "Riad al-Turk"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SYR/SYR_Riad_Al_Turk.dds"
+			}
+		}
+		country_leader = {
+			desc = RIAD_AL_TURK_DESC
+			ideology = eda_vision
+			expire = "2065.1.1"
+		}
+	}
+	SYR_hassan_abdul_azim = {
+		name = "Hassan Abdul-Azim"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SYR/SYR_Hassan_Abdul_Azim.dds"
+			}
+		}
+		country_leader = {
+			desc = HASSAN_ABDUL_AZIM_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	SYR_abdul_lateef_jandali = {
+		name = "Abdul Lateef Jandali"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SYR/SYR_Abdul_Lateef_Jandali.dds"
+			}
+		}
+		country_leader = {
+			desc = ABDUL_LATEEF_JANDALI_DESC
+			ideology = jandalist
+			expire = "2065.1.1"
+		}
+	}
+	SYR_anas_al_abdah = {
+		name = "Anas al-Abdah"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SYR/SYR_Anas_Al_Abdah.dds"
+			}
+		}
+		country_leader = {
+			desc = ANAS_AL_ABDAH_DESC
+			ideology = progressive_conservative
+			expire = "2065.1.1"
+		}
+	}
+	SYR_ali_sadreddine_al_bayanouni = {
+		name = "Ali Sadreddine al-Bayanouni"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SYR/SYR_Ali_Sadreddine_Al_Bayanouni.dds"
+			}
+		}
+		country_leader = {
+			desc = ALI_SADREDDINE_AL_BAYANOUNI_DESC
+			ideology = islamic_democracy
+			expire = "2065.1.1"
+		}
+	}
+	SYR_rifaat_al_assad = {
+		name = "Rifaat al-Assad"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SYR/SYR_Rifaat_Al_Assad.dds"
+			}
+		}
+		country_leader = {
+			desc = RIFAAT_AL_ASSAD_DESC
+			ideology = baathist
+			expire = "2065.1.1"
+		}
+	}
+	SYR_king_mired = {
+		name = "King Mired"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SYR/SYR_Mired.dds"
+			}
+		}
+		country_leader = {
+			desc = KING_MIRED_DESC
+			ideology = semi_constitutional_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	SYR_bashar_al_assad = {
+		name = "Bashar al-Assad"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SYR/SYR_Bashar_Al_Assad.dds"
+			}
+		}
+		country_leader = {
+			desc = BASHAR_AL_ASSAD_DESC
+			ideology = social_nationalist
+			expire = "2065.1.1"
+		}
+	}
+	SYR_abu_firas_al_suri = {
+		name = "Abu Firas al-Suri"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SYR/SYR_Abu_Firas_Al_Suri.dds"
+			}
+		}
+		country_leader = {
+			desc = ABU_FIRAS_AL_SURI_DESC
+			ideology = islamist
+			expire = "2065.1.1"
+		}
+	}
+}

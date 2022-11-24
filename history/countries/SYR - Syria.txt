@@ -1,12 +1,28 @@
 ﻿capital = 554
 
 set_politics = {	
-	ruling_party = communist
+	ruling_party = populist_nationalist
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-    communist = 100
+	communist = 10
+	orthodox_socialist = 9
+	populist_nationalist = 67
+	third_positionist = 14
 }
+
+recruit_character = SYR_ammar_bakdash
+recruit_character = SYR_safwan_al_qudsi
+recruit_character = SYR_farid_ghadry
+recruit_character = SYR_riad_al_turk
+recruit_character = SYR_hassan_abdul_azim
+recruit_character = SYR_abdul_lateef_jandali
+recruit_character = SYR_anas_al_abdah
+recruit_character = SYR_ali_sadreddine_al_bayanouni
+recruit_character = SYR_rifaat_al_assad
+recruit_character = SYR_king_mired
+recruit_character = SYR_bashar_al_assad
+recruit_character = SYR_abu_firas_al_suri
