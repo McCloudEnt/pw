@@ -27,5 +27,5 @@ recruit_character = EGY_ali_tarhouni
 recruit_character = EGY_mohamed_sowan
 recruit_character = EGY_rifaat_al_assad
 recruit_character = EGY_mohamed_abdelaziz
-recruit_character = EGY_muammar_al_gaddafi
+recruit_character = EGY_muammar_gaddafi
 recruit_character = EGY_shura_council

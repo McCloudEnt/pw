@@ -8,5 +8,5 @@ set_politics = {
 }
 
 set_popularities = {
-    communist = 100
+	communist = 100
 }

@@ -129,15 +129,15 @@ characters = {
 			expire = "2065.1.1"
 		}
 	}
-	EGY_muammar_al_gaddafi = {
-		name = "Muammar al-Gaddafi"
+	EGY_muammar_gaddafi = {
+		name = "Muammar Gaddafi"
 		portraits = {
 			civilian = {
-				large = "gfx/leaders/EGY/EGY_Muammar_Al_Gaddafi.dds"
+				large = "gfx/leaders/EGY/EGY_Muammar_Gaddafi.dds"
 			}
 		}
 		country_leader = {
-			desc = MUAMMAR_AL_GADDAFI_DESC
+			desc = MUAMMAR_GADDAFI_DESC
 			ideology = gaddafist
 			expire = "2065.1.1"
 		}
