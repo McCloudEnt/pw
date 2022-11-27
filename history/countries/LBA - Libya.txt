@@ -1,12 +1,27 @@
 ﻿capital = 448
 
 set_politics = {	
-	ruling_party = communist
+	ruling_party = third_positionist
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	communist = 100
+	orthodox_socialist = 12
+	liberal_socialist = 10
+	third_positionist = 78
 }
+
+recruit_character = LBA_muftah_lamlum
+recruit_character = LBA_mutassim_gaddafi
+recruit_character = LBA_saif_al_islam_gaddafi
+recruit_character = LBA_alaa_murabit
+recruit_character = LBA_mohammed_magariaf
+recruit_character = LBA_ali_zeidan
+recruit_character = LBA_ali_tarhouni
+recruit_character = LBA_mohamed_sowan
+recruit_character = LBA_mahmoud_jibril
+recruit_character = LBA_mohamed_abdelaziz
+recruit_character = LBA_muammar_gaddafi
+recruit_character = LBA_mohamed_al_zahawi
