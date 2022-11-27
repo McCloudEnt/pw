@@ -1,0 +1,158 @@
+characters = {
+	LBA_muftah_lamlum = {
+		name = "Muftah Lamlum"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LBA/LBA_Muftah_Lamlum.dds"
+			}
+		}
+		country_leader = {
+			desc = MUFTAH_LAMLUM_DESC
+			ideology = stalinist
+			expire = "2065.1.1"
+		}
+	}
+	LBA_mutassim_gaddafi = {
+		name = "Mutassim Gaddafi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LBA/LBA_Mutassim_Gaddafi.dds"
+			}
+		}
+		country_leader = {
+			desc = MUTASSIM_GADDAFI_DESC
+			ideology = nasserist
+			expire = "2065.1.1"
+		}
+	}
+	LBA_saif_al_islam_gaddafi = {
+		name = "Saif al-Islam Gaddafi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LBA/LBA_Saif_Al_Islam_Gaddafi.dds"
+			}
+		}
+		country_leader = {
+			desc = SAIF_AL_ISLAM_GADDAFI_DESC
+			ideology = arab_socialist
+			expire = "2065.1.1"
+		}
+	}
+	LBA_alaa_murabit = {
+		name = "Alaa Murabit"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LBA/LBA_Alaa_Murabit.dds"
+			}
+		}
+		country_leader = {
+			desc = ALAA_MURABIT_DESC
+			ideology = humanist_socialist
+			expire = "2065.1.1"
+		}
+	}
+	LBA_mohammed_magariaf = {
+		name = "Mohammed Magariaf"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LBA/LBA_Mohammed_Magariaf.dds"
+			}
+		}
+		country_leader = {
+			desc = MOHAMMED_MAGARIAF_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	LBA_ali_zeidan = {
+		name = "Ali Zeidan"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LBA/LBA_Ali_Zeidan.dds"
+			}
+		}
+		country_leader = {
+			desc = ALI_ZEIDAN_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	LBA_ali_tarhouni = {
+		name = "Ali Tarhouni"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LBA/LBA_Ali_Tarhouni.dds"
+			}
+		}
+		country_leader = {
+			desc = ALI_TARHOUNI_DESC
+			ideology = islamic_liberal
+			expire = "2065.1.1"
+		}
+	}
+	LBA_mohamed_sowan = {
+		name = "Mohamed Sowan"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LBA/LBA_Mohamed_Sowan.dds"
+			}
+		}
+		country_leader = {
+			desc = MOHAMED_SOWAN_DESC
+			ideology = islamic_democracy
+			expire = "2065.1.1"
+		}
+	}
+	LBA_mahmoud_jibril = {
+		name = "Mahmoud Jibril"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LBA/LBA_Mahmoud_Jibril.dds"
+			}
+		}
+		country_leader = {
+			desc = MAHMOUD_JIBRIL_DESC
+			ideology = national_liberal
+			expire = "2065.1.1"
+		}
+	}
+	LBA_mohamed_abdelaziz = {
+		name = "Mohamed Abdelaziz"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LBA/LBA_Mohamed_Abdelaziz.dds"
+			}
+		}
+		country_leader = {
+			desc = MOHAMED_ABDELAZIZ_DESC
+			ideology = regency
+			expire = "2065.1.1"
+		}
+	}
+	LBA_muammar_gaddafi = {
+		name = "Muammar Gaddafi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LBA/LBA_Muammar_Gaddafi.dds"
+			}
+		}
+		country_leader = {
+			desc = MUAMMAR_GADDAFI_DESC
+			ideology = gaddafist
+			expire = "2065.1.1"
+		}
+	}
+	LBA_mohamed_al_zahawi = {
+		name = "Mohamed al-Zahawi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/LBA/LBA_Mohamed_Al_Zahawi.dds"
+			}
+		}
+		country_leader = {
+			desc = MOHAMED_AL_ZAHAWI_DESC
+			ideology = islamist
+			expire = "2065.1.1"
+		}
+	}
+}
