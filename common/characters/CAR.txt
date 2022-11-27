@@ -1,0 +1,158 @@
+characters = {
+	CAR_michel_djotodia = {
+		name = "Michel Djotodia"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAR/CAR_Michel_Djotodia.dds"
+			}
+		}
+		country_leader = {
+			desc = MICHEL_DJOTODIA_DESC
+			ideology = stalinist
+			expire = "2065.1.1"
+		}
+	}
+	CAR_francois_gueret = {
+		name = "François Gueret"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAR/CAR_Francois_Gueret.dds"
+			}
+		}
+		country_leader = {
+			desc = FRANCOIS_GUERET_DESC
+			ideology = orthodox_leninist
+			expire = "2065.1.1"
+		}
+	}
+	CAR_ange_felix_patasse = {
+		name = "Ange-Félix Patassé"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAR/CAR_Ange_Felix_Patasse.dds"
+			}
+		}
+		country_leader = {
+			desc = ANGE_FELIX_PATASSE_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	CAR_alexandre_ferdinand_nguendet = {
+		name = "Alexandre-Ferdinand Nguendet"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAR/CAR_Alexandre_Ferdinand_Nguendet.dds"
+			}
+		}
+		country_leader = {
+			desc = ALEXANDRE_FERDINAND_NGUENDET_DESC
+			ideology = neo_reformist
+			expire = "2065.1.1"
+		}
+	}
+	CAR_jean_paul_ngoupande = {
+		name = "Jean-Paul Ngoupandé"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAR/CAR_Jean_Paul_Ngoupande.dds"
+			}
+		}
+		country_leader = {
+			desc = JEAN_PAUL_NGOUPANDE_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	CAR_anicet_georges_dologuele = {
+		name = "Anicet-Georges Dologuélé"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAR/CAR_Anicet_Georges_Dologuele.dds"
+			}
+		}
+		country_leader = {
+			desc = ANICET_GEORGES_DOLOGUELE_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	CAR_francois_bozize = {
+		name = "François Bozizé"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAR/CAR_Francois_Bozize.dds"
+			}
+		}
+		country_leader = {
+			desc = FRANCOIS_BOZIZE_DESC
+			ideology = progressive_conservative
+			expire = "2065.1.1"
+		}
+	}
+	CAR_noureddine_adam = {
+		name = "Noureddine Adam"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAR/CAR_Noureddine_Adam.dds"
+			}
+		}
+		country_leader = {
+			desc = NOUREDDINE_ADAM_DESC
+			ideology = islamic_democracy
+			expire = "2065.1.1"
+		}
+	}
+	CAR_louis_papeniah = {
+		name = "Louis Papéniah"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAR/CAR_Louis_Papeniah.dds"
+			}
+		}
+		country_leader = {
+			desc = LOUIS_PAPENIAH_DESC
+			ideology = national_liberal
+			expire = "2065.1.1"
+		}
+	}
+	CAR_emperor_bokassa_ii = {
+		name = "Emperor Bokassa II"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAR/CAR_Bokassa_II.dds"
+			}
+		}
+		country_leader = {
+			desc = EMPEROR_BOKASSA_II_DESC
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	CAR_bi_sidi_souleymane = {
+		name = "Bi Sidi Souleymane"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAR/CAR_Bi_Sidi_Souleymane.dds"
+			}
+		}
+		country_leader = {
+			desc = BI_SIDI_SOULEYMANE_DESC
+			ideology = neo_juche
+			expire = "2065.1.1"
+		}
+	}
+	CAR_levy_yakete = {
+		name = "Levy Yakete"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/CAR/CAR_Levy_Yakete.dds"
+			}
+		}
+		country_leader = {
+			desc = LEVY_YAKETE_DESC
+			ideology = clerical_fascist
+			expire = "2065.1.1"
+		}
+	}
+}

@@ -1,12 +1,27 @@
 ﻿capital = 778
 
 set_politics = {	
-	ruling_party = communist
+	ruling_party = populist_nationalist
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-	communist = 100
+	liberal_socialist = 7
+	populist_nationalist = 73
+	monarchist = 20
 }
+
+recruit_character = CAR_michel_djotodia
+recruit_character = CAR_francois_gueret
+recruit_character = CAR_ange_felix_patasse
+recruit_character = CAR_alexandre_ferdinand_nguendet
+recruit_character = CAR_jean_paul_ngoupande
+recruit_character = CAR_anicet_georges_dologuele
+recruit_character = CAR_francois_bozize
+recruit_character = CAR_noureddine_adam
+recruit_character = CAR_louis_papeniah
+recruit_character = CAR_emperor_bokassa_ii
+recruit_character = CAR_bi_sidi_souleymane
+recruit_character = CAR_levy_yakete
