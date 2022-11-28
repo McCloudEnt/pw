@@ -8,5 +8,18 @@ set_politics = {
 }
 
 set_popularities = {
-    communist = 100
+	communist = 100
 }
+
+recruit_character = SUD_omar_al_bashir
+recruit_character = SUD_muhammad_ibrahim_nugud
+recruit_character = SUD_malik_agar
+recruit_character = SUD_ibrahim_nageeb
+recruit_character = SUD_adil_abdel_aati
+recruit_character = SUD_hatim_al_sir
+recruit_character = SUD_mohamed_osman_al_mirghani
+recruit_character = SUD_hassan_al_turabi
+recruit_character = SUD_fatima_abdel_mahmoud
+recruit_character = SUD_sultan_sadiq_al_mahdi
+recruit_character = SUD_musa_hilal
+recruit_character = SUD_ali_abd_al_rahman

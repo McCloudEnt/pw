@@ -1,0 +1,158 @@
+characters = {
+	SUD_omar_al_bashir = {
+		name = "Omar al-Bashir"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SUD/SUD_Omar_Al_Bashir.dds"
+			}
+		}
+		country_leader = {
+			desc = OMAR_AL_BASHIR_DESC
+			ideology = nimeiryist
+			expire = "2065.1.1"
+		}
+	}
+	SUD_muhammad_ibrahim_nugud = {
+		name = "Muhammad Ibrahim Nugud"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SUD/SUD_Muhammad_Ibrahim_Nugud.dds"
+			}
+		}
+		country_leader = {
+			desc = MUHAMMAD_IBRAHIM_NUGUD_DESC
+			ideology = sino_communist
+			expire = "2065.1.1"
+		}
+	}
+	SUD_malik_agar = {
+		name = "Malik Agar"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SUD/SUD_Malik_Agar.dds"
+			}
+		}
+		country_leader = {
+			desc = MALIK_AGAR_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	SUD_ibrahim_nageeb = {
+		name = "Ibrahim Nageeb"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SUD/SUD_Ibrahim_Nageeb.dds"
+			}
+		}
+		country_leader = {
+			desc = IBRAHIM_NAGEEB_DESC
+			ideology = neo_reformist
+			expire = "2065.1.1"
+		}
+	}
+	SUD_adil_abdel_aati = {
+		name = "Adil Abdel Aati"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SUD/SUD_Adil_Abdel_Aati.dds"
+			}
+		}
+		country_leader = {
+			desc = ADIL_ABDEL_AATI_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	SUD_hatim_al_sir = {
+		name = "Hatim al-Sir"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SUD/SUD_Hatim_Al_Sir.dds"
+			}
+		}
+		country_leader = {
+			desc = HATIM_AL_SIR_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	SUD_mohamed_osman_al_mirghani = {
+		name = "Mohamed Osman al-Mirghani"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SUD/SUD_Mohamed_Osman_Al_Mirghani.dds"
+			}
+		}
+		country_leader = {
+			desc = MOHAMED_OSMAN_AL_MIRGHANI_DESC
+			ideology = progressive_conservative
+			expire = "2065.1.1"
+		}
+	}
+	SUD_hassan_al_turabi = {
+		name = "Hassan al-Turabi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SUD/SUD_Hassan_Al_Turabi.dds"
+			}
+		}
+		country_leader = {
+			desc = HASSAN_AL_TURABI_DESC
+			ideology = islamic_democracy
+			expire = "2065.1.1"
+		}
+	}
+	SUD_fatima_abdel_mahmoud = {
+		name = "Fatima Abdel Mahmoud"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SUD/SUD_Fatima_Abdel_Mahmoud.dds"
+			}
+		}
+		country_leader = {
+			desc = FATIMA_ABDEL_MAHMOUD_DESC
+			ideology = baathist
+			expire = "2065.1.1"
+		}
+	}
+	SUD_sultan_sadiq_al_mahdi = {
+		name = "Sultan Sadiq al-Mahdi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SUD/SUD_Sadiq_Al_Mahdi.dds"
+			}
+		}
+		country_leader = {
+			desc = SULTAN_SADIQ_AL_MAHDI_DESC
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	SUD_musa_hilal = {
+		name = "Musa Hilal"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SUD/SUD_Musa_Hilal.dds"
+			}
+		}
+		country_leader = {
+			desc = MUSA_HILAL_DESC
+			ideology = arab_islamist
+			expire = "2065.1.1"
+		}
+	}
+	SUD_ali_abd_al_rahman = {
+		name = "Ali Abd-al-Rahman"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SUD/SUD_Ali_Abd_Al_Rahman.dds"
+			}
+		}
+		country_leader = {
+			desc = ALI_ABD_AL_RAHMAN_DESC
+			ideology = islamist
+			expire = "2065.1.1"
+		}
+	}
+}
