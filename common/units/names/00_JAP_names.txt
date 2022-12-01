@@ -1,6 +1,6 @@
 ﻿JAP = {
 	submarine = {
-		prefix = "JDS"
+		prefix = ""
 		generic = { "Sensuikan" }
 		unique = {
 			"Ro-34" "I-1" "I-2" "I-3" "I-4" "I-5" "I-6" "I-7" "I-8" "I-70" "I-171" "I-172" "I-73" "I-174" "I-175" "I-15" "I-16" "I-17" "I-18" "I-19" "I-20" "I-21" 
@@ -16,8 +16,8 @@
 		}
 	}
 	destroyer = {
-		prefix = "JDS"
-		generic = { "Korubetto" }
+		prefix = ""
+		generic = { "Kuchikukan" }
 		unique = {
 			# Starting with Shiratsuyu class
 			"Shiratsuyu" "Shigure" "Murasame" "Yudachi" "Harusame" "Samidare" "Umikaze" "Yamakaze" "Kawakaze" "Suzukaze" "Asashio" "Oshio" "Michishio" "Arashio" "Natsugumo" 
@@ -42,25 +42,25 @@
 		}
 	}
 	light_cruiser = {
-		prefix = "JDS"
-		generic = { "Furigēto" }
+		prefix = ""
+		generic = { "Keijun'yokan" }
 		unique = {
 			"Katori" "Kashima" "Kashii" "Kashiwara" "Agano" "Noshiro" "Yahagi" "Sakawa" "Oyodo" 
 			# Cancelled/not completed
 			
 			# Captured/Converted/Older Models
 			"Ioshima" "Yasoshima" "Mogami" "Mikuma" "Suzuya" "Kumano" "Yodo" "Hirado" "Yahagi" 
-			"Tenryu" "Tatsuta" "Kuma" "Tama" "Kitakami" "Oi" "Kiso" "Nagara" "Isuzu" "Natori" "Yura" "Kinu" "Abukuma" "Yubari" "Sendai" "Jintsu" "Naka" 
+			"Tenryu" "Tatsuta" "Kuma" "Tama" "Kitikami" "Oi" "Kiso" "Nagara" "Isuzu" "Natori" "Yura" "Kinu" "Abukuma" "Yubari" "Sendai" "Jintsu" "Naka" 
 			"Furutaka" "Kako" "Aoba" "Kinugasa" "Myoko" "Nachi" "Haguro" "Ashigara" "Takao" "Atago" "Maya" "Chokai" "Tone" "Chikuma" "Aso" "Tsugaru" "Soya" "Ibuki" "Haogi"
 			# Fictional
 			"Iwaki" "Mabechi" "Takase" "Naruse" "Yoneshiro" "Omono" "Koyoshi" "Kuji" "Tsurumi" "Oyabe" "Tedori" "Kano" "Shonai" "Suzuka" "Kumozu" "Kushida" "Maruyama" "Hino"
-			"Takatsu" "Yoshii" "Takahashi" "Ashida" "Yoshino" "Onga" "Yabe" "Matsuura" "Yamakuni" "Chikugo" "Rokkaku" "Kikuchi" "Kase" "Honmyo" "Oita" "Ono" "Ota" "Banjo"
+			"Takatsu" "Yoshii" "Takahashi" "Ashida" "Yoshino" "Onga" "Yabe" "Matsuura" "Yamakuni" "Chikugo" "Rokkaku" "Kikuchi" "Kase" "Honmyo" "Ooita" "Ono" "Ota" "Banjo"
 			"Gokase" "Omaru" "Kimotsuki"
 		}
 	}
 	heavy_cruiser = {
-		prefix = "JDS"
-		generic = { "Kuchikukan" }
+		prefix = ""
+		generic = { "Jun'yokan" }
 		unique = {
 			"Mogami" "Mikuma" "Suzuya" "Kumano" "Tone" "Chikuma" "Aso" "Tsugaru" "Soya" 
 			# Older Models
@@ -75,8 +75,8 @@
 		}
 	}
 	battle_cruiser = {
-		prefix = "JDS"
-		generic = { "battle_cruiser" }
+		prefix = ""
+		generic = { "Jun'yosenkan" }
 		unique = {
 			 "Amagi" "Tsukuba" "Ikoma" "Ibuki" "Kurama" "Akagi" "Atago" "Takao" "Kongo" "Hiei" "Haruna" "Kirishima"
 			# Fictional
@@ -87,8 +87,8 @@
 		}
 	}
 	battleship = {
-		prefix = "JDS"
-		generic = { "Misairu jun'yokan" }
+		prefix = ""
+		generic = { "Senkan" }
 		unique = {
 			"Hiei" "Yamato" "Musashi" "Tosa" "Kii" "Owari" "Iwami" "Sagami" "Suwo" "Hizen" "Tango" "Iki" 
 			# Captured/Converted/Older Models
@@ -99,19 +99,46 @@
 			
 		}
 	}
-	ship_hull_super_heavy_1 = {
-		prefix = "JDS"
-		generic = { "Jun'yosenkan" }
-		unique = {  }
-	}
 	carrier = {
-		prefix = "JDS"
+		prefix = ""
 		generic = { "Kokubokan" }
 		unique = {
 			"Soryu" "Hiryu" "Shokaku" "Zuikaku" "Junyo" "Hiyo" "Taiho" "Unryu" "Amagi" "Katsuragi" "Shinano" "Kasagi" "Aso" "Ikoma" 
 			"Kurama" "Akagi" "Kaga" "Hosho" "Ryujo" "Zuiho" "Shoho" "Ryuho" "Chitose" "Chiyoda" "Ibuki"	"Taiyo" "Unyo" "Chuyo"
 			"Shinyo"
 		}
+	}
+	air_wing_names_template = AIR_WING_NAME_JAP_FALLBACK
+
+	cv_fighter_equipment = {
+		prefix = ""
+		generic = { "Kokutai" }
+		generic_pattern = AIR_WING_NAME_JAP_CARRIER
+		unique = {
+		}	
+	}
+
+	cv_CAS_equipment = {
+		prefix = ""
+		generic = { "Kokutai" }
+		generic_pattern = AIR_WING_NAME_JAP_CARRIER
+		unique = {
+		}	
+	}
+	cv_nav_bomber_equipment = {
+		prefix = ""
+		generic = { "Kokutai" }
+		generic_pattern = AIR_WING_NAME_JAP_CARRIER
+		unique = {
+		}	
+	}
+
+	suicide_craft_equipment = {
+		prefix = ""
+		generic = { "Tokubetsu Kogekitai" }
+		generic_pattern = AIR_WING_NAME_JAP_CARRIER
+		unique = {
+		}	
 	}
 
 	infantry = {

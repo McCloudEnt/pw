@@ -168,18 +168,18 @@ guiTypes = {
 
 		instantTextboxType = {
 			name = "factories_amount"
-			position = { x = 250 y = 106 }
+			position = { x = 234 y = 106 }
 			font = "hoi_18mbs"
-			maxWidth = 120				
+			maxWidth = 150				
 			text = "CONSTRUCTION_FACTORIES_LABEL"
 			format = center
 		}
 		
 		instantTextboxType = {
 			name = "priority"
-			position = { x = 330 y = 106 }
+			position = { x = 295 y = 106 }
 			font = "hoi_18mbs"
-			maxWidth = 110				
+			maxWidth = 150				
 			text = "CONSTRUCTION_PRIORITY_LABEL"
 			format = center
 		}
@@ -189,7 +189,7 @@ guiTypes = {
 			position = { x = 0 y = 130 }
 			size = { width = 440 height = 100%% }
 			verticalScrollbar = "right_vertical_slider"
-			vertical_scroll_step = 52
+			vertical_scroll_step = 50
 			scroll_wheel_factor = 40
 			smooth_scrolling = yes
 			margin = { top = 13 left = 13 bottom = 15 right = 25}
@@ -238,8 +238,14 @@ guiTypes = {
 			
 			iconType = {
 				name = "constructions_bg3"
-				position = { x = 0 y = 424 }
-				quadTextureSprite = "GFX_constructions_bg1"
+				position = { x = 0 y = 520 }
+				quadTextureSprite = "GFX_constructions_bg2"
+			}
+
+			iconType = {
+				name = "constructions_bg4"
+				position = { x = 0 y = 710 }
+				quadTextureSprite = "GFX_constructions_bg3"
 			}
 
 			iconType = {
@@ -256,7 +262,7 @@ guiTypes = {
 
 			iconType = {
 				name = "province_constructions"
-				position = { x = 5 y = 427 }
+				position = { x = 5 y = 523 }
 				quadTextureSprite = "GFX_province_constructions"
 			}
 			
@@ -274,34 +280,33 @@ guiTypes = {
 				position = { x = 8 y = 196 }
 				size = { width = 100% height = 100% }
 				slotsize = { width = 46 height = 44 }
-				#max_slots_horizontal = 2
-				max_slots = { x = 2 y = 5 }
+				max_slots_horizontal = 2
 				format = "UPPER_LEFT"
 			}
 			
 			gridBoxType = {
 				name = "province_item_grid"
-				position = { x = 8 y = 466 }
+				position = { x = 8 y = 565 }
 				size = { width = 100% height = 100% }
 				slotsize = { width = 46 height = 44 }
 				max_slots_horizontal = 2
 				format = "UPPER_LEFT"
 			}
-			
-			buttonType = {
-				name = "convert_ic_button"
-				position = { x = -98 y = 376 }
-				quadTextureSprite ="GFX_convert_ic_button"
-				buttonFont = "Main_14_black"
-				Orientation = "UPPER_RIGHT"
-				pdx_tooltip = "CONSTRUCTION_CONVERT_IC_TOOLTIP"
-				pdx_tooltip_delayed = "CONSTRUCTION_CONVERT_IC_TOOLTIP_DELAYED"
-			}
+		}
+
+		buttonType = {
+			name = "convert_ic_button"
+			position = { x = -81 y = 768 }
+			quadTextureSprite ="GFX_convert_ic_button"
+			buttonFont = "Main_14_black"
+			Orientation = "UPPER_RIGHT"
+			pdx_tooltip = "CONSTRUCTION_CONVERT_IC_TOOLTIP"
+			pdx_tooltip_delayed = "CONSTRUCTION_CONVERT_IC_TOOLTIP_DELAYED"
 		}
 				
 		buttonType = {
 			name = "minimize"
-			position = { x = -93 y = 12 }
+			position = { x = -74 y = 833 }
 			quadTextureSprite ="GFX_production_line_arrow_left"
 			buttonFont = "Main_14_black"
 			Orientation = "UPPER_RIGHT"
@@ -310,7 +315,7 @@ guiTypes = {
 		
 		buttonType = {
 			name = "expand"
-			position = { x = -93 y = 12 }
+			position = { x = -74 y = 843 }
 			quadTextureSprite ="GFX_production_line_arrow_right"
 			buttonFont = "Main_14_black"
 			Orientation = "UPPER_RIGHT"
@@ -339,7 +344,7 @@ guiTypes = {
 		iconType ={
 			name ="tutorial_glow"
 			spriteType = "GFX_tutorial_building_icon_glow"
-			position = { x= 491 y = 247 }
+			position = { x= 491 y = 244 }
 			Orientation = "UPPER_LEFT"
 			hide = yes
 		}
@@ -378,17 +383,17 @@ guiTypes = {
 			pdx_tooltip = "PRODUCTION_DRAG_N_DROP"
 		}
 
-		iconType = {
-			name = "new_glow"
-			position = { x = 0 y = 2 }
-			spriteType = "GFX_construction_line_glow"
-			alwaystransparent = yes
-		}
-
 		buttonType = {
 			name = "relative_flag"
 			quadTextureSprite ="GFX_construction_flag"
 			position = { x= 0 y = 0}
+			alwaystransparent = yes
+		}
+		
+		iconType = {
+			name = "new_glow"
+			position = { x = 0 y = 2 }
+			spriteType = "GFX_construction_line_glow"
 			alwaystransparent = yes
 		}
 		
@@ -420,12 +425,13 @@ guiTypes = {
 			vertical_alignment = center
 			alwaystransparent = yes
 		}
-	
+		
 		iconType = {
 			name = "picture"
 			position = { x = 172 y = 5 }
 			spriteType = "GFX_buildings_strip"
-		}		
+		}
+		
 		iconType = {
 			name = "overlay"
 			position = { x = 172 y = 5 }
@@ -516,8 +522,7 @@ guiTypes = {
 			position = { x=370 y=14	 }
 			quadTextureSprite = "GFX_closebutton_small"
 			clicksound = click_default
-		}
-
+		}	
 		iconType = {
             name = "scorched_icon"
             position = { x = 260 y = 10 }
@@ -638,7 +643,7 @@ guiTypes = {
 			pdx_tooltip = "PRODUCTION_DECREASE_PRIORITY_LABEL"
 			pdx_tooltip_delayed = "PRODUCTION_PRIORITY_DELAYED"
 			clicksound = click_default
-		}	
+		}		
 	}
 	
 	containerWindowType = {

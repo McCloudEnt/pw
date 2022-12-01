@@ -15,18 +15,18 @@ default = {
 
 	operative = {
 		male = {
-			"gfx/leaders/operative_unknown.dds"
+			"GFX_portrait_operative_unknown"
 		}
 		female = {
-			"gfx/leaders/operative_unknown.dds"
+			"GFX_portrait_operative_unknown"
 		}
 	}
 
 	male = {
-		"gfx/leaders/leader_unknown.dds"
+		"GFX_portrait_unknown"
 	}
 	female = {
-		"gfx/leaders/leader_unknown_female.dds"
+		"GFX_portrait_unknown_female"
 	}
 }
 
@@ -34,242 +34,48 @@ continent = {
 	name = europe
 	army = {
 		male = {
-			"GFX_Portrait_Europe_Generic_land_1"
-			"GFX_Portrait_Europe_Generic_land_2"
-			"GFX_Portrait_Europe_Generic_land_3"
-			"GFX_Portrait_Europe_Generic_land_4"
-			"GFX_Portrait_Europe_Generic_land_5"
-			"GFX_portrait_europe_generic_land_13"
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
 		}
 	}
 	
 	navy = {
 		male = {
-			"GFX_Portrait_Europe_Generic_navy_1"
-			"GFX_Portrait_Europe_Generic_navy_2"
-			"GFX_Portrait_Europe_Generic_navy_3"
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
 		}
-	}
-	
-	political = {
-		communist = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician_communist1.dds"
-				"gfx/leaders/Europe/politician_communist2.dds"
-				"gfx/leaders/Europe/politician_communist3.dds"
-				"gfx/leaders/Europe/politician_communist4.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		democratic_socialist = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		progressive = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		social_democrat = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		social_liberal = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		market_liberal = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		conservative = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		reactionary = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		monarchist = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-		}
-		nationalist = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician_fascist1.dds"
-				"gfx/leaders/Europe/politician_fascist2.dds"
-				"gfx/leaders/Europe/politician_fascist3.dds"
-				"gfx/leaders/Europe/politician_fascist4.dds"
-			}
-		}
-		fascist = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician_fascist1.dds"
-				"gfx/leaders/Europe/politician_fascist2.dds"
-				"gfx/leaders/Europe/politician_fascist3.dds"
-				"gfx/leaders/Europe/politician_fascist4.dds"
-			}
-		}
-		islamist = {
-			male = { 
-				"gfx/leaders/Europe/politician_islamist1.dds"
-				"gfx/leaders/Europe/politician_islamist2.dds"
-			}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
 		}
 	}
 }
@@ -278,630 +84,137 @@ continent = {
 	name = north_america
 	army = {
 		male = {
-			"GFX_Portrait_Europe_Generic_land_1"
-			"GFX_Portrait_Europe_Generic_land_2"
-			"GFX_Portrait_Europe_Generic_land_3"
-			"GFX_Portrait_Europe_Generic_land_4"
-			"GFX_Portrait_Europe_Generic_land_5"
-			"GFX_Portrait_Europe_Generic_land_6"
+			"GFX_latam_general1"
+			"GFX_latam_general2"
+			"GFX_latam_general3"
+			"GFX_latam_general4"
+			"GFX_latam_general5"
+		}
+		female = {
+			"GFX_latin_woman_general_1"
+			"GFX_latin_woman_general_2"
+			"GFX_latin_woman_general_3"
+			"GFX_latin_woman_general_4"
+			"GFX_latin_woman_general_5"
+			"GFX_latin_woman_general_6"
+			"GFX_latin_woman_general_7"
+			"GFX_latin_woman_general_8"
 		}
 	}
 	
 	navy = {
 		male = {
-			"GFX_Portrait_Europe_Generic_navy_1"
-			"GFX_Portrait_Europe_Generic_navy_2"
-			"GFX_Portrait_Europe_Generic_navy_3"
+			"GFX_latam_general1"
+			"GFX_latam_general2"
+			"GFX_latam_general3"
+			"GFX_latam_general4"
+			"GFX_latam_general5"
+		}
+		female = {
+			"GFX_latin_woman_general_1"
+			"GFX_latin_woman_general_2"
+			"GFX_latin_woman_general_3"
+			"GFX_latin_woman_general_4"
+			"GFX_latin_woman_general_5"
+			"GFX_latin_woman_general_6"
+			"GFX_latin_woman_general_7"
+			"GFX_latin_woman_general_8"
 		}
 	}
-	
-	political = {
-		communist = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician_communist1.dds"
-				"gfx/leaders/Europe/politician_communist2.dds"
-				"gfx/leaders/Europe/politician_communist3.dds"
-				"gfx/leaders/Europe/politician_communist4.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		democratic_socialist = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_ian_mccollum.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		progressive = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_ian_mccollum.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		social_democrat = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_ian_mccollum.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		social_liberal = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_ian_mccollum.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		market_liberal = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_ian_mccollum.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		conservative = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_ian_mccollum.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		reactionary = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_ian_mccollum.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		monarchist = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-		}
-		nationalist = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician_fascist1.dds"
-				"gfx/leaders/Europe/politician_fascist2.dds"
-				"gfx/leaders/Europe/politician_fascist3.dds"
-				"gfx/leaders/Europe/politician_fascist4.dds"
-			}
-		}
-		fascist = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician_fascist1.dds"
-				"gfx/leaders/Europe/politician_fascist2.dds"
-				"gfx/leaders/Europe/politician_fascist3.dds"
-				"gfx/leaders/Europe/politician_fascist4.dds"
-			}
-		}
-		islamist = {
-			male = { 
-				"gfx/leaders/Europe/politician_islamist1.dds"
-				"gfx/leaders/Europe/politician_islamist2.dds"
-			}
-		}
-	}
+
 }
 
 continent = {
 	name = south_america
 	army = {
 		male = {
-			"GFX_Portrait_Europe_Generic_land_1"
-			"GFX_Portrait_Europe_Generic_land_6"
+			"GFX_latam_general1"
+			"GFX_latam_general2"
+			"GFX_latam_general3"
+			"GFX_latam_general4"
+			"GFX_latam_general5"
+		}
+		female = {
+			"GFX_latin_woman_general_1"
+			"GFX_latin_woman_general_2"
+			"GFX_latin_woman_general_3"
+			"GFX_latin_woman_general_4"
+			"GFX_latin_woman_general_5"
+			"GFX_latin_woman_general_6"
+			"GFX_latin_woman_general_7"
+			"GFX_latin_woman_general_8"
 		}
 	}
 	
 	navy = {
 		male = {
-			"gfx/leaders/South America/general1.dds"
+			"GFX_latam_general1"
+			"GFX_latam_general2"
+			"GFX_latam_general3"
+			"GFX_latam_general4"
+			"GFX_latam_general5"
+		}
+		female = {
+			"GFX_latin_woman_general_1"
+			"GFX_latin_woman_general_2"
+			"GFX_latin_woman_general_3"
+			"GFX_latin_woman_general_4"
+			"GFX_latin_woman_general_5"
+			"GFX_latin_woman_general_6"
+			"GFX_latin_woman_general_7"
+			"GFX_latin_woman_general_8"
 		}
 	}
-	
-	political = {
-		communist = {
-			male = { 
-				"gfx/leaders/South America/politician_communist1.dds"
-			}
-		}
-		democratic_socialist = {
-			male = { 
-				"gfx/leaders/South America/politician1.dds"
-				"gfx/leaders/South America/politician2.dds"
-				"gfx/leaders/South America/politician3.dds"
-				"gfx/leaders/South America/politician4.dds"
-			}
-			female = {
-				"gfx/leaders/South America/politician_female1.dds"
-			}
-		}
-		progressive = {
-			male = { 
-				"gfx/leaders/South America/politician1.dds"
-				"gfx/leaders/South America/politician2.dds"
-				"gfx/leaders/South America/politician3.dds"
-				"gfx/leaders/South America/politician4.dds"
-			}
-			female = {
-				"gfx/leaders/South America/politician_female1.dds"
-			}
-		}
-		social_democrat = {
-			male = { 
-				"gfx/leaders/South America/politician1.dds"
-				"gfx/leaders/South America/politician2.dds"
-				"gfx/leaders/South America/politician3.dds"
-				"gfx/leaders/South America/politician4.dds"
-			}
-			female = {
-				"gfx/leaders/South America/politician_female1.dds"
-			}
-		}
-		social_liberal = {
-			male = { 
-				"gfx/leaders/South America/politician1.dds"
-				"gfx/leaders/South America/politician2.dds"
-				"gfx/leaders/South America/politician3.dds"
-				"gfx/leaders/South America/politician4.dds"
-			}
-			female = {
-				"gfx/leaders/South America/politician_female1.dds"
-			}
-		}
-		market_liberal = {
-			male = { 
-				"gfx/leaders/South America/politician1.dds"
-				"gfx/leaders/South America/politician2.dds"
-				"gfx/leaders/South America/politician3.dds"
-				"gfx/leaders/South America/politician4.dds"
-			}
-			female = {
-				"gfx/leaders/South America/politician_female1.dds"
-			}
-		}
-		conservative = {
-			male = { 
-				"gfx/leaders/South America/politician1.dds"
-				"gfx/leaders/South America/politician2.dds"
-				"gfx/leaders/South America/politician3.dds"
-				"gfx/leaders/South America/politician4.dds"
-			}
-			female = {
-				"gfx/leaders/South America/politician_female1.dds"
-			}
-		}
-		reactionary = {
-			male = { 
-				"gfx/leaders/South America/politician1.dds"
-				"gfx/leaders/South America/politician2.dds"
-				"gfx/leaders/South America/politician3.dds"
-				"gfx/leaders/South America/politician4.dds"
-			}
-			female = {
-				"gfx/leaders/South America/politician_female1.dds"
-			}
-		}
-		monarchist = {
-			male = { 
-				"gfx/leaders/South America/politician1.dds"
-				"gfx/leaders/South America/politician2.dds"
-				"gfx/leaders/South America/politician3.dds"
-				"gfx/leaders/South America/politician4.dds"
-			}
-			female = {
-				"gfx/leaders/South America/politician_female1.dds"
-			}
-		}
-		nationalist = {
-			male = { 
-				"gfx/leaders/South America/politician1.dds"
-				"gfx/leaders/South America/politician2.dds"
-				"gfx/leaders/South America/politician3.dds"
-				"gfx/leaders/South America/politician4.dds"
-			}
-			female = {
-				"gfx/leaders/South America/politician_female1.dds"
-			}
-		}
-		fascist = {
-			male = { 
-				"gfx/leaders/South America/politician1.dds"
-				"gfx/leaders/South America/politician2.dds"
-				"gfx/leaders/South America/politician3.dds"
-				"gfx/leaders/South America/politician4.dds"
-			}
-			female = {
-				"gfx/leaders/South America/politician_female1.dds"
-			}
-		}
-		islamist = {
-			male = { 
-				"gfx/leaders/South America/politician_islamist1.dds" 
-				"gfx/leaders/South America/politician_islamist2.dds" 
-			}
-			female = {
-				"gfx/leaders/South America/politician_female1.dds"
-			}
-		}
-	}
-
 }
+
+
+
 
 continent = {
 	name = australia
 	army = {
 		male = {
-			"GFX_Portrait_Europe_Generic_land_1"
-			"GFX_Portrait_Europe_Generic_land_2"
-			"GFX_Portrait_Europe_Generic_land_3"
-			"GFX_Portrait_Europe_Generic_land_4"
-			"GFX_Portrait_Europe_Generic_land_5"
-			"GFX_Portrait_Europe_Generic_land_6"
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
+			
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
 		}
 	}
 	
 	navy = {
 		male = {
-			"GFX_Portrait_Europe_Generic_navy_1"
-			"GFX_Portrait_Europe_Generic_navy_2"
-			"GFX_Portrait_Europe_Generic_navy_3"
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
 		}
-	}
-	
-	political = {
-		communist = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician_communist1.dds"
-				"gfx/leaders/Europe/politician_communist2.dds"
-				"gfx/leaders/Europe/politician_communist3.dds"
-				"gfx/leaders/Europe/politician_communist4.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		democratic_socialist = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		progressive = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		social_democrat = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		social_liberal = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		market_liberal = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		conservative = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		reactionary = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-			female = {
-				"gfx/leaders/Europe/politician_female1.dds"
-				"gfx/leaders/Europe/politician_female2.dds"
-			}
-		}
-		monarchist = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician8.dds"
-				"gfx/leaders/Europe/politician9.dds"
-				"gfx/leaders/Europe/politician10.dds"
-				"gfx/leaders/Europe/politician11.dds"
-				"gfx/leaders/Europe/politician12.dds"
-				"gfx/leaders/Europe/politician_lindy.dds"
-			}
-		}
-		nationalist = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician_fascist1.dds"
-				"gfx/leaders/Europe/politician_fascist2.dds"
-				"gfx/leaders/Europe/politician_fascist3.dds"
-				"gfx/leaders/Europe/politician_fascist4.dds"
-			}
-		}
-		fascist = {
-			male = { 
-				"gfx/leaders/Europe/politician1.dds"
-				"gfx/leaders/Europe/politician2.dds"
-				"gfx/leaders/Europe/politician3.dds"
-				"gfx/leaders/Europe/politician4.dds"
-				"gfx/leaders/Europe/politician5.dds"
-				"gfx/leaders/Europe/politician6.dds"
-				"gfx/leaders/Europe/politician7.dds"
-				"gfx/leaders/Europe/politician_fascist1.dds"
-				"gfx/leaders/Europe/politician_fascist2.dds"
-				"gfx/leaders/Europe/politician_fascist3.dds"
-				"gfx/leaders/Europe/politician_fascist4.dds"
-			}
-		}
-		islamist = {
-			male = { 
-				"gfx/leaders/Europe/politician_islamist1.dds"
-				"gfx/leaders/Europe/politician_islamist2.dds"
-			}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
 		}
 	}
 }
@@ -910,340 +223,2998 @@ continent = {
 	name = africa
 	army = {
 		male = {
-			"GFX_Portrait_Africa_Generic_land_1"
-			"GFX_Portrait_Africa_Generic_land_2"
-			"GFX_Portrait_Africa_Generic_land_3"
+			"GFX_africa_general_1"
+			"GFX_africa_general_2"
+			"GFX_africa_general_3"
+			"GFX_africa_general_4"
+			"GFX_africa_general_5"
+            "GFX_africa_general_6"
+			"GFX_africa_general_7"
 		}
+		
+	female = {
+		"GFX_africa_woman_general_1"
+		"GFX_africa_woman_general_2"
+		"GFX_africa_woman_general_3"
+		"GFX_africa_woman_general_4"
+		"GFX_africa_woman_general_5"
+		"GFX_africa_woman_general_6"
+		"GFX_africa_woman_general_7"
+		"GFX_africa_woman_general_8"
+	}
 	}
 	
 	navy = {
 		male = {
-			"GFX_Portrait_Africa_Generic_navy_1"
-			"GFX_Portrait_Africa_Generic_navy_2"
-			"GFX_Portrait_Africa_Generic_navy_3"
+			"GFX_africa_general_1"
+			"GFX_africa_general_2"
+			"GFX_africa_general_3"
+			"GFX_africa_general_4"
+			"GFX_africa_general_5"
+            "GFX_africa_general_6"
+			"GFX_africa_general_7"
 		}
+		
+	female = {
+		"GFX_africa_woman_general_1"
+		"GFX_africa_woman_general_2"
+		"GFX_africa_woman_general_3"
+		"GFX_africa_woman_general_4"
+		"GFX_africa_woman_general_5"
+		"GFX_africa_woman_general_6"
+		"GFX_africa_woman_general_7"
+		"GFX_africa_woman_general_8"
 	}
-	
-	political = {
-		communist = {
-			male = {
-				"gfx/leaders/Africa/politician1.dds"
-				"gfx/leaders/Africa/politician2.dds"
-				"gfx/leaders/Africa/politician3.dds"
-			}
-		}
-		democratic_socialist = {
-			male = {
-				"gfx/leaders/Africa/politician1.dds"
-				"gfx/leaders/Africa/politician2.dds"
-				"gfx/leaders/Africa/politician3.dds"
-			}
-		}
-		progressive = {
-			male = {
-				"gfx/leaders/Africa/politician1.dds"
-				"gfx/leaders/Africa/politician2.dds"
-				"gfx/leaders/Africa/politician3.dds"
-			}
-		}
-		social_democrat = {
-			male = {
-				"gfx/leaders/Africa/politician1.dds"
-				"gfx/leaders/Africa/politician2.dds"
-				"gfx/leaders/Africa/politician3.dds"
-			}
-		}
-		social_liberal = {
-			male = {
-				"gfx/leaders/Africa/politician1.dds"
-				"gfx/leaders/Africa/politician2.dds"
-				"gfx/leaders/Africa/politician3.dds"
-			}
-		}
-		market_liberal = {
-			male = {
-				"gfx/leaders/Africa/politician1.dds"
-				"gfx/leaders/Africa/politician2.dds"
-				"gfx/leaders/Africa/politician3.dds"
-			}
-		}
-		conservative = {
-			male = {
-				"gfx/leaders/Africa/politician1.dds"
-				"gfx/leaders/Africa/politician2.dds"
-				"gfx/leaders/Africa/politician3.dds"
-			}
-		}
-		reactionary = {
-			male = {
-				"gfx/leaders/Africa/politician1.dds"
-				"gfx/leaders/Africa/politician2.dds"
-				"gfx/leaders/Africa/politician3.dds"
-			}
-		}
-		nationalist = {
-			male = {
-				"gfx/leaders/Africa/politician1.dds"
-				"gfx/leaders/Africa/politician2.dds"
-				"gfx/leaders/Africa/politician3.dds"
-			}
-		}
-		monarchist = {
-			male = {
-				"gfx/leaders/Africa/politician1.dds"
-				"gfx/leaders/Africa/politician2.dds"
-				"gfx/leaders/Africa/politician3.dds"
-			}
-		}
-		fascist = {
-			male = {
-				"gfx/leaders/Africa/politician1.dds"
-				"gfx/leaders/Africa/politician2.dds"
-				"gfx/leaders/Africa/politician3.dds"
-				"gfx/leaders/Africa/general2.dds"
-				"gfx/leaders/Africa/general3.dds"
-			}
-		}
-		islamist = {
-			male = {
-				"gfx/leaders/Africa/politician1.dds"
-				"gfx/leaders/Africa/politician2.dds"
-				"gfx/leaders/Africa/politician3.dds"
-			}
-		}
 	}
-
-
 }
 
 continent = {
 	name = asia
 	army = {
 		male = {
-			"gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
-			"gfx/leaders/Asia/Portrait_Asia_Generic_land_2.dds"
-			"gfx/leaders/Asia/Portrait_Asia_Generic_land_3.dds"
-			"gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
-			"gfx/leaders/Asia/Portrait_Asia_Generic_land_5.dds"
+			"GFX_india_general1"
+			"GFX_india_general2"
+			"GFX_india_general3"
+			"GFX_india_general4"
+			"GFX_india_general5"
+			"GFX_india_general6"
 		}
-		
 		female = {
-			"gfx/leaders/Asia/Portrait_Asia_Generic_land_female_1.dds"
+			"GFX_indian_subcon_woman_general_1"
+			"GFX_indian_subcon_woman_general_2"
+			"GFX_indian_subcon_woman_general_3"
+			"GFX_indian_subcon_woman_general_4"
+			"GFX_indian_subcon_woman_general_5"
+			"GFX_indian_subcon_woman_general_6"
+			"GFX_indian_subcon_woman_general_7"
+			"GFX_indian_subcon_woman_general_8"
 		}
 	}
 	
 	navy = {
 		male = {
-			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_1.dds"
-			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_2.dds"
-			"gfx/leaders/Asia/Portrait_Asia_Generic_navy_3.dds"
+			"GFX_india_general1"
+			"GFX_india_general2"
+			"GFX_india_general3"
+			"GFX_india_general4"
+			"GFX_india_general5"
+			"GFX_india_general6"
 		}
-		
 		female = {
-			"gfx/leaders/Asia/Portrait_Asia_Generic_land_female_1.dds"
+			"GFX_indian_subcon_woman_general_1"
+			"GFX_indian_subcon_woman_general_2"
+			"GFX_indian_subcon_woman_general_3"
+			"GFX_indian_subcon_woman_general_4"
+			"GFX_indian_subcon_woman_general_5"
+			"GFX_indian_subcon_woman_general_6"
+			"GFX_indian_subcon_woman_general_7"
+			"GFX_indian_subcon_woman_general_8"
+		}
+	}
+}
+
+continent = {
+	name = middle_east
+	army = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+}
+
+
+USA = {
+	army = {
+		male = {
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
+			
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
 		}
 	}
 
-	political = {
-		communist = {
-			male = { 
-				"gfx/leaders/Asia/Portrait_Asia_Generic_communism_land_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_communism_land_2.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_communism_land_3.dds"
-			}
+}
+
+CAN = {
+	army = {
+		male = {
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
 		}
-		democratic_socialist = {
-			male = { 
-				"gfx/leaders/Asia/Portrait_Asia_Generic_democracy.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_4.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_5.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_6.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_7.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_8.dds"
-			}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+
+}
+
+QUE = {
+	army = {
+		male = {
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
 			
-			female = {
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_2.dds"
-			}
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
 		}
-		progressive = {
-			male = { 
-				"gfx/leaders/Asia/Portrait_Asia_Generic_democracy.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_4.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_5.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_6.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_7.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_8.dds"
-			}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+
+}
+
+NEA = {
+	army = {
+		male = {
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
 			
-			female = {
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_1.dds"
-			}
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
 		}
-		social_democrat = {
-			male = { 
-				"gfx/leaders/Asia/Portrait_Asia_Generic_democracy.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_4.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_5.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_6.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_7.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_8.dds"
-			}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+
+}
+
+PCA = {
+	army = {
+		male = {
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
 			
-			female = {
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_2.dds"
-			}
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
 		}
-		social_liberal = {
-			male = { 
-				"gfx/leaders/Asia/Portrait_Asia_Generic_democracy.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_4.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_5.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_6.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_7.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_8.dds"
-			}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+
+}
+
+ALA = {
+	army = {
+		male = {
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
 			
-			female = {
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_2.dds"
-			}
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
 		}
-		market_liberal = {
-			male = { 
-				"gfx/leaders/Asia/Portrait_Asia_Generic_democracy.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_4.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_5.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_6.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_7.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_8.dds"
-			}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+}
+
+TEX = {
+	army = {
+		male = {
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
 			
-			female = {
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_2.dds"
-			}
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
 		}
-		conservative = {
-			male = { 
-				"gfx/leaders/Asia/Portrait_Asia_Generic_democracy.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_4.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_5.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_6.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_7.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_8.dds"
-			}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+
+}
+
+MWA = {
+	army = {
+		male = {
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
 			
-			female = {
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_2.dds"
-			}
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
 		}
-		
-		reactionary = {
-			male = { 
-				"gfx/leaders/Asia/Portrait_Asia_Generic_democracy.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_4.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_5.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_6.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_7.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_8.dds"
-			}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+
+}
+
+CSD = {
+	army = {
+		male = {
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
 			
-			female = {
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_2.dds"
-			}
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
 		}
-		
-		monarchist = {
-			male = { 
-				"gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_4.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_5.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_6.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_7.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_8.dds"
-			}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+
+}
+
+GRL = {
+	army = {
+		male = {
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
 			
-			female = {
-				"gfx/leaders/Asia/Portrait_Asia_Generic_land_female_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_2.dds"
-			}
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
 		}
-		
-		nationalist = {
-			male = { 
-				"gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_land_2.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_land_3.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_land_5.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_navy_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_navy_2.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_navy_3.dds"
-			}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+
+}
+
+LIN = {
+	army = {
+		male = {
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
 			
-			female = {
-				"gfx/leaders/Asia/Portrait_Asia_Generic_land_female_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_2.dds"
-			}
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
 		}
-		fascist = {
-			male = { 
-				"gfx/leaders/Asia/Portrait_Asia_Generic_land_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_land_2.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_land_3.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_land_4.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_land_5.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_navy_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_navy_2.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_navy_3.dds"
-			}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+
+}
+
+MOT = {
+	army = {
+		male = {
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
 			
-			female = {
-				"gfx/leaders/Asia/Portrait_Asia_Generic_land_female_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_female_2.dds"
-			}
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
 		}
-		islamist = {
-			male = { 
-				"gfx/leaders/Asia/Portrait_Asia_Generic_1.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_2.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_3.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_4.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_5.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_6.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_7.dds"
-				"gfx/leaders/Asia/Portrait_Asia_Generic_8.dds"
-			}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
 		}
-	}	
+	}
+	
+	navy = {
+		male = {
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+
+}
+
+UTA = {
+	army = {
+		male = {
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
+			
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+
+}
+
+ILL = {
+	army = {
+		male = {
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
+			
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+
+}
+
+AMC = {
+	army = {
+		male = {
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
+			
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+
+}
+
+
+
+
+LBA = {
+	army = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+}
+
+UAR = {
+	army = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+}
+
+EGY = {
+	army = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+}
+
+SUD = {
+	army = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+}
+
+TUN = {
+	army = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+}
+
+ALG = {
+	army = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+}
+
+AFG = {
+	army = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+}
+
+MOR = {
+	army = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_arab_general_1"
+			"GFX_arab_general_2"
+			"GFX_arab_general_3"
+			"GFX_arab_general_4"
+			"GFX_arab_general_5"
+			"GFX_arab_general_6"
+			"GFX_arab_general_7"
+		}
+		female = {
+			"GFX_arab_woman_general_1"
+			"GFX_arab_woman_general_2"
+			"GFX_arab_woman_general_3"
+			"GFX_arab_woman_general_4"
+			"GFX_arab_woman_general_5"
+			"GFX_arab_woman_general_6"
+			"GFX_arab_woman_general_7"
+		}
+	}
+}
+
+CHI = {
+	army = {
+		male = {
+			"GFX_asia_general_1"
+			"GFX_asia_general_2"
+			"GFX_asia_general_3"
+			"GFX_asia_general_4"
+			"GFX_asia_general_5"
+			"GFX_asia_general_6"
+			"GFX_asia_general_7"
+			"GFX_asia_general_8"
+		}
+		female = {
+			"GFX_asian_woman_general_1"
+			"GFX_asian_woman_general_2"
+			"GFX_asian_woman_general_3"
+			"GFX_asian_woman_general_4"
+			"GFX_asian_woman_general_5"
+			"GFX_asian_woman_general_6"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_asia_general_1"
+			"GFX_asia_general_2"
+			"GFX_asia_general_3"
+			"GFX_asia_general_4"
+			"GFX_asia_general_5"
+			"GFX_asia_general_6"
+			"GFX_asia_general_7"
+			"GFX_asia_general_8"
+		}
+		female = {
+			"GFX_asian_woman_general_1"
+			"GFX_asian_woman_general_2"
+			"GFX_asian_woman_general_3"
+			"GFX_asian_woman_general_4"
+			"GFX_asian_woman_general_5"
+			"GFX_asian_woman_general_6"
+		}
+	}
+}
+
+PRC = {
+	army = {
+		male = {
+			"GFX_asia_general_1"
+			"GFX_asia_general_2"
+			"GFX_asia_general_3"
+			"GFX_asia_general_4"
+			"GFX_asia_general_5"
+			"GFX_asia_general_6"
+			"GFX_asia_general_7"
+			"GFX_asia_general_8"
+		}
+		female = {
+			"GFX_asian_woman_general_1"
+			"GFX_asian_woman_general_2"
+			"GFX_asian_woman_general_3"
+			"GFX_asian_woman_general_4"
+			"GFX_asian_woman_general_5"
+			"GFX_asian_woman_general_6"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_asia_general_1"
+			"GFX_asia_general_2"
+			"GFX_asia_general_3"
+			"GFX_asia_general_4"
+			"GFX_asia_general_5"
+			"GFX_asia_general_6"
+			"GFX_asia_general_7"
+			"GFX_asia_general_8"
+		}
+		female = {
+			"GFX_asian_woman_general_1"
+			"GFX_asian_woman_general_2"
+			"GFX_asian_woman_general_3"
+			"GFX_asian_woman_general_4"
+			"GFX_asian_woman_general_5"
+			"GFX_asian_woman_general_6"
+		}
+	}
+}
+
+
+PRK = {
+	army = {
+		male = {
+			"GFX_asia_general_1"
+			"GFX_asia_general_2"
+			"GFX_asia_general_3"
+			"GFX_asia_general_4"
+			"GFX_asia_general_5"
+			"GFX_asia_general_6"
+			"GFX_asia_general_7"
+			"GFX_asia_general_8"
+		}
+		female = {
+			"GFX_asian_woman_general_1"
+			"GFX_asian_woman_general_2"
+			"GFX_asian_woman_general_3"
+			"GFX_asian_woman_general_4"
+			"GFX_asian_woman_general_5"
+			"GFX_asian_woman_general_6"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_asia_general_1"
+			"GFX_asia_general_2"
+			"GFX_asia_general_3"
+			"GFX_asia_general_4"
+			"GFX_asia_general_5"
+			"GFX_asia_general_6"
+			"GFX_asia_general_7"
+			"GFX_asia_general_8"
+		}
+		female = {
+			"GFX_asian_woman_general_1"
+			"GFX_asian_woman_general_2"
+			"GFX_asian_woman_general_3"
+			"GFX_asian_woman_general_4"
+			"GFX_asian_woman_general_5"
+			"GFX_asian_woman_general_6"
+		}
+	}
+}
+
+JAP = {
+	army = {
+		male = {
+			"GFX_asia_general_1"
+			"GFX_asia_general_2"
+			"GFX_asia_general_3"
+			"GFX_asia_general_4"
+			"GFX_asia_general_5"
+			"GFX_asia_general_6"
+			"GFX_asia_general_7"
+			"GFX_asia_general_8"
+		}
+		female = {
+			"GFX_asian_woman_general_1"
+			"GFX_asian_woman_general_2"
+			"GFX_asian_woman_general_3"
+			"GFX_asian_woman_general_4"
+			"GFX_asian_woman_general_5"
+			"GFX_asian_woman_general_6"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_asia_general_1"
+			"GFX_asia_general_2"
+			"GFX_asia_general_3"
+			"GFX_asia_general_4"
+			"GFX_asia_general_5"
+			"GFX_asia_general_6"
+			"GFX_asia_general_7"
+			"GFX_asia_general_8"
+		}
+		female = {
+			"GFX_asian_woman_general_1"
+			"GFX_asian_woman_general_2"
+			"GFX_asian_woman_general_3"
+			"GFX_asian_woman_general_4"
+			"GFX_asian_woman_general_5"
+			"GFX_asian_woman_general_6"
+		}
+	}
+}
+
+
+TIB = {
+	army = {
+		male = {
+			"GFX_asia_general_1"
+			"GFX_asia_general_2"
+			"GFX_asia_general_3"
+			"GFX_asia_general_4"
+			"GFX_asia_general_5"
+			"GFX_asia_general_6"
+			"GFX_asia_general_7"
+			"GFX_asia_general_8"
+		}
+		female = {
+			"GFX_asian_woman_general_1"
+			"GFX_asian_woman_general_2"
+			"GFX_asian_woman_general_3"
+			"GFX_asian_woman_general_4"
+			"GFX_asian_woman_general_5"
+			"GFX_asian_woman_general_6"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_asia_general_1"
+			"GFX_asia_general_2"
+			"GFX_asia_general_3"
+			"GFX_asia_general_4"
+			"GFX_asia_general_5"
+			"GFX_asia_general_6"
+			"GFX_asia_general_7"
+			"GFX_asia_general_8"
+		}
+		female = {
+			"GFX_asian_woman_general_1"
+			"GFX_asian_woman_general_2"
+			"GFX_asian_woman_general_3"
+			"GFX_asian_woman_general_4"
+			"GFX_asian_woman_general_5"
+			"GFX_asian_woman_general_6"
+		}
+	}
+}
+
+
+INS = {
+	army = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+            "GFX_southeastasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+           "GFX_southeastasia_woman_general_7" 
+		}
+	}
+}
+
+PHI = {
+	army = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+            "GFX_southeastasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+           "GFX_southeastasia_woman_general_7" 
+		}
+	}
+}
+
+MAY = {
+	army = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+            "GFX_southeastasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+           "GFX_southeastasia_woman_general_7" 
+		}
+	}
+}
+
+BOR = {
+	army = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+            "GFX_southeastasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+           "GFX_southeastasia_woman_general_7" 
+		}
+	}
+}
+
+SIG = {
+	army = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+            "GFX_southeastasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+           "GFX_southeastasia_woman_general_7" 
+		}
+	}
+}
+
+VIN = {
+	army = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+            "GFX_southeastasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+           "GFX_southeastasia_woman_general_7" 
+		}
+	}
+}
+
+MYA = {
+	army = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+            "GFX_southeastasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+           "GFX_southeastasia_woman_general_7" 
+		}
+	}
+}
+
+LAO = {
+	army = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+            "GFX_southeastasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+           "GFX_southeastasia_woman_general_7" 
+		}
+	}
+}
+
+CMB = {
+	army = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+            "GFX_southeastasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+           "GFX_southeastasia_woman_general_7" 
+		}
+	}
+}
+
+PLU = {
+	army = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+            "GFX_southeastasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+           "GFX_southeastasia_woman_general_7" 
+		}
+	}
+}
+
+PAP = {
+	army = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+            "GFX_southeastasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+           "GFX_southeastasia_woman_general_7" 
+		}
+	}
+}
+
+SIA = {
+	army = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+            "GFX_southeastasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+           "GFX_southeastasia_woman_general_7" 
+		}
+	}
+}
+
+
+TON = {
+	army = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+            "GFX_southeastasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+           "GFX_southeastasia_woman_general_7" 
+		}
+	}
+}
+
+
+FJI = {
+	army = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+            "GFX_southeastasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+           "GFX_southeastasia_woman_general_7" 
+		}
+	}
+}
+
+
+SMO = {
+	army = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+            "GFX_southeastasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+           "GFX_southeastasia_woman_general_7" 
+		}
+	}
+}
+
+KIR = {
+	army = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+            "GFX_southeastasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_southeastasia_general1"
+			"GFX_southeastasia_general2"
+			"GFX_southeastasia_general3"
+			"GFX_southeastasia_general4"
+			"GFX_southeastasia_general5"
+			"GFX_southeastasia_general6"
+			"GFX_southeastasia_general7"
+			"GFX_southeastasia_general8"
+            "GFX_southeastasia_general9"
+            "GFX_southeastasia_general10"
+            "GFX_southeastasia_general11"  
+		}
+		female = {
+			"GFX_southeastasia_woman_general_1"
+			"GFX_southeastasia_woman_general_2"
+			"GFX_southeastasia_woman_general_3"
+			"GFX_southeastasia_woman_general_4"
+			"GFX_southeastasia_woman_general_5"
+			"GFX_southeastasia_woman_general_6"
+           "GFX_southeastasia_woman_general_7" 
+		}
+	}
+}
+
+TUR = {
+	army = {
+		male = {
+			"GFX_turkic_general_1"
+			"GFX_turkic_general_2"
+			"GFX_turkic_general_3"
+			"GFX_turkic_general_4"
+			"GFX_turkic_general_5"
+			"GFX_turkic_general_6"
+			"GFX_turkic_general_7"
+		}
+		female = {
+			"GFX_turkic_woman_general_1"
+			"GFX_turkic_woman_general_2"
+			"GFX_turkic_woman_general_3"
+			"GFX_turkic_woman_general_4"
+			"GFX_turkic_woman_general_5"
+			"GFX_turkic_woman_general_6"
+			"GFX_turkic_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_turkic_general_1"
+			"GFX_turkic_general_2"
+			"GFX_turkic_general_3"
+			"GFX_turkic_general_4"
+			"GFX_turkic_general_5"
+			"GFX_turkic_general_6"
+			"GFX_turkic_general_7"
+		}
+		female = {
+			"GFX_turkic_woman_general_1"
+			"GFX_turkic_woman_general_2"
+			"GFX_turkic_woman_general_3"
+			"GFX_turkic_woman_general_4"
+			"GFX_turkic_woman_general_5"
+			"GFX_turkic_woman_general_6"
+			"GFX_turkic_woman_general_7"
+		}
+	}
+}
+
+AZR = {
+	army = {
+		male = {
+			"GFX_turkic_general_1"
+			"GFX_turkic_general_2"
+			"GFX_turkic_general_3"
+			"GFX_turkic_general_4"
+			"GFX_turkic_general_5"
+			"GFX_turkic_general_6"
+			"GFX_turkic_general_7"
+		}
+		female = {
+			"GFX_turkic_woman_general_1"
+			"GFX_turkic_woman_general_2"
+			"GFX_turkic_woman_general_3"
+			"GFX_turkic_woman_general_4"
+			"GFX_turkic_woman_general_5"
+			"GFX_turkic_woman_general_6"
+			"GFX_turkic_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_turkic_general_1"
+			"GFX_turkic_general_2"
+			"GFX_turkic_general_3"
+			"GFX_turkic_general_4"
+			"GFX_turkic_general_5"
+			"GFX_turkic_general_6"
+			"GFX_turkic_general_7"
+		}
+		female = {
+			"GFX_turkic_woman_general_1"
+			"GFX_turkic_woman_general_2"
+			"GFX_turkic_woman_general_3"
+			"GFX_turkic_woman_general_4"
+			"GFX_turkic_woman_general_5"
+			"GFX_turkic_woman_general_6"
+			"GFX_turkic_woman_general_7"
+		}
+	}
+}
+
+
+TAR = {
+	army = {
+		male = {
+			"GFX_turkic_general_1"
+			"GFX_turkic_general_2"
+			"GFX_turkic_general_3"
+			"GFX_turkic_general_4"
+			"GFX_turkic_general_5"
+			"GFX_turkic_general_6"
+			"GFX_turkic_general_7"
+		}
+		female = {
+			"GFX_turkic_woman_general_1"
+			"GFX_turkic_woman_general_2"
+			"GFX_turkic_woman_general_3"
+			"GFX_turkic_woman_general_4"
+			"GFX_turkic_woman_general_5"
+			"GFX_turkic_woman_general_6"
+			"GFX_turkic_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_turkic_general_1"
+			"GFX_turkic_general_2"
+			"GFX_turkic_general_3"
+			"GFX_turkic_general_4"
+			"GFX_turkic_general_5"
+			"GFX_turkic_general_6"
+			"GFX_turkic_general_7"
+		}
+		female = {
+			"GFX_turkic_woman_general_1"
+			"GFX_turkic_woman_general_2"
+			"GFX_turkic_woman_general_3"
+			"GFX_turkic_woman_general_4"
+			"GFX_turkic_woman_general_5"
+			"GFX_turkic_woman_general_6"
+			"GFX_turkic_woman_general_7"
+		}
+	}
+}
+
+
+BHS = {
+	army = {
+		male = {
+			"GFX_turkic_general_1"
+			"GFX_turkic_general_2"
+			"GFX_turkic_general_3"
+			"GFX_turkic_general_4"
+			"GFX_turkic_general_5"
+			"GFX_turkic_general_6"
+			"GFX_turkic_general_7"
+		}
+		female = {
+			"GFX_turkic_woman_general_1"
+			"GFX_turkic_woman_general_2"
+			"GFX_turkic_woman_general_3"
+			"GFX_turkic_woman_general_4"
+			"GFX_turkic_woman_general_5"
+			"GFX_turkic_woman_general_6"
+			"GFX_turkic_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_turkic_general_1"
+			"GFX_turkic_general_2"
+			"GFX_turkic_general_3"
+			"GFX_turkic_general_4"
+			"GFX_turkic_general_5"
+			"GFX_turkic_general_6"
+			"GFX_turkic_general_7"
+		}
+		female = {
+			"GFX_turkic_woman_general_1"
+			"GFX_turkic_woman_general_2"
+			"GFX_turkic_woman_general_3"
+			"GFX_turkic_woman_general_4"
+			"GFX_turkic_woman_general_5"
+			"GFX_turkic_woman_general_6"
+			"GFX_turkic_woman_general_7"
+		}
+	}
+}
+
+
+KZH = {
+	army = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+}
+
+UZB = {
+	army = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+}
+
+MOU = {
+	army = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+}
+
+TRM = {
+	army = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+}
+
+TJI = {
+	army = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+}
+
+KYR = {
+	army = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+}
+
+
+SIK = {
+	army = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+}
+
+KAR = {
+	army = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+}
+
+MON = {
+	army = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+}
+
+TAN = {
+	army = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+		}
+	}
+}
+
+
+SOV = {
+	army = {
+		male = {
+			"GFX_europe_general_1"
+			"GFX_europe_general_2"
+			"GFX_europe_general_4"
+			"GFX_europe_general_5"
+			"GFX_NA_general_1"
+			"GFX_NA_general_2"
+			"GFX_NA_general_3"
+			"GFX_NA_general_4"
+			"GFX_NA_general_5"
+			"GFX_NA_general_6"
+			"GFX_NA_general_7"
+			"GFX_NA_general_8"
+			"GFX_NA_general_9"
+			"GFX_centralasia_general_1"
+			"GFX_centralasia_general_2"
+			"GFX_centralasia_general_3"
+			"GFX_centralasia_general_4"
+			"GFX_centralasia_general_5"
+			"GFX_centralasia_general_6"
+			"GFX_centralasia_general_7"
+		}
+		female = {
+			"GFX_centralasia_woman_general_1"
+			"GFX_centralasia_woman_general_2"
+			"GFX_centralasia_woman_general_3"
+			"GFX_centralasia_woman_general_4"
+			"GFX_centralasia_woman_general_5"
+			"GFX_centralasia_woman_general_6"
+			"GFX_centralasia_woman_general_7"
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
+	
+	navy = {
+		male = {
+			"GFX_europe_admiral_1"
+			"GFX_europe_admiral_2"
+			"GFX_NA_admiral_1"
+			"GFX_NA_admiral_2"
+		}
+		female = {
+			"GFX_white_woman_general_1"
+			"GFX_white_woman_general_2"
+			"GFX_white_woman_general_3"
+			"GFX_white_woman_general_4"
+			"GFX_white_woman_general_5"
+			"GFX_white_woman_general_6"
+			"GFX_white_woman_general_7"
+			"GFX_white_woman_general_8"
+		}
+	}
 }

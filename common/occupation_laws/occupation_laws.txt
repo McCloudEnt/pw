@@ -84,14 +84,15 @@ no_garrison = {
 		
 		modifier = {
 			FROM = {
-				OR = {
-					has_government = national_conservative
-					has_government = liberal_conservative
-					has_government = classical_liberal
-					has_government = social_liberal
-					has_government = reformist_labourist
-					has_government = liberal_socialist
-				}
+                OR = {
+                    has_government = national_conservative
+		    has_government = liberal_conservative
+                    has_government = classical_liberal
+                    has_government = social_liberal
+                    has_government = reformist_labourist
+                    has_government = liberal_socialist
+                }
+				
 			}
 			has_active_resistance = no
 			add = 200
@@ -118,13 +119,13 @@ autonomous_occupation = {
 	
 	visible = {
 		OR = {
-			has_government = national_conservative
-			has_government = liberal_conservative
-			has_government = classical_liberal
-			has_government = social_liberal
-			has_government = reformist_labourist
-			has_government = liberal_socialist
-		}
+                    has_government = national_conservative
+		    has_government = liberal_conservative
+                    has_government = classical_liberal
+                    has_government = social_liberal
+                    has_government = reformist_labourist
+                    has_government = liberal_socialist
+                }
 	}
 	
 	state_modifier = {
@@ -231,11 +232,10 @@ liberate_workers_occupation = {
 	sound_effect = "Martial_Law_Interface_Liberate_Workers_Occupation_Unique_COM"
 	
 	visible = {
-		OR = {
-			has_government = communist
-			has_government = orthodox_socialist
-			has_government = liberal_socialist
-		}
+        OR = {
+            has_government = communist
+            has_government = orthodox_socialist
+        }
 	}
 	
 	state_modifier = {
@@ -381,12 +381,20 @@ forced_labor_occupation = {
 			multiply_temp_variable = { t = ai_desire_aluminium }
 			add_to_temp_variable = { releveant_resources = t }
 			
+			set_temp_variable = { t = resource@rubber }
+			multiply_temp_variable = { t = ai_desire_rubber }
+			add_to_temp_variable = { releveant_resources = t }
+			
 			set_temp_variable = { t = resource@tungsten }
 			multiply_temp_variable = { t = ai_desire_tungsten }
 			add_to_temp_variable = { releveant_resources = t }
 			
 			set_temp_variable = { t = resource@steel }
 			multiply_temp_variable = { t = ai_desire_steel }
+			add_to_temp_variable = { releveant_resources = t }
+			
+			set_temp_variable = { t = resource@chromium }
+			multiply_temp_variable = { t = ai_desire_chromium }
 			add_to_temp_variable = { releveant_resources = t }
 			
 			check_variable = { releveant_resources > 0 }
@@ -442,12 +450,10 @@ brutally_oppressive_occupation = {
 	sound_effect = "Martial_Law_Interface_Brutally_Oppressive_Occupation_Unique_FAS"
 	
 	visible = {
-		OR = {
-			has_government = fascist
-			has_government = monarchist
-			has_government = third_positionist
-			has_government = populist_nationalist
-		}
+        OR = {
+            has_government = fascist
+            has_government = populist_nationalist
+        }
 	}
 	
 	state_modifier = {		

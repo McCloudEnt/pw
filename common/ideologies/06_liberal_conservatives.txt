@@ -1,0 +1,54 @@
+ideologies = {
+
+	liberal_conservative = {
+		
+		types = {
+                        paleolibertarian = {}
+                        christian_democracy = {}
+                        progressive_conservative = {}
+			liberal_gaullist = {}
+                        classical_republican = {}
+                        fiscal_conservative = {}
+                        islamic_liberal = {}
+                        conservative_zionist = {}
+                        binational_centrist = {}
+                        san_min_zhuyi_liberal_conservative = {}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_LIBERAL_CONSERVATIVE_1"
+			"FACTION_NAME_LIBERAL_CONSERVATIVE_2"
+			"FACTION_NAME_LIBERAL_CONSERVATIVE_3"
+			"FACTION_NAME_LIBERAL_CONSERVATIVE_4"
+			"FACTION_NAME_LIBERAL_CONSERVATIVE_5"
+			"FACTION_NAME_LIBERAL_CONSERVATIVE_6"
+		}
+		
+		color = { 85 153 255 } 
+		
+		war_impact_on_world_tension = 1
+		faction_impact_on_world_tension = 1
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+			can_lower_tension = yes
+			can_join_factions = no
+			can_create_factions = no
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.5
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+		}
+
+		ai_neutral = yes
+		
+	}
+
+}

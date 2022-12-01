@@ -1,0 +1,60 @@
+ideologies = {
+
+	fascist = {
+		
+		types = {
+                        classical_fascist = {}
+                        french_integralism = {}
+                        portuguese_integralism = {}
+                        brazilian_integralism = {}
+                        clerical_fascist = {}
+                        neonazi = {}
+                        falangist = {}
+                        klanist = {}
+			japanese_imperialism = {}
+                        ultranationalist = {}
+                        ilminism = {}
+                        manchu_imperialism = {}
+                        islamist = {}
+                        revisionist_zionist = {}
+                        austrofascist = {}
+                        shiv_sena = {}
+                        centre_mobutist = {}
+                        san_min_zhuyi_fascist = {}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_FASCIST_1"
+			"FACTION_NAME_FASCIST_2"
+			"FACTION_NAME_FASCIST_3"
+			"FACTION_NAME_FASCIST_4"
+			"FACTION_NAME_FASCIST_5"
+			"FACTION_NAME_FASCIST_6"
+		}
+		
+		color = { 120 68 33 }
+		
+		war_impact_on_world_tension = 1
+		faction_impact_on_world_tension = 1
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+			can_lower_tension = yes
+			can_join_factions = no
+			can_create_factions = no
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.25
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+		}
+		
+	}
+
+}

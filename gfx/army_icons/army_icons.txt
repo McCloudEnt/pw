@@ -402,6 +402,7 @@
 		available = 
 		{
 			has_dlc = "Waking the Tiger"
+			has_government = liberal
 		}
 	}
 	icon = {
@@ -410,6 +411,7 @@
 		available = 
 		{
 			has_dlc = "Waking the Tiger"
+			has_government = fascist
 		}
 	}
 	icon = {
@@ -418,6 +420,7 @@
 		available = 
 		{
 			has_dlc = "Waking the Tiger"
+			has_government = monarchist
 		}
 	}
 	icon = {
@@ -475,6 +478,7 @@
 		available = 
 		{
 			has_dlc = "Waking the Tiger"
+			has_government = fascist
 		}
 	}
 	icon = {
@@ -483,6 +487,7 @@
 		available = 
 		{
 			has_dlc = "Waking the Tiger"
+			has_government = communist
 		}
 	}
 	icon = {
@@ -604,69 +609,6 @@
 		{
 			has_dlc = "Waking the Tiger"
 			tag = SOV
-		}
-	}
-	icon = {
-		color_override = no
-		name = "Turkish 1"
-		available = 
-		{
-			has_dlc = "Battle for the Bosporus"
-			tag = TUR
-		}
-	}
-	icon = {
-		color_override = no
-		name = "Turkish 2"
-		available = 
-		{
-			has_dlc = "Battle for the Bosporus"
-			tag = TUR
-		}
-	}
-	icon = {
-		color_override = no
-		name = "Greek 1"
-		available = 
-		{
-			has_dlc = "Battle for the Bosporus"
-			tag = GRE
-		}
-	}
-	icon = {
-		color_override = no
-		name = "Greek 2"
-		available = 
-		{
-			has_dlc = "Battle for the Bosporus"
-			tag = GRE
-		}
-	}
-	icon = {
-		color_override = no
-		name = "Greek 3"
-		available = 
-		{
-			has_dlc = "Battle for the Bosporus"
-			tag = GRE
-		}
-	}
-	icon = {
-		color_override = no
-		name = "Bulgarian 1"
-		available = 
-		{
-			has_dlc = "Battle for the Bosporus"
-			tag = BUL
-		}
-	}
-	icon = {
-		color_override = no
-		name = "Bulgarian 2"
-		available = 
-		{
-			has_dlc = "Battle for the Bosporus"
-			tag = BUL
 		}
 	}
 }
@@ -884,30 +826,5 @@ naval_equipment_role = {
 	icon = {
 		color_override = no
 		name = "Crab"
-	}
-}
-
-equipment_niche_insignias = {
-	gfx = GFX_niche_icon_strip
-	
-	icon = {
-	}
-	icon = {
-	}
-	icon = {
-	}
-	icon = {
-	}
-	icon = {
-	}
-	icon = {
-	}
-	icon = {
-	}
-	icon = {
-	}
-	icon = {
-	}
-	icon = {
 	}
 }

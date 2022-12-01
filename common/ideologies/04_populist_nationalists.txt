@@ -1,0 +1,57 @@
+ideologies = {
+
+	populist_nationalist = {
+	
+		types = {
+                        tea_party_ideology = {}
+                        dominionist = {}
+                        liberal_ilminism = {}
+                        kemalist = {}
+                        national_liberal = {}
+                        reactionary = {}
+                        social_credit = {}
+                        baathist = {}
+                        classical_zionist = {}
+                        binationalist = {}
+                        can_lao_ideology = {}
+                        rss_nationalist = {}
+                        metaxist = {}
+                        right_mobutist = {}
+                        san_min_zhuyi_populist_nationalist = {}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_POPULIST_NATIONALIST_1"
+			"FACTION_NAME_POPULIST_NATIONALIST_2"
+			"FACTION_NAME_POPULIST_NATIONALIST_3"
+			"FACTION_NAME_POPULIST_NATIONALIST_4"
+			"FACTION_NAME_POPULIST_NATIONALIST_5"
+			"FACTION_NAME_POPULIST_NATIONALIST_6"
+		}
+		
+		color = { 128 128 128 }
+		
+		war_impact_on_world_tension = 1
+		faction_impact_on_world_tension = 1
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+			can_lower_tension = yes
+			can_join_factions = no
+			can_create_factions = no
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.5
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+		}
+		
+	}
+
+}

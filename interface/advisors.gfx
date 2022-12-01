@@ -2933,8 +2933,8 @@ spriteType = {
 	}
 	
 	spriteType = {
-		name = "GFX_idea_usa_army_chief_michael_hague"
-		texturefile = "gfx/interface/ideas/advisors/usa/usa_army_chief_michael_hague.dds"
+		name = "GFX_idea_usa_army_chief_michael_hagee"
+		texturefile = "gfx/interface/ideas/advisors/usa/usa_army_chief_michael_hagee.dds"
 	}
 	
 	spriteType = {
@@ -3958,7 +3958,30 @@ spriteType = {
 		name = "GFX_idea_hamid_minister2"
 		texturefile = "gfx/interface/ideas/advisors/yemen/hamid_minister2.dds"
 	}
+	spriteType = {
+		name = "GFX_idea_yemen_Ali_bin_Mohammed_Al_Hamdan"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Ali_bin_Mohammed_Al_Hamdan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_yemen_Abdul_Aziz_al_Humain"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Abdul_Aziz_al_Humain.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_yemen_Mutlaq_bin_Salem_Al_Azima"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Mutlaq_bin_Salem_Al_Azima.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_yemen_Mohammad_bin_Khalid_Al_Saud"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Mohammad_bin_Khalid_Al_Saud.dds"
+	}
 	
+	spriteType = {
+		name = "GFX_idea_yemen_Mohammed_Al_Jaber"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Mohammed_Al_Jaber.dds"
+	}
 	
 	spriteType = {
 		name = "GFX_idea_jasmine_sic_najeeb_qahtan_al_shaabi"
@@ -4225,6 +4248,86 @@ spriteType = {
 		name = "GFX_idea_yemen_sic_abdrabbuh_mansour_hadi"
 		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_sic_abdrabbuh_mansour_hadi.dds"
 	}
+
+	spriteType = {
+		name = "GFX_idea_yemen_Ali_Muhammad_Mujawar"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Ali_Muhammad_Mujawar.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_yemen_Abdo_al_Janadi"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Abdo_al_Janadi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_yemen_Mohammed_Nasser_Ahmed"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Mohammed_Nasser_Ahmed.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_yemen_Saba_Sinan_Abu_Lahoum"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Saba_Sinan_Abu_Lahoum.dds"
+	}
+
+    spriteType = {
+		name = "GFX_idea_yemen_Sinan_Abu_Lahoum"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Sinan_Abu_Lahoum.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_yemen_Yahya_Mohamed_Abdullah_Saleh"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Yahya_Mohamed_Abdullah_Saleh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_yemen_Abdul_Aziz_Abdul_Ghani"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Abdul_Aziz_Abdul_Ghani.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_yemen_Jamal_Abdullah_al_Sallal"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Jamal_Abdullah_al_Sallal.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_yemen_Shaher_Abdulhak"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Shaher_Abdulhak.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_yemen_Maeen_Abdulmalik_Saeed"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Maeen_Abdulmalik_Saeed.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_yemen_Taher_Ali_Al_Aqil"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Taher_Ali_Al_Aqil.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_yemen_Abdullah_Ali_Elewa"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Abdullah_Ali_Elewa.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_yemen_Yahya_Saree"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Yahya_Saree.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_yemen_Ahmad_Awad_bin_Mubarak"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Ahmad_Awad_bin_Mubarak.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_yemen_Shawki_Ahmed_Hayel_Saeed"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Shawki_Ahmed_Hayel_Saeed.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_yemen_Ali_Al_Uqbi"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Ali_Al_Uqbi.dds"
+	}
 	
 	spriteType = {
 		name = "GFX_idea_yemen_fom_muhammad_musaal_amri"
@@ -4333,6 +4436,31 @@ spriteType = {
 	spriteType = {
 		name = "GFX_idea_yemen_inm_mohamed_ahmed_mansour"
 		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_inm_mohamed_ahmed_mansour.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_yemen_Muhammad_Abu_Bakr_Ishaq"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Muhammad_Abu_Bakr_Ishaq.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_yemen_Adnan_al_Audaini"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Adnan_al_Audaini.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_yemen_Ibrahim_Ahmed_Al_Hothi"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Ibrahim_Ahmed_Al_Hothi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_yemen_Ahmad_Daifallah_Al_Azeib"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Ahmad_Daifallah_Al_Azeib.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_yemen_Abdul_Wahab_al_Ansi"
+		texturefile = "gfx/interface/ideas/advisors/yemen/yemen_Abdul_Wahab_al_Ansi.dds"
 	}
 	
 	spriteType = {
@@ -4798,5 +4926,905 @@ spriteType = {
 	spriteType = {
 		name = "GFX_idea_laker_joane_matthews"
 		texturefile = "gfx/interface/ideas/advisors/greatlakes/laker_joane_matthews.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_sic_john_bachtell"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_sic_john_bachtell.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_sic_sonia_chang_diaz"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_sic_sonia_chang_diaz.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_sic_barney_frank"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_sic_barney_frank.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_sic_newt_gingrich"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_sic_newt_gingrich.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_sic_jeff_mackler"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_sic_jeff_mackler.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_sic_tom_conway"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_sic_tom_conway.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_sic_shirley_phelps_roper"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_sic_shirley_phelps_roper.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_sic_steve_drain"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_sic_steve_drain.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_sic_michael_flynn"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_sic_michael_flynn.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_sic_karen_schraufnagel"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_sic_karen_schraufnagel.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_fom_tony_pecinovsky"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_fom_tony_pecinovsky.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_fom_sidney_blumenthal"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_fom_sidney_blumenthal.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_fom_amy_gutman"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_fom_amy_gutman.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_fom_madelaine_albright"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_fom_madelaine_albright.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_nsm_elaine_bernard"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_nsm_elaine_bernard.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_fom_jon_tester"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_fom_jon_tester.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_fom_paul_ryan"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_fom_paul_ryan.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_fom_aoc"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_fom_aoc.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_fom_jesse_sharkey"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_fom_jesse_sharkey.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_inm_stephen_kappes"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_inm_stephen_kappes.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_fom_john_wilkerson"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_fom_john_wilkerson.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_fom_eliot_cohen"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_fom_eliot_cohen.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_ind_joe_sims"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_ind_joe_sims.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_ind_dennis_kucinich"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_ind_dennis_kucinich.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_ind_michael_dukakis"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_ind_michael_dukakis.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_ind_marilyn_hewson"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_ind_marilyn_hewson.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_ind_tim_scott"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_ind_tim_scott.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_ind_mary_kay_henry"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_ind_mary_kay_henry.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_ind_gary_north"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_ind_gary_north.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_ind_tom_delay"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_ind_tom_delay.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_nsm_larry_holmes"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_nsm_larry_holmes.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_nsm_jade_bahr"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_nsm_jade_bahr.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_nsm_hakeem_jeffries"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_nsm_hakeem_jeffries.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_nsm_al_from"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_nsm_al_from.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_nsm_rick_santorum"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_nsm_rick_santorum.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_nsm_gertrude_himmelfarb"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_nsm_gertrude_himmelfarb.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_nsm_kenneth_charles_canterbury"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_nsm_kenneth_charles_canterbury.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_nsm_steven_anderson"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_nsm_steven_anderson.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_nsm_douglas_feith"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_nsm_douglas_feith.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_inm_richard_ojeda"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_inm_richard_ojeda.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_inm_david_cohen"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_inm_david_cohen.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_inm_vaughn_bishop"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_inm_vaughn_bishop.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_gau_inm_terence_osullivan"
+		texturefile = "gfx/interface/ideas/advisors/gau/gau_inm_terence_osullivan.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_idea_raj_bal_thackeray"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_bal_thackeray.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_udayanraje_bhosale"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_udayanraje_bhosale.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_mohan_bhagwat"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_mohan_bhagwat.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_arun_jaitley"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_arun_jaitley.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_narendra_modi"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_narendra_modi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_h_d_deve_gowda"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_h_d_deve_gowda.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_rajiv_gandhi"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_rajiv_gandhi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_mulayam_singh_yadav"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_mulayam_singh_yadav.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_arvind_kejriwal"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_arvind_kejriwal.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_sitaram_yechury"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_sitaram_yechury.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ashok_ghosh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_ashok_ghosh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_v_s_achuthanandan"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_v_s_achuthanandan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ardhendu_bhushan_bardhan"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_ardhendu_bhushan_bardhan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_somnath_chatterjee"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_somnath_chatterjee.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_prakash_karat"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_prakash_karat.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_manik_sarkar"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_manik_sarkar.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_manmohan_singh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_manmohan_singh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_harcharanjit_singh_panag"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_harcharanjit_singh_panag.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_pranab_mukherjee"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_pranab_mukherjee.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_yogi_adityanath"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_yogi_adityanath.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_jairam_ramesh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_jairam_ramesh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_mamata_banerjee"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_mamata_banerjee.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_amit_shah"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_amit_shah.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_narayan_rane"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_narayan_rane.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_raj_thackeray"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_raj_thackeray.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_atal_bihari_vajpayee"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_atal_bihari_vajpayee.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_l_k_advani"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_l_k_advani.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_k_n_govindacharya"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_k_n_govindacharya.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_rahul_gandhi"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_rahul_gandhi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_sharad_pawar"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_sharad_pawar.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nallari_kiran_kumar_reddy"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_nallari_kiran_kumar_reddy.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_a_k_antony"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_a_k_anthony.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_omar_abdullah"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_omar_abdullah.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_abishek_verma"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_abishek_verna.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_mukharram_jah"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_mukarram_jah.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_mukarram_jah"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_mukarram_jah.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_pinarayi_vijayan"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_pinarayi_vijayan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ghulam_naabi_azad"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_ghulam_nabi_azad.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_amarinder_singh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_amarinder_singh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_lakshmi_sahgal"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_lakshmi_sahgal.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_pravin_togadia"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_pravin_togadia.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_kodiyeri_balakrishnan"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_kodiyeri_balakrishnan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_brinda_karat"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_brinda_karat.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_b_v_raghavulu"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_b_v_raghavulu.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_anna_hazare"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_anna_hazare.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_balbir_punj"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_balbir_punj.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_vijay_kumar_singh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_vijay_kumar_singh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nirmal_chander_vij"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_nirmal_chander_vij.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_murli_manohar_joshi"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_murli_manohar_joshi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_jitendra_singh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_jitendra_singh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_pramod_mahajan"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_pramod_mahajan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_gurudas_kamat"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_gurudas_kamat.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_i_k_gujral"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_i_k_gujral.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_pratibha_patil"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_pratibha_patil.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_meira_kumar"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_meira_kumar.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_anand_sharma"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_anand_sharma.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_nagabhairava_jaya_prakash_narayana"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_jaya_prakash_narayana.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_d_raja"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_d_raja.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_t_j_chandrachoodan"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_t_j_chandrachoodan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_abani_roy"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_abani_roy.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_akhilesh_yadav"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_akhilesh_yadav.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_anna_hazare"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_anna_hazare.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_rajkumar_dhoot"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_rajkumar_dhoot.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_uddhav_thackeray"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_uddhav_thackeray.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_udayanraje_bhosale"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_udayanraje_bhosale.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_narendra_modi"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_narendra_modi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_sitaram_yechury"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_sitaram_yechury.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_jaswant_singh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_jaswant_singh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_kodiyeri_balakrishnan"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_kodiyeri_balakrishnan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_fom_balbir_punj"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_balbir_punj.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_chandreshwar_prasad_thakur"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_chandreshwar_prasad_thakur.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_rajiv_dixit"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_rajiv_dixit.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_trivendra_singh_rawat"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_trivendra_singh_rawat.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_p_k_kunhalikutty"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_p_k_kunhalikutty.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_p_v_abdul_wahab"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_p_v_abdul_wahab.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_motilal_vora"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_motilal_vora.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_anand_sharma"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_anand_sharma.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_subhashini_ali"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_subhashini_ali.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_anoop_malhotra"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_anoop_malhotra.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_viresh_pratap_chaudhry"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_viresh_pratap_chaudhry.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_gurudas_dasgupta"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_gurudas_dasgupta.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_akhilesh_yadav"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_akhilesh_yadav.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_yogendra_yadav"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_yogendra_yadav.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_rajkumar_dhoot"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_rajkumar_dhoot.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_anandrao_vithoba_adsul"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_anandrao_vithoba_adsul.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_arun_jaitley"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_arun_jaitley.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_arvind_kejriwal"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_arvind_kejriwal.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_v_s_achuthanandan"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_v_s_achuthanandan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_prakash_karat"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_prakash_karat.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_manmohan_singh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_manmohan_singh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_jairam_ramesh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_jairam_ramesh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_raj_thackeray"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_raj_thackeray.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_atal_bihari_vajpayee"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_atal_bihari_vajpayee.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_mukarram_jah"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_mukarram_jah.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_anna_hazare"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_anna_hazare.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_pramod_mahajan"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_pramod_mahajan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_jagmohan_malhotra"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_jagmohan_malhotra.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_pratibha_patil"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_pratibha_patil.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_murli_manohar_joshi"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_murli_manohar_joshi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_r_k_singh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_r_k_singh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_bal_thackeray"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_bal_thackeray.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_mohan_bhagwat"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_mohan_bhagwat.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_harcharanjit_singh_panag"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_harcharanjit_singh_panag.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_jaswant_singh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_jaswant_singh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_narayan_rane"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_narayan_rane.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_l_k_advani"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_l_k_advani.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_a_k_antony"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_a_k_anthony.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_abishek_verma"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_abishek_verna.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_amarinder_singh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_amarinder_singh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_vijay_kumar_singh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_vijay_kumar_singh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_nirmal_chander_vij"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_nirmal_chander_vij.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_inm_ram_madhav"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_ram_madhav.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_inm_ravi_shankar_prasad"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_ravi_shankar_prasad.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_inm_m_v_raghavan"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_m_v_raghavan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_inm_viresh_pratap_chaudhry"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_viresh_pratap_chaudhry.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_inm_kiran_bedi"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_kiran_bedi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_inm_himani_savarkar"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_himani_savarkar.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_inm_swami_aseemanand"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_swami_aseemanand.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_inm_janardan_dwivedi"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_janardan_dwivedi.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_inm_r_k_singh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_r_k_singh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_inm_mohan_bhagwat"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_mohan_bhagwat.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_inm_amit_shah"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_amit_shah.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_inm_sharad_pawar"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_sharad_pawar.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_inm_lakshmi_sahgal"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_lakshmi_sahgal.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_inm_vijay_kumar_singh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_vijay_kumar_singh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_ind_govinda_ahuja"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_govinda_ahuja.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_jagmohan_malhotra"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_jagmohan_malhotra.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_k_m_mani"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_k_m_mani.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_manohar_parrikar"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_manohar_parrikar.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_provash_ghosh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_provash_ghosh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_rajnath_singh"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_rajnath_singh.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_s_ramachandran_pillai"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_s_ramachandran_pillai.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_inm_surjya_kanta_mishra"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_suryakanta_mishra.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_sushma_swaraj"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_sushma_swaraj.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_v_r_raghavan"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_v_r_raghavan.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_vishnu_gupta"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_vishnu_gupta.dds"
+	}
+
+	spriteType = {
+		name = "GFX_idea_raj_nsm_bhai_vaidya"
+		texturefile = "gfx/interface/ideas/advisors/india/raj_bhai_vaidya.dds"
 	}
 }

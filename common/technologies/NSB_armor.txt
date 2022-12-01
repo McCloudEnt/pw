@@ -1,22 +1,23 @@
 technologies = {
 
 
-	@1980 = 1
-	@1990 = 4
-	@2000 = 7
-	@2004 = 10
-	@2008 = 13
-	@2012 = 16
-	@2016 = 19
-	@2020 = 22
-	@2024 = 25
-	@2028 = 28
-	@2032 = 31
+	@1995 = 0
+	@2010 = 2
+	@2012 = 4
+	@2013 = 6
+	@2014 = 7
+	@2015 = 8
+	@2016 = 9
+	@2017 = 10
+	@2018 = 11
+	@2019 = 12
+	@2020 = 20
 
 	### GERMAN TANK NAMES IN COMMENTS SO YOU CAN FIND STUFF MORE EASILY
 	gwtank_chassis = { #Leichttraktor
 
 		enable_equipments = {
+			light_tank_chassis_0
 			medium_tank_chassis_0
 			heavy_tank_chassis_0
 			light_tank_destroyer_chassis_0
@@ -105,7 +106,7 @@ technologies = {
 		}
 
 		research_cost = 2
-		start_year = 1980
+		start_year = 1995
 		folder = {
 			name = nsb_armour_folder
 			position = { x = 2 y = 0 }
@@ -121,17 +122,17 @@ technologies = {
 
 			modifier = {
 				factor = 1.2
-				date > "1990.1.1"
+				date > " 2011.1.1"
 			}
 
 			modifier = {
 				factor = 1.2
-				date > "2000.1.1"
+				date > " 2012.1.1"
 			}
 
 			modifier = {
 				factor = 1.2
-				date > "2004.1.1"
+				date > " 2013.1.1"
 			}
 		}
 
@@ -190,7 +191,7 @@ technologies = {
 		}
 
 		research_cost = 2
-		start_year = 1986
+		start_year = 1934
 		folder = {
 			name = nsb_armour_folder
 			position = { x = -4 y = 2 }
@@ -206,17 +207,17 @@ technologies = {
 
 			modifier = {
 				factor = 1.1
-				date > "1990.1.1"
+				date > " 2011.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2000.1.1"
+				date > " 2012.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2004.1.1"
+				date > " 2013.1.1"
 			}
 		}
 
@@ -241,7 +242,7 @@ technologies = {
 		}
 
 		research_cost = 2
-		start_year = 1990
+		start_year =  2010
 
 		folder = {
 			name = nsb_armour_folder
@@ -272,17 +273,17 @@ technologies = {
 
 			modifier = {
 				factor = 1.1
-				date > "1990.1.1"
+				date > " 2011.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2000.1.1"
+				date > " 2012.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2004.1.1"
+				date > " 2013.1.1"
 			}
 		}
 
@@ -314,7 +315,7 @@ technologies = {
 		}
 
 		research_cost = 2
-		start_year = 2000
+		start_year =  2012
 
 		folder = {
 			name = nsb_armour_folder
@@ -377,7 +378,7 @@ technologies = {
 		}
 
 		research_cost = 2
-		start_year = 2012
+		start_year =  2015
 
 		folder = {
 			name = nsb_armour_folder
@@ -429,7 +430,7 @@ technologies = {
 		}
 
 		research_cost = 2
-		start_year = 2012
+		start_year =  2015
 
 		folder = {
 			name = nsb_armour_folder
@@ -445,17 +446,17 @@ technologies = {
 
 			modifier = {
 				factor = 1.1
-				date > "2016.1.1"
+				date > " 2016.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2020.1.1"
+				date > " 2017.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2024.1.1"
+				date > " 2018.1.1"
 			}
 		}
 
@@ -515,11 +516,11 @@ technologies = {
 		}
 
 		research_cost = 2
-		start_year = 1990
+		start_year =  2010
 
 		folder = {
 			name = nsb_armour_folder
-			position = { x = 2 y = @1990 }
+			position = { x = 2 y = @2010 }
 		}
 
 		ai_will_do = {
@@ -532,7 +533,7 @@ technologies = {
 					tag = JAP
 					num_of_military_factories < 50
 				}
-				date > "2000.1.1"
+				date > " 2012.1.1"
 			}
 			modifier = {
 				tag = SOV
@@ -540,18 +541,19 @@ technologies = {
 			}
 			modifier = {
 				factor = 1.1
-				date > "2008.1.1"
+				date > " 2014.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2012.1.1"
+				date > " 2015.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2016.1.1"
+				date > " 2016.1.1"
 			}
+
 		}
 
 		categories = {
@@ -577,11 +579,11 @@ technologies = {
 		}
 
 		research_cost = 2
-		start_year = 2008
+		start_year =  2014
 
 		folder = {
 			name = nsb_armour_folder
-			position = { x = 2 y = @2008 }
+			position = { x = 2 y = @2014 }
 		}
 
 		ai_will_do = {
@@ -596,7 +598,7 @@ technologies = {
 				}
 			}
 			modifier = {
-				date < "2012.1.1"
+				date < " 2015.1.1"
 				factor = 0.3
 			}
 			modifier = {
@@ -611,17 +613,17 @@ technologies = {
 
 			modifier = {
 				factor = 1.1
-				date > "2016.1.1"
+				date > " 2016.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2020.1.1"
+				date > " 2017.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2024.1.1"
+				date > " 2018.1.1"
 			}
 		}
 
@@ -646,11 +648,11 @@ technologies = {
 		}
 
 		research_cost = 2
-		start_year = 2020
+		start_year =  2017
 
 		folder = {
 			name = nsb_armour_folder
-			position = { x = 2 y = @2020 }
+			position = { x = 2 y = @2017 }
 		}
 
 		ai_will_do = {
@@ -658,17 +660,17 @@ technologies = {
 
 			modifier = {
 				factor = 1.2
-				date > "2024.1.1"
+				date > " 2018.1.1"
 			}
 
 			modifier = {
 				factor = 1.2
-				date > "2028.1.1"
+				date > " 2019.1.1"
 			}
 
 			modifier = {
 				factor = 1.2
-				date > "2032.1.1"
+				date > " 2020.1.1"
 			}
 		}
 
@@ -691,11 +693,11 @@ technologies = {
 		}
 
 		research_cost = 2.5
-		start_year = 2028
+		start_year =  2019
 
 		folder = {
 			name = nsb_armour_folder
-			position = { x = 2 y = @2028 }
+			position = { x = 2 y = @2019 }
 		}
 
 		ai_will_do = {
@@ -703,17 +705,17 @@ technologies = {
 
 			modifier = {
 				factor = 2
-				date > "2032.1.1"
+				date > " 2020.1.1"
 			}
 
 			modifier = {
 				factor = 2
-				date > "2034.1.1"
+				date > " 2021.1.1"
 			}
 
 			modifier = {
 				factor = 2
-				date > "2038.1.1"
+				date > " 2022.1.1"
 			}
 		}
 
@@ -769,7 +771,7 @@ technologies = {
 		}
 
 		research_cost = 2
-		start_year = 1986
+		start_year = 1934
 
 		folder = {
 			name = nsb_armour_folder
@@ -781,17 +783,17 @@ technologies = {
 
 			modifier = {
 				factor = 1.2
-				date > "1990.1.1"
+				date > " 2011.1.1"
 			}
 
 			modifier = {
 				factor = 1.2
-				date > "2000.1.1"
+				date > " 2012.1.1"
 			}
 
 			modifier = {
 				factor = 1.2
-				date > "2004.1.1"
+				date > " 2013.1.1"
 			}
 			modifier = {
 				tag = FRA
@@ -830,11 +832,11 @@ technologies = {
 		}
 
 		research_cost = 2.5
-		start_year = 2008
+		start_year =  2014
 
 		folder = {
 			name = nsb_armour_folder
-			position = { x = 5 y = @2008 }
+			position = { x = 5 y = @2014 }
 		}
 
 		ai_will_do = {
@@ -846,17 +848,17 @@ technologies = {
 			}
 			modifier = {
 				factor = 1.2
-				date > "2016.1.1"
+				date > " 2016.1.1"
 			}
 
 			modifier = {
 				factor = 1.2
-				date > "2020.1.1"
+				date > " 2017.1.1"
 			}
 
 			modifier = {
 				factor = 1.2
-				date > "2024.1.1"
+				date > " 2018.1.1"
 			}
 		}
 
@@ -882,11 +884,11 @@ technologies = {
 		}
 
 		research_cost = 2.5
-		start_year = 2020
+		start_year =  2017
 
 		folder = {
 			name = nsb_armour_folder
-			position = { x = 5 y = @2020 }
+			position = { x = 5 y = @2017 }
 		}
 
 		ai_will_do = {
@@ -894,17 +896,17 @@ technologies = {
 
 			modifier = {
 				factor = 1.2
-				date > "2024.1.1"
+				date > " 2018.1.1"
 			}
 
 			modifier = {
 				factor = 1.2
-				date > "2028.1.1"
+				date > " 2019.1.1"
 			}
 
 			modifier = {
 				factor = 1.2
-				date > "2032.1.1"
+				date > " 2020.1.1"
 			}
 		}
 
@@ -932,10 +934,10 @@ technologies = {
 		}
 
 		research_cost = 2.5
-		start_year = 2020
+		start_year =  2017
 		folder = {
 			name = nsb_armour_folder
-			position = { x = 8 y = @2020 }
+			position = { x = 8 y = @2017 }
 		}
 
 		ai_will_do = {
@@ -964,10 +966,10 @@ technologies = {
 		show_effect_as_desc = yes
 
 		research_cost = 1
-		start_year = 1986
+		start_year = 1934
 		folder = {
 			name = nsb_armour_folder
-			position = { x = 3 y = @1990 }
+			position = { x = 3 y = @2010 }
 		}
 
 		ai_will_do = {
@@ -984,17 +986,17 @@ technologies = {
 
 			modifier = {
 				factor = 1.1
-				date > "1990.1.1"
+				date > " 2011.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2000.1.1"
+				date > " 2012.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2004.1.1"
+				date > " 2013.1.1"
 			}
 		}
 
@@ -1019,10 +1021,10 @@ technologies = {
 		show_effect_as_desc = yes
 
 		research_cost = 1
-		start_year = 1990
+		start_year =  2010
 		folder = {
 			name = nsb_armour_folder
-			position = { x = 3 y = @2000 }
+			position = { x = 3 y = @2012 }
 		}
 
 		ai_will_do = {
@@ -1039,17 +1041,17 @@ technologies = {
 
 			modifier = {
 				factor = 1.1
-				date > "1990.1.1"
+				date > " 2011.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2000.1.1"
+				date > " 2012.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2004.1.1"
+				date > " 2013.1.1"
 			}
 		}
 
@@ -1072,10 +1074,10 @@ technologies = {
 		show_effect_as_desc = yes
 
 		research_cost = 1
-		start_year = 2012
+		start_year =  2015
 		folder = {
 			name = nsb_armour_folder
-			position = { x = 3 y = @2012 }
+			position = { x = 3 y = @2015 }
 		}
 
 		ai_will_do = {
@@ -1092,17 +1094,17 @@ technologies = {
 
 			modifier = {
 				factor = 1.1
-				date > "1990.1.1"
+				date > " 2011.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2000.1.1"
+				date > " 2012.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2004.1.1"
+				date > " 2013.1.1"
 			}
 		}
 
@@ -1114,10 +1116,10 @@ technologies = {
 	armor_tech_4 = {
 
 		research_cost = 1
-		start_year = 2024
+		start_year =  2018
 		folder = {
 			name = nsb_armour_folder
-			position = { x = 3 y = @2024 }
+			position = { x = 3 y = @2018 }
 		}
 
 		on_research_complete = {
@@ -1139,17 +1141,17 @@ technologies = {
 
 			modifier = {
 				factor = 1.1
-				date > "1990.1.1"
+				date > " 2011.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2000.1.1"
+				date > " 2012.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2004.1.1"
+				date > " 2013.1.1"
 			}
 		}
 
@@ -1170,10 +1172,10 @@ technologies = {
 		}
 		show_effect_as_desc = yes
 		research_cost = 1
-		start_year = 1986
+		start_year = 1934
 		folder = {
 			name = nsb_armour_folder
-			position = { x = 2 y = @1990 }
+			position = { x = 2 y = @2010 }
 		}
 
 		ai_will_do = {
@@ -1190,17 +1192,17 @@ technologies = {
 
 			modifier = {
 				factor = 1.1
-				date > "1990.1.1"
+				date > " 2011.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2000.1.1"
+				date > " 2012.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2004.1.1"
+				date > " 2013.1.1"
 			}
 		}
 
@@ -1223,10 +1225,10 @@ technologies = {
 		show_effect_as_desc = yes
 
 		research_cost = 1
-		start_year = 1990
+		start_year =  2010
 		folder = {
 			name = nsb_armour_folder
-			position = { x = 2 y = @2000 }
+			position = { x = 2 y = @2012 }
 		}
 
 		ai_will_do = {
@@ -1243,17 +1245,17 @@ technologies = {
 
 			modifier = {
 				factor = 1.1
-				date > "1990.1.1"
+				date > " 2011.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2000.1.1"
+				date > " 2012.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2004.1.1"
+				date > " 2013.1.1"
 			}
 		}
 
@@ -1274,10 +1276,10 @@ technologies = {
 		}
 		show_effect_as_desc = yes
 		research_cost = 1
-		start_year = 2012
+		start_year =  2015
 		folder = {
 			name = nsb_armour_folder
-			position = { x = 2 y = @2012 }
+			position = { x = 2 y = @2015 }
 		}
 
 		ai_will_do = {
@@ -1294,17 +1296,17 @@ technologies = {
 
 			modifier = {
 				factor = 1.1
-				date > "1990.1.1"
+				date > " 2011.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2000.1.1"
+				date > " 2012.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2004.1.1"
+				date > " 2013.1.1"
 			}
 		}
 
@@ -1316,10 +1318,10 @@ technologies = {
 	engine_tech_4 = {
 
 		research_cost = 1
-		start_year = 2024
+		start_year =  2018
 		folder = {
 			name = nsb_armour_folder
-			position = { x = 2 y = @2024 }
+			position = { x = 2 y = @2018 }
 		}
 		on_research_complete = {
 			custom_effect_tooltip = engine_tech_4_tt
@@ -1339,17 +1341,17 @@ technologies = {
 
 			modifier = {
 				factor = 1.1
-				date > "1990.1.1"
+				date > " 2011.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2000.1.1"
+				date > " 2012.1.1"
 			}
 
 			modifier = {
 				factor = 1.1
-				date > "2004.1.1"
+				date > " 2013.1.1"
 			}
 		}
 

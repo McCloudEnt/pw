@@ -24,36 +24,6 @@ opinion_modifiers = {
 		trade = yes
 		value = -20
 	}
-
-	oil_deals = {
-		trade = yes
-		value = 20
-	}
-	
-	trade_influence_-5 = {
-		value = -100
-		trade = yes
-	}
-	
-	trade_influence_-4 = {
-		value = -80
-		trade = yes
-	}
-	
-	trade_influence_-3 = {
-		value = -60
-		trade = yes
-	}
-	
-	trade_influence_-2 = {
-		value = -40
-		trade = yes
-	}
-	
-	trade_influence_-1 = {
-		value = -20
-		trade = yes
-	}
 	
 	trade_influence_1 = {
 		value = 20

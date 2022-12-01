@@ -1453,4 +1453,19 @@ spriteTypes = {
 		name = "news_yar_saleh_nuke"
 		texturefile = "gfx/event_pictures/news_event/news_yar_saleh_nuke.dds"
 	}
+	
+	spriteType = {
+		name = "saudi_yemen_yemen_wins_the_war"
+		texturefile = "gfx/event_pictures/news_event/saudi_yemen_yemen_wins_the_war.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_prince_turki_put_in_power"
+		texturefile = "gfx/event_pictures/news_event/saudi_yemen_prince_turki_put_in_power.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_saudis_just_annex_yemen"
+		texturefile = "gfx/event_pictures/news_event/saudi_yemen_saudis_just_annex_yemen.dds"
+	}
 }

@@ -1,12 +1,32 @@
 ﻿capital = 271
 
 set_politics = {	
-	ruling_party = communist
+	ruling_party = national_conservative
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-    communist = 100
+	liberal_socialist = 3
+	reformist_labourist = 24
+	social_liberal = 3
+	liberal_conservative = 2
+	national_conservative = 42
+	populist_nationalist = 8
+	third_positionist = 4
+	fascist = 14
 }
+
+recruit_character = ETH_meles_zenawi
+recruit_character = ETH_tsadakan_gebretensae
+recruit_character = ETH_sahle_work_zewde
+recruit_character = ETH_beyene_petros
+recruit_character = ETH_berhanu_nega
+recruit_character = ETH_lidetu_ayalew
+recruit_character = ETH_merera_gudina
+recruit_character = ETH_chane_kebede
+recruit_character = ETH_mohamouda_ahmed_gaas
+recruit_character = ETH_emperor_amha_selassie_ii
+recruit_character = ETH_hailemarium_desalegn
+recruit_character = ETH_abune_paulos

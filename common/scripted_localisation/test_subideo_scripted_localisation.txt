@@ -426,6 +426,10 @@ defined_text = {
 		localization_key = metaxist
 	}
 	text = {
+		trigger = { has_country_leader_ideology = right_mobutist }
+		localization_key = right_mobutist
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_populist_nationalist }
 		localization_key = san_min_zhuyi_populist_nationalist
 	}
@@ -540,6 +544,10 @@ defined_text = {
 		localization_key = subhasist
 	}
 	text = {
+		trigger = { has_country_leader_ideology = left_mobutist }
+		localization_key = left_mobutist
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_third_positionist }
 		localization_key = san_min_zhuyi_third_positionist
 	}
@@ -607,6 +615,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = shiv_sena }
 		localization_key = shiv_sena
+	}
+	text = {
+		trigger = { has_country_leader_ideology = centre_mobutist }
+		localization_key = centre_mobutist
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_fascist }
@@ -1042,6 +1054,10 @@ defined_text = {
 		localization_key = metaxist_desc
 	}
 	text = {
+		trigger = { has_country_leader_ideology = right_mobutist }
+		localization_key = right_mobutist_desc
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_populist_nationalist }
 		localization_key = san_min_zhuyi_populist_nationalist_desc
 	}
@@ -1156,6 +1172,10 @@ defined_text = {
 		localization_key = subhasist_desc
 	}
 	text = {
+		trigger = { has_country_leader_ideology = left_mobutist }
+		localization_key = left_mobutist_desc
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_third_positionist }
 		localization_key = san_min_zhuyi_third_positionist_desc
 	}
@@ -1223,6 +1243,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = shiv_sena }
 		localization_key = shiv_sena_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = centre_mobutist }
+		localization_key = centre_mobutist_desc
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_fascist }

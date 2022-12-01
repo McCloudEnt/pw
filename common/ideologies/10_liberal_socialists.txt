@@ -1,0 +1,56 @@
+ideologies = {
+
+	liberal_socialist = {
+		
+		types = {
+                        arab_socialist = {}
+                        eco_socialist = {}
+                        sinclairist = {}
+                        austro_marxist = {}
+                        eurocommunist = {}
+                        democratic_socialist = {}
+                        perestroikist = {}
+                        agrarian_socialist = {}
+                        neo_eda_vision = {}
+                        orthodox_nehru = {}
+                        democratic_confederalist = {}
+                        san_min_zhuyi_liberal_socialist = {}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_LIBERAL_SOCIALIST_1"
+			"FACTION_NAME_LIBERAL_SOCIALIST_2"
+			"FACTION_NAME_LIBERAL_SOCIALIST_3"
+			"FACTION_NAME_LIBERAL_SOCIALIST_4"
+			"FACTION_NAME_LIBERAL_SOCIALIST_5"
+			"FACTION_NAME_LIBERAL_SOCIALIST_6"
+		}
+		
+		color = { 212 27 27 } 
+		
+		war_impact_on_world_tension = 1.95
+		faction_impact_on_world_tension = 1.95
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+			can_lower_tension = yes
+			can_join_factions = no
+			can_create_factions = no
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.5
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+		}
+
+		ai_neutral = yes
+		
+	}
+
+}

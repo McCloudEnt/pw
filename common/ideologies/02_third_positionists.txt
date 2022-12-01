@@ -1,0 +1,60 @@
+ideologies = {
+
+	third_positionist = {
+	
+		types = {
+                        national_bolshevik = {}
+                        social_nationalist = {}
+                        neostrasserist = {}
+                        neofascist = {}
+                        third_way = {}
+                        neo_maoist = {}
+                        eurasianist = {}
+                        bonapartist = {}
+                        utopian_communitarian = {}
+                        neo_juche = {}
+                        getulist = {}
+                        gaddafist = {}
+                        milosevicist = {}
+                        arab_islamist = {}
+                        neo_zionist = {}
+                        subhasist = {}
+                        left_mubutist = {}
+                        san_min_zhuyi_third_positionist = {}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_THIRD_POSITIONIST_1"
+			"FACTION_NAME_THIRD_POSITIONIST_2"
+			"FACTION_NAME_THIRD_POSITIONIST_3"
+			"FACTION_NAME_THIRD_POSITIONIST_4"
+			"FACTION_NAME_THIRD_POSITIONIST_5"
+			"FACTION_NAME_THIRD_POSITIONIST_6"
+		}
+		
+		color = { 67 170 136 }
+		
+		war_impact_on_world_tension = 1
+		faction_impact_on_world_tension = 1
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+			can_lower_tension = yes
+			can_join_factions = no
+			can_create_factions = no
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.5
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+		}
+		
+	}
+
+}

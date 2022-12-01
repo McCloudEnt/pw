@@ -13,257 +13,39 @@ intelligence_agency = {
 
 intelligence_agency = {
 
+	picture = GFX_intelligence_agency_logo_sov
+	names = { "KGB" }
+	
+	default = { tag = SOV }
+	available = { original_tag = SOV }
+}
+
+intelligence_agency = {
+
 	picture = GFX_intelligence_agency_logo_uk
-	names = { "Secret Intelligence Service" }
+	names = { "Military Intelligence 6" }
 	
 	default = { tag = ENG }
 	available = { original_tag = ENG }
 }
 
 intelligence_agency = {
-
-	picture = GFX_intelligence_agency_logo_sov
-	names = { "Foreign Intelligence Service" }
-	
-	default = { tag = SOV }
-	available = { original_tag = SOV }
-}
-
-intelligence_agency = {
-
-	picture = GFX_intelligence_agency_logo_ussr
-	names = { "Committee for State Security" }
-	
-	default = { tag = SOV }
-	available = { original_tag = SOV }
-}
-
-intelligence_agency = {
-
-	picture = GFX_intelligence_agency_logo_fra
-	names = { "General Directorate for External Security" }
-	
-	default = { tag = FRA }
-	available = { original_tag = FRA }
-}
-
-intelligence_agency = {
 	
 	picture = GFX_intelligence_agency_logo_ger
-	names = { "Federal Intelligence Service" }
+	names = { "Stasi" }
 	
-	default = { tag = GER }
-	available = { original_tag = GER }
-}
-
-intelligence_agency = {
-	
-	picture = GFX_intelligence_agency_logo_jap
-	names = { "Cabinet Intelligence and Research Office" }
-	
-	default = { tag = JAP }
-	available = { original_tag = JAP }
+	default = { tag = DDR }
+	available = { original_tag = DDR }
 }
 
 intelligence_agency = {
 	
 	picture = GFX_intelligence_agency_logo_ita
-	names = { "Military Intelligence and Security Service" }
+	names = { "SISMI" }
 	
-	default = { tag = ITA date < "2007.8.28" }
-	available = { original_tag = ITA date < "2007.8.28" }
+	default = { tag = IPR }
+	available = { original_tag = IPR }
 }
-
-intelligence_agency = {
-	
-	picture = GFX_intelligence_agency_logo_ita2007
-	names = { "External Intelligence and Security Agency" }
-	
-	default = { tag = ITA date > "2007.8.27" }
-	available = { original_tag = ITA date > "2007.8.27" }
-}
-
-intelligence_agency = {
-	
-	picture = GFX_intelligence_agency_logo_swe
-	names = { "Military Intelligence and Security Service" }
-	
-	default = { tag = SWE }
-	available = { original_tag = SWE }
-}
-
-#intelligence_agency = {
-#	
-#	picture = GFX_intelligence_agency_logo_nor
-#	names = { "E-tjenesten" }
-#	
-#	default = { tag = NOR }
-#	available = { original_tag = NOR }
-#}
-#
-#intelligence_agency = {
-#	
-#	picture = GFX_intelligence_agency_logo_bel
-#	names = { "ADIV" "SGRS" }
-#	
-#	default = { tag = BEL }
-#	available = { original_tag = BEL }
-#}
-#
-#intelligence_agency = {
-#	
-#	picture = GFX_intelligence_agency_logo_hol
-#	names = { "Bureau Inlichtingen" }
-#	
-#	default = { tag = HOL }
-#	available = { original_tag = HOL}
-#}
-#
-#intelligence_agency = {
-#	
-#	picture = GFX_intelligence_agency_logo_rom
-#	names = { "Serviciul Special de Informatii" }
-#	
-#	available = { always = yes }
-#	
-#	default = { tag = ROM }
-#	available = { original_tag = ROM }
-#}
-
-intelligence_agency = {
-	
-	picture = GFX_intelligence_agency_logo_prc
-	names = { "Ministry of State Security" }
-	
-	available = { always = yes }
-	
-	default = { tag = PRC }
-	available = { original_tag = PRC }
-}
-
-intelligence_agency = {
-	
-	picture = GFX_intelligence_agency_logo_chi
-	names = { "National Security Bureau" }
-	
-	available = { always = yes }
-	
-	default = { tag = CHI }
-	available = { original_tag = CHI }
-}
-
-#intelligence_agency = {
-#	
-#	picture = GFX_intelligence_agency_logo_yug
-#	names = { "OZNA" }
-#	
-#	available = { always = yes }
-#	
-#	default = { tag = YUG }
-#	available = { original_tag = YUG }
-#}
-
-intelligence_agency = {
-
-	picture = GFX_intelligence_agency_logo_spr
-	names = { "National Intelligence Centre" }
-	
-	available = { always = yes }
-	
-	default = { tag = SPR }
-	available = { original_tag = SPR }
-}
-
-#intelligence_agency = {
-#	
-#	picture = GFX_intelligence_agency_logo_spa
-#	names = { "SIPM" }
-#	
-#	available = { always = yes }
-#	
-#	default = { tag = SPA }
-#	available = { original_tag = SPA }
-#}
-#
-#intelligence_agency = {
-#	
-#	picture = GFX_intelligence_agency_logo_pol
-#	names = { "Dwojka" }
-#	
-#	available = { always = yes }
-#	
-#	default = { tag = POL }
-#	available = { original_tag = POL }
-#}
-#
-#intelligence_agency = {
-#	
-#	picture = GFX_intelligence_agency_logo_man
-#	names = { "Hoankyoku" }
-#	
-#	available = { always = yes }
-#	
-#	default = { tag = MAN }
-#	available = { original_tag = MAN }
-#}
-#
-#intelligence_agency = {
-#	
-#	picture = GFX_intelligence_agency_logo_por
-#	names = { "PIDE" }
-#	
-#	available = { always = yes }
-#	
-#	default = { tag = POR }
-#	available = { original_tag = POR }
-#}
-#
-#intelligence_agency = {
-#	
-#	picture = GFX_intelligence_agency_logo_fin
-#	names = { "PE TIEDOS" }
-#	
-#	default = { tag = FIN }
-#	available = { always = yes }
-#}
-
-## NEW AGENCIES ##
-intelligence_agency = {
-
-	picture = GFX_intelligence_agency_logo_raj
-	names = { "Research and Analysis Wing" }
-	
-	default = { tag = RAJ }
-	available = { original_tag = RAJ }
-}
-
-intelligence_agency = {
-
-	picture = GFX_intelligence_agency_logo_bra
-	names = { "Brazilian Intelligence Agency" }
-	
-	default = { tag = BRA }
-	available = { original_tag = BRA }
-}
-
-intelligence_agency = {
-
-	picture = GFX_intelligence_agency_logo_mex
-	names = { "National Intelligence Centre" }
-	
-	default = { tag = MEX }
-	available = { original_tag = MEX }
-}
-
-intelligence_agency = {
-
-	picture = GFX_intelligence_agency_logo_tur
-	names = { "National Intelligence Organization" }
-	
-	default = { tag = TUR }
-	available = { original_tag = TUR }
-}
-## /NEW AGENCIES ##
 
 intelligence_agency = {
 	
@@ -343,17 +125,8 @@ intelligence_agency = {
 	names = { "Hammer and Sickle" }
 	
 	available = { 
-		has_government = communist #NVX#
+		has_government = communist
 	}
-	
-	default = { always = yes } 
-}
-intelligence_agency = {
-	
-	picture = GFX_intelligence_agency_logo_oros
-	names = { "OROS" }
-	
-	available = { always = yes }
 	
 	default = { always = yes } 
 }

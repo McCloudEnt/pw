@@ -1,0 +1,56 @@
+ideologies = {
+
+	orthodox_socialist = {
+		
+		types = {
+                        trotskyist = {}
+                        syndicalist = {}
+                        national_communist = {}
+                        titoist = {}
+                        left_communist = {}
+                        anarcho_syndicalist = {}
+                        sino_communist = {}
+                        nasserist = {}
+                        binational_communist = {}
+                        orthodox_leninist = {}
+                        christian_communist = {}
+                        buddhist_socialist = {}
+                        varun_gandhi_thought = {}
+                        san_min_zhuyi_orthodox_socialist = {}
+		}
+		
+		dynamic_faction_names = {
+			"FACTION_NAME_ORTHODOX_SOCIALIST_1"
+			"FACTION_NAME_ORTHODOX_SOCIALIST_2"
+			"FACTION_NAME_ORTHODOX_SOCIALIST_3"
+			"FACTION_NAME_ORTHODOX_SOCIALIST_4"
+			"FACTION_NAME_ORTHODOX_SOCIALIST_5"
+			"FACTION_NAME_ORTHODOX_SOCIALIST_6"
+		}
+		
+		color = { 158 27 27 } 
+		
+		war_impact_on_world_tension = 2
+		faction_impact_on_world_tension = 2
+		
+		rules = {
+			can_guarantee_other_ideologies = yes
+			can_force_government = no
+			can_send_volunteers = yes
+			can_puppet = no
+			can_lower_tension = yes
+			can_join_factions = no
+			can_create_factions = no
+		}
+		
+		modifiers = {
+			join_faction_tension = 0.5
+			civilian_intel_to_others = 10.0
+			army_intel_to_others = 10.0
+			navy_intel_to_others = 10.0
+			airforce_intel_to_others = 10.0
+		}
+		
+	}
+
+}

@@ -1,4 +1,4 @@
-continuous_focus_palette = { #NVX# Tag for changes
+continuous_focus_palette = {
 	id = generic_focus
 	
 	country = {
@@ -9,38 +9,16 @@ continuous_focus_palette = { #NVX# Tag for changes
 	reset_on_civilwar = no
 			
 	position = { x = 50 y = 1000 }
-	
-		
-	focus = {
-		id = continuous_naval_production
-		
-		icon = GFX_goal_continuous_naval_production
-		
-		available = {
-		}
-		
-		idea = continuous_naval_production
-		
-		ai_will_do = {
-			factor = 1
-		}
-		
-		supports_ai_strategy = ai_focus_naval
-		
-		daily_cost = 1
-		
-		available_if_capitulated = yes
-	}
 
 	focus = {
 		id = continuous_air_production
 		
-		icon = GFX_goal_continuous_air_production
+		icon = continuous_air_production
 		
 		available = {
 		}
 		
-		idea = continuous_air_production
+		idea = idea_continuous_air_production
 		
 		ai_will_do = {
 			factor = 1
@@ -53,10 +31,32 @@ continuous_focus_palette = { #NVX# Tag for changes
 		available_if_capitulated = yes
 	}
 	
+		
+	focus = {
+		id = continuous_naval_production
+		
+		icon = continuous_naval_production
+		
+		available = {
+		}
+		
+		idea = idea_continuous_naval_production
+		
+		ai_will_do = {
+			factor = 1
+		}
+		
+		supports_ai_strategy = ai_focus_naval
+		
+		daily_cost = 1
+		
+		available_if_capitulated = yes
+	}
+	
 	focus = {
 		id = continuous_non_factory_construct
 		
-		icon = GFX_goal_continuous_non_factory_construct
+		icon = continuous_non_factory_construct
 		
 		available = {
 		}
@@ -66,15 +66,13 @@ continuous_focus_palette = { #NVX# Tag for changes
 			production_speed_infrastructure_factor = 0.1
 			production_speed_air_base_factor = 0.1
 			production_speed_naval_base_factor = 0.1
-			#production_speed_synthetic_refinery_factor = 0.1
-			production_speed_fuel_silo_factor = 0.1	
+			production_speed_synthetic_refinery_factor = 0.1
 			production_speed_rocket_site_factor = 0.1
 			production_speed_nuclear_reactor_factor = 0.1
 			production_speed_bunker_factor = 0.2
 			production_speed_coastal_bunker_factor = 0.2
 			production_speed_anti_air_building_factor = 0.2
-			production_speed_radar_station_factor = 0.2	
-				
+			production_speed_radar_station_factor = 0.2			
 		}
 		
 		ai_will_do = {
@@ -91,7 +89,7 @@ continuous_focus_palette = { #NVX# Tag for changes
 	focus = {
 		id = continuous_reduce_training_time
 		
-		icon = GFX_goal_continuous_reduce_training_time
+		icon = continuous_training_time
 		
 		available = {
 		}
@@ -114,7 +112,7 @@ continuous_focus_palette = { #NVX# Tag for changes
 	focus = {
 		id = continuous_suppression
 		
-		icon = GFX_goal_continuous_suppression
+		icon = continuous_suppression
 		
 		available = {
 		}
@@ -142,7 +140,7 @@ continuous_focus_palette = { #NVX# Tag for changes
 	focus = {
 		id = continuous_repair
 		
-		icon = GFX_goal_continuous_repairments
+		icon = continuous_repairments
 		
 		available = {
 		}
@@ -168,17 +166,17 @@ continuous_focus_palette = { #NVX# Tag for changes
 		available_if_capitulated = yes
 	}
 
-#	focus = { #NVX# Use # to remove
+#	focus = {
 #		id = continuous_tech_share
 #		
-#		icon = GFX_goal_continuous_research
+#		icon = continuous_research
 #		
 #		available = {
 #			hidden_trigger = { has_dlc = "Together for Victory" }
 #			
 #		}
 #
-#		enable = {
+#		enabled = {
 #			is_in_faction = yes
 #			num_faction_members > 1
 #
@@ -211,12 +209,12 @@ continuous_focus_palette = { #NVX# Tag for changes
 #		daily_cost = 1
 #		
 #		available_if_capitulated = yes
-#	} #/NVX#
+#	}
 	
 	focus = {
 		id = continuous_boost_freedom
 		
-		icon = GFX_goal_continuous_boost_freedom
+		icon = continuous_boost_freedom
 		
 		available = {
 			hidden_trigger = { has_dlc = "Together for Victory" }
@@ -241,19 +239,18 @@ continuous_focus_palette = { #NVX# Tag for changes
 	focus = {
 		id = continuous_restrict_freedom
 		
-		icon = GFX_goal_continuous_restrict_freedom
+		icon = continuous_restrict_freedom
 		
 		available = {
 			hidden_trigger = { has_dlc = "Together for Victory" }
 		}
 
-		enable = {
+		enabled = {
 			num_subjects > 0
 		}
 
 		modifier = {
-			custom_modifier_tooltip = subject_autonomy_mod_tt
-			hidden_modifier = { subjects_autonomy_gain = -0.5 }
+			subjects_autonomy_gain = -0.5
 		}
 		
 		ai_will_do = {

@@ -31,8 +31,15 @@ unit_medals = {
 	democratic_gallantry = {
 		
 		available = { 
-			NVX_has_government_democratic = yes
-			should_have_any_unique_medals_trigger = no
+			OR = {
+				has_government = populist_nationalist
+				has_government = liberal_conservative
+				has_government = national_conservative
+				has_government = classical_liberal
+				has_government = social_liberal
+				has_government = reformist_labourist
+				has_government = liberal_socialist
+			}
 		}
 		frame = 1
 		icon = "GFX_medal_icon_democratic"
@@ -52,8 +59,15 @@ unit_medals = {
 	democratic_honor = {
 		
 		available = { 
-			NVX_has_government_democratic = yes
-			should_have_any_unique_medals_trigger = no
+			OR = {
+				has_government = populist_nationalist
+				has_government = liberal_conservative
+				has_government = national_conservative
+				has_government = classical_liberal
+				has_government = social_liberal
+				has_government = reformist_labourist
+				has_government = liberal_socialist
+			}
 		}
 		frame = 2
 		icon = "GFX_medal_icon_democratic"
@@ -73,8 +87,15 @@ unit_medals = {
 	democratic_war_cross = {
 		
 		available = { 
-			NVX_has_government_democratic = yes
-			should_have_any_unique_medals_trigger = no	
+			OR = {
+				has_government = populist_nationalist
+				has_government = liberal_conservative
+				has_government = national_conservative
+				has_government = classical_liberal
+				has_government = social_liberal
+				has_government = reformist_labourist
+				has_government = liberal_socialist
+			}
 		}
 		frame = 3
 		icon = "GFX_medal_icon_democratic"
@@ -95,8 +116,15 @@ unit_medals = {
 	democratic_lion = {
 		
 		available = { 
-			NVX_has_government_democratic = yes
-			should_have_any_unique_medals_trigger = no
+			OR = {
+				has_government = populist_nationalist
+				has_government = liberal_conservative
+				has_government = national_conservative
+				has_government = classical_liberal
+				has_government = social_liberal
+				has_government = reformist_labourist
+				has_government = liberal_socialist
+			}
 		}
 		frame = 4
 		icon = "GFX_medal_icon_democratic"
@@ -118,8 +146,10 @@ unit_medals = {
 	communist_service_medal = {
 		
 		available = { 
-			NVX_has_government_left_auth = yes
-			should_have_any_unique_medals_trigger = no
+			OR = {
+				has_government = communist
+				has_government = orthodox_socialist
+			}
 		}
 		frame = 1
 		icon = "GFX_medal_icon_communism"
@@ -140,8 +170,10 @@ unit_medals = {
 	communist_red_star = {
 		
 		available = { 
-			NVX_has_government_left_auth = yes
-			should_have_any_unique_medals_trigger = no
+			OR = {
+				has_government = communist
+				has_government = orthodox_socialist
+			}
 		}
 		frame = 2
 		icon = "GFX_medal_icon_communism"
@@ -162,8 +194,10 @@ unit_medals = {
 	communist_merit_medal = {
 		
 		available = { 
-			NVX_has_government_left_auth = yes
-			should_have_any_unique_medals_trigger = no
+			OR = {
+				has_government = communist
+				has_government = orthodox_socialist
+			}
 		}
 		frame = 3
 		icon = "GFX_medal_icon_communism"
@@ -183,8 +217,10 @@ unit_medals = {
 	communist_hero_of_revolution = {
 		
 		available = { 
-			NVX_has_government_left_auth = yes
-			should_have_any_unique_medals_trigger = no
+			OR = {
+				has_government = communist
+				has_government = orthodox_socialist
+			}
 		}
 		frame = 4
 		icon = "GFX_medal_icon_communism"
@@ -206,8 +242,10 @@ unit_medals = {
 	fascism_bravery = {
 		
 		available = { 
-			NVX_has_government_right_auth = yes
-			should_have_any_unique_medals_trigger = no
+			OR = {
+				has_government = fascist
+				has_government = third_positionist
+			}
 		}
 		frame = 1
 		icon = "GFX_medal_icon_fascism"
@@ -227,8 +265,10 @@ unit_medals = {
 	fascism_merit = {
 		
 		available = { 
-			NVX_has_government_right_auth = yes
-			should_have_any_unique_medals_trigger = no
+			OR = {
+				has_government = fascist
+				has_government = third_positionist
+			}
 		}
 		frame = 2
 		icon = "GFX_medal_icon_fascism"
@@ -248,8 +288,10 @@ unit_medals = {
 	fascism_order_brave = {
 		
 		available = { 
-			NVX_has_government_right_auth = yes
-			should_have_any_unique_medals_trigger = no
+			OR = {
+				has_government = fascist
+				has_government = third_positionist
+			}
 		}
 		frame = 3
 		icon = "GFX_medal_icon_fascism"
@@ -270,8 +312,10 @@ unit_medals = {
 	fascism_heroism = {
 		
 		available = { 
-			NVX_has_government_right_auth = yes
-			should_have_any_unique_medals_trigger = no
+			OR = {
+				has_government = fascist
+				has_government = third_positionist
+			}
 		}
 		frame = 4
 		icon = "GFX_medal_icon_fascism"
@@ -293,8 +337,7 @@ unit_medals = {
 	neutral_bravery = {
 		
 		available = { 
-			NVX_has_ideology_right = yes
-			should_have_any_unique_medals_trigger = no
+			has_government = monarchist
 		}
 		frame = 1
 		icon = "GFX_medal_icon_default"
@@ -315,8 +358,7 @@ unit_medals = {
 	neutral_military_order = {
 		
 		available = { 
-			NVX_has_ideology_right = yes
-			should_have_any_unique_medals_trigger = no
+			has_government = monarchist
 		}
 		frame = 2
 		icon = "GFX_medal_icon_default"
@@ -337,8 +379,7 @@ unit_medals = {
 	neutral_sword = {
 		
 		available = { 
-			NVX_has_ideology_right = yes
-			should_have_any_unique_medals_trigger = no
+			has_government = monarchist
 		}
 		frame = 3
 		icon = "GFX_medal_icon_default"
@@ -358,8 +399,7 @@ unit_medals = {
 	neutral_virtue = {
 		
 		available = { 
-			NVX_has_ideology_right = yes
-			should_have_any_unique_medals_trigger = no
+			has_government = monarchist
 		}
 		frame = 4
 		icon = "GFX_medal_icon_default"
@@ -376,4 +416,5 @@ unit_medals = {
 		}
 		
 	}
+
 }

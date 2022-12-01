@@ -107,9 +107,16 @@ opinion_modifiers = {
 		value = 1
 	}
 	
-	puppet_opinion = 
-	{
+	puppet_opinion = {
 		value = 75
+	}
+
+	killed_refugees = {
+		value = -50
+	}
+
+	killed_our_people = {
+		value = -100
 	}
 
 	middle_east_expansionism = {
@@ -136,7 +143,7 @@ opinion_modifiers = {
 	aided_industry = {
 		value = 30
 	}
-	
+
 	communist_collaborators = {
 		value = -125
 		months = 48
@@ -155,5 +162,36 @@ opinion_modifiers = {
 
 	destroyers_for_bases_opinion = {
 		value = 30
+	}
+
+	PW_returned_land = {
+		value = 100
+		years = 5
+	}
+	
+	diplomatic_incident = {
+		value = -10
+		months = 3
+		decay = 1
+				}
+	cut_support = {	
+		value = -100
+				}
+	snubbed_alliance = {
+		value = -50
+		months = 50
+		decay = 1
+				}
+	supported_coup = {
+		value = -100
+		months = 24
+		decay = 1
+	}
+	funded_insurgents = {
+		value = -15
+	}
+	
+	travel_ban = {
+		value = -20
 	}
 }	

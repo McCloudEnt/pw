@@ -1,0 +1,158 @@
+characters = {
+	ETH_meles_zenawi = {
+		name = "Meles Zenawi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ETH/ETH_Meles_Zenawi.dds"
+			}
+		}
+		country_leader = {
+			desc = MELES_ZENAWI_DESC
+			ideology = stalinist
+			expire = "2065.1.1"
+		}
+	}
+	ETH_tsadakan_gebretensae = {
+		name = "Tsadakan Gebretensae"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ETH/ETH_Tsadakan_Gebretensae.dds"
+			}
+		}
+		country_leader = {
+			desc = TSADAKAN_GEBRETENSAE_DESC
+			ideology = left_communist
+			expire = "2065.1.1"
+		}
+	}
+	ETH_sahle_work_zewde = {
+		name = "Sahle-Work Zewde"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ETH/ETH_Sahle_Work_Zewde.dds"
+			}
+		}
+		country_leader = {
+			desc = SAHLE_WORK_ZEWDE_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	ETH_beyene_petros = {
+		name = "Beyene Petros"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ETH/ETH_Beyene_Petros.dds"
+			}
+		}
+		country_leader = {
+			desc = BEYENE_PETROS_DESC
+			ideology = liberal_welfarist
+			expire = "2065.1.1"
+		}
+	}
+	ETH_berhanu_nega = {
+		name = "Berhanu Nega"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ETH/ETH_Berhanu_Nega.dds"
+			}
+		}
+		country_leader = {
+			desc = BERHANU_NEGA_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	ETH_lidetu_ayalew = {
+		name = "Lidetu Ayalew"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ETH/ETH_Lidetu_Ayalew.dds"
+			}
+		}
+		country_leader = {
+			desc = LIDETU_AYALEW_DESC
+			ideology = market_liberal
+			expire = "2065.1.1"
+		}
+	}
+	ETH_merera_gudina = {
+		name = "Merera Gudina"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ETH/ETH_Merera_Gudina.dds"
+			}
+		}
+		country_leader = {
+			desc = MERERA_GUDINA_DESC
+			ideology = fiscal_conservative
+			expire = "2065.1.1"
+		}
+	}
+	ETH_chane_kebede = {
+		name = "Chane Kebede"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ETH/ETH_Chane_Kebede.dds"
+			}
+		}
+		country_leader = {
+			desc = CHANE_KEBEDE_DESC
+			ideology = neoconservative
+			expire = "2065.1.1"
+		}
+	}
+	ETH_mohamouda_ahmed_gaas = {
+		name = "Mohamouda Ahmed Gaas"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ETH/ETH_Mohamouda_Ahmed_Gaas.dds"
+			}
+		}
+		country_leader = {
+			desc = MOHAMOUDA_AHMED_GAAS_DESC
+			ideology = national_liberal
+			expire = "2065.1.1"
+		}
+	}
+	ETH_emperor_amha_selassie_ii = {
+		name = "Emperor Amha Selassie II"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ETH/ETH_Amha_Selassie_II.dds"
+			}
+		}
+		country_leader = {
+			desc = EMPEROR_AMHA_SELASSIE_II_DESC
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	ETH_hailemariam_desalegn = {
+		name = "Hailemariam Desalegn"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ETH/ETH_Hailemariam_Desalegn.dds"
+			}
+		}
+		country_leader = {
+			desc = HAILEMARIAM_DESALEGN_DESC
+			ideology = neo_maoist
+			expire = "2065.1.1"
+		}
+	}
+	ETH_abune_paulos = {
+		name = "Abune Paulos"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/ETH/ETH_Paulos.dds"
+			}
+		}
+		country_leader = {
+			desc = ABUNE_PAULOS_DESC
+			ideology = clerical_fascist
+			expire = "2065.1.1"
+		}
+	}
+}

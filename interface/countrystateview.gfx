@@ -162,9 +162,9 @@ spriteTypes = {
 	spriteType = {
 		name = "GFX_buildings_strip"
 		textureFile = "gfx/interface/buildings/building_icon_strip.dds"
-		noOfFrames = 17
+		noOfFrames = 23
 	}
-	
+
 	spriteType = {
 		name = "GFX_buildings_railway_gun"
 		textureFile = "gfx/interface/buildings/building_railway_gun.dds"
@@ -646,5 +646,5 @@ spriteTypes = {
 		name = "GFX_modifiers_SOV_capital_of_the_tsars"
 		textureFile = "gfx/interface/state_modifiers/modifiers_SOV_capital_of_the_tsars.dds"
 	}
-
+	
 }

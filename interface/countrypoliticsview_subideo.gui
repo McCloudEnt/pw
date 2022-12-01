@@ -6,7 +6,7 @@ guiTypes = {
 		instantTextboxType = {
 			name = "funnysubide_name"
 			position = { x = 263 y = 150 }
-			font = "hoi_18mbs"
+			font = "hoi_22typewriter"
 			text = "FUNNY_SUBID_TEXT"
 			pdx_tooltip = "FUNNY_SUBID_TEXT_DESC"
 			maxWidth = 245

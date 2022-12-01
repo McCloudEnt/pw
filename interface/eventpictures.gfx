@@ -779,6 +779,11 @@ spriteTypes = {
 		name = "yar_gpc_leaders_arrested"
 		texturefile = "gfx/event_pictures/report_event/yar_gpc_leaders_arrested.dds"
 	}
+	
+	spriteType = {
+		name = "yar_yemen_nuclear_bomb"
+		texturefile = "gfx/event_pictures/report_event/yar_yemen_nuclear_bomb.dds"
+	}
 
 	spriteType = {
 		name = "day_of_rage"
@@ -1251,6 +1256,11 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "yemen_zindani_addresses_nation"
+		texturefile = "gfx/event_pictures/report_event/yemen_zindani_addresses_nation.dds"
+	}
+	
+	spriteType = {
 		name = "yem_usa_accepts_mil_access"
 		texturefile = "gfx/event_pictures/report_event/yem_usa_accepts_mil_access.dds"
 	}
@@ -1297,7 +1307,7 @@ spriteTypes = {
 
 	spriteType = {
 		name = "yemen_national_conference_tribal_council"
-		texturefile = "gfx/event_pictures/report_event/yemen_national_tribal_council.dds"
+		texturefile = "gfx/event_pictures/report_event/yemen_national_conference_tribal_council.dds"
 	}
 
 	spriteType = {
@@ -2048,6 +2058,371 @@ spriteTypes = {
 	spriteType = {
 		name = "yemen_al_islah_no_alliance"
 		texturefile = "gfx/event_pictures/report_event/yemen_al_islah_no_alliance.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_military_intervention"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_military_intervention.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_riyadh_says_yes"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_riyadh_says_yes.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_riyadh_says_no"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_riyadh_says_no.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_republican_guard_trial"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_republican_guard_trial.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_terror_leaders"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_terror_leaders.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_economy_pic"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_economy_pic.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_armed_forces_pic"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_armed_forces_pic.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_ambassador_angry"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_ambassador_angry.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_conference_opens"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_conference_opens.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_status_quo"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_status_quo.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_new_era"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_new_era.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_saudi_coronation"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_saudi_coronation.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_cabinet_purge"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_cabinet_purge.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_presidential_palace_demolished"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_presidential_palace_demolished.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_houthis_executed"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_houthis_executed.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_ahwal_martial_law"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_ahwal_martial_law.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_tribal_arrests"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_tribal_arrests.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_martial_law_ends"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_martial_law_ends.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_money_money_money"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_money_money_money.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_ahwal_removed"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_ahwal_removed.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_old_constitution"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_old_constitution.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_national_conciliation"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_national_conciliation.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_conciliation_yes"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_conciliation_yes.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_conciliation_no"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_conciliation_no.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_military_parade"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_military_parade.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_gpc_power"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_gpc_power.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_saleh_amendment"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_saleh_amendment.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_young_officers_coup"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_young_officers_coup.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_constitution_change"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_constitution_change.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_community_outreach"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_community_outreach.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_address"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_address.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_opec_membership"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_opec_membership.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_opec_sponsored"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_opec_sponsored.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_opec_no"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_opec_no.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_highway_investment"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_highway_investment.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_choo_choo"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_choo_choo.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_no_trains"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_no_trains.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_trade_relations"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_trade_relations.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_yank_yes"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_yank_yes.dds"
+	}
+
+	spriteType = {
+		name = "saudi_yemen_yank_no"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_yank_no.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_oil_fields"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_oil_fields.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_yes_oil"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_yes_oil.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_no_oil"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_no_oil.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_saudi_takeover"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_saudi_takeover.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_help_for_saada"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_help_for_saada.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_sell_your_kidney"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_sell_your_kidney.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_no_kidney_sold"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_no_kidney_sold.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_sinan_dies"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_sinan_dies.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_reunification"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_reunification.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_visit_to_sanaa"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_visit_to_sanaa.dds"
+	}
+	
+	spriteType = {
+		name = "jas_establish_a_provisional_government"
+		texturefile = "gfx/event_pictures/report_event/jas_establish_a_provisional_government.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_tribal_reconstruction"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_tribal_reconstruction.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_pdry_friends"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_pdry_friends.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_pdry_no_friends"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_pdry_no_friends.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_tribal_investments"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_tribal_investments.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_sana_act"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_sana_act.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_economic_plan"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_economic_plan.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_declaration_of_independence"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_declaration_of_independence.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_yemen_declares_independence"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_yemen_declares_independence.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_gets_volunteers"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_gets_volunteers.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_occupation"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_occupation.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_peace_negotiations"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_peace_negotiations.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_treaty_of_baqim"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_treaty_of_baqim.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_saleh_loyalists"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_saleh_loyalists.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_factionalism_sux"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_factionalism_sux.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_pm_retires"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_pm_retires.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_pardon_rg"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_pardon_rg.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_hamdi_investigation"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_hamdi_investigation.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_investigation_complete"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_investigation_complete.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_ahwal_speaks"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_ahwal_speaks.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_uyf_strikes"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_uyf_strikes.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_occupation_of_marib"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_occupation_of_marib.dds"
+	}
+	
+	spriteType = {
+		name = "saudi_yemen_saudis_invade_yemen"
+		texturefile = "gfx/event_pictures/report_event/saudi_yemen_saudis_invade_yemen.dds"
 	}
 
 	spriteType = {
@@ -9874,6 +10249,11 @@ spriteTypes = {
 	}
 	
 	spriteType = {
+		name = "uapr_meeting_cascadians"
+		texturefile = "gfx/event_pictures/report_event/uapr_meeting_cascadians.dds"
+	}
+	
+	spriteType = {
 		name = "rumours_ross_leaving"
 		texturefile = "gfx/event_pictures/report_event/rumours_ross_leaving.dds"
 	}
@@ -11746,6 +12126,11 @@ spriteType = {
 	}
 
 	spriteType = {
+		name = "treaty_signing"
+		texturefile = "gfx/event_pictures/report_event/treaty_signing.dds"
+	}
+	
+	spriteType = {
 		name = "ENG_coronation_of_elizabeth"
 		texturefile = "gfx/event_pictures/report_event/ENG_coronation_of_elizabeth.dds"
 	}
@@ -11821,6 +12206,66 @@ spriteType = {
 	}
 
 	spriteType = {
+		name = "CHL_september_war"
+		texturefile = "gfx/event_pictures/report_event/CHL_september_war.dds"
+	}
+
+	spriteType = {
+		name = "USA_1986_midterm_elections"
+		texturefile = "gfx/event_pictures/report_event/USA_1986_midterm_elections.dds"
+	}
+
+	spriteType = {
+		name = "USA_great_american_collapse"
+		texturefile = "gfx/event_pictures/report_event/USA_great_american_collapse.dds"
+	}
+
+	spriteType = {
+		name = "USA_union_proclamation"
+		texturefile = "gfx/event_pictures/report_event/USA_union_proclamation.dds"
+	}
+
+	spriteType = {
+		name = "APC_second_american_revolution"
+		texturefile = "gfx/event_pictures/report_event/APC_second_american_revolution.dds"
+	}
+
+	spriteType = {
+		name = "APC_philadelphia_convention"
+		texturefile = "gfx/event_pictures/report_event/APC_philadelphia_convention.dds"
+	}
+
+	spriteType = {
+		name = "APC_new_england_emergency"
+		texturefile = "gfx/event_pictures/report_event/APC_new_england_emergency.dds"
+	}
+
+	spriteType = {
+		name = "APC_1990_constitution"
+		texturefile = "gfx/event_pictures/report_event/APC_1990_constitution.dds"
+	}
+
+	spriteType = {
+		name = "AST_1975_constitutional_crisis"
+		texturefile = "gfx/event_pictures/report_event/AST_1975_constitutional_crisis.dds"
+	}
+
+	spriteType = {
+		name = "ITA_years_of_lead"
+		texturefile = "gfx/event_pictures/report_event/ITA_years_of_lead.dds"
+	}
+
+	spriteType = {
+		name = "ITA_anni_neri"
+		texturefile = "gfx/event_pictures/report_event/ITA_anni_neri.dds"
+	}
+
+	spriteType = {
+		name = "ITA_historic_compromise"
+		texturefile = "gfx/event_pictures/report_event/ITA_historic_compromise.dds"
+	}
+
+	spriteType = {
 		name = "backwards_hick_comments"
 		texturefile = "gfx/event_pictures/report_event/backwards_hick_comments.dds"
 	}
@@ -11838,5 +12283,10 @@ spriteType = {
 	spriteType = {
 		name = "devos_and_ryan_consolidate"
 		texturefile = "gfx/event_pictures/report_event/devos_and_ryan_consolidate.dds"
+	}
+	
+	spriteType = {
+		name = "militia_mobilisation"
+		texturefile = "gfx/event_pictures/report_event/militia_mobilisation.dds"
 	}
 }

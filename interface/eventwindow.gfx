@@ -56,11 +56,16 @@ spriteTypes = {
 
 	spriteType = {
 		name = "GFX_event_button_minimize"
-		texturefile = "gfx/interface/event_button_minimize.dds"
+		texturefile = "gfx/interface/event_btn_minimize.dds"
 	}
 	spriteType = {
 		name = "GFX_paper_clip_event"
 		texturefile = "gfx/interface/events/clip.dds"
+	}
+	
+	spriteType = {
+		name = "GFX_report_event_001"
+		texturefile = "gfx/event_pictures/report_event_001.dds"
 	}
 
 	frameAnimatedSpriteType = {
