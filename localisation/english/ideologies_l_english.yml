@@ -184,6 +184,8 @@
  binational_democracy_desc:0 ""
  jandalist:0 ""
  jandalist_desc:0 ""
+ centrist:0 "Centrist Populism"
+ centrist_desc:0 ""
  san_min_zhuyi_classical_liberal:0 "Tridemism"
  san_min_zhuyi_classical_liberal_desc:0 "The Three Principles of the People is the cornerstone of the Kuomintang's national policy as developed by Sun Yat-Sen. The three principles are Nationalism, Popular Governance, and Welfare. To the Solidarity Union, the Three Principles represent an independent China under a Chinese form of liberal democracy, a so-called ethical form of a free-market economy, and the belief that the individual should not be impeded by government interference."
  ##Liberal Conservative
@@ -232,7 +234,7 @@
  tea_party_ideology:0 "Tea Party Populism"
  tea_party_ideology_desc:0 "The Tea Party movement is a growing right-wing populist movement within the Republican Party. This movement is described as the more radical strand of Stalwart Republicans, and has elements from both Blue and Yellow Dog Democrats, culminating in a right-wing populist and libertarian ideology closely associated with the Christian Right."
  dominionist:0 "Dominionism"
- dominionist_desc:0 "Dominion theology espouses that the United States is best governed as a Christian nation under Biblical law so as to hasten the Second Coming of Christ. This form of theology has seen opposition from more moderate members of the Christian Right who don't seek to turn the United States into an open theocracy."
+ dominionist_desc:0 "Dominion theology espouses that a country is best governed as a Christian nation under Biblical law so as to hasten the Second Coming of Christ. This form of theology has seen opposition from more moderate members of the Christian Right who don't seek to transform their into an open theocracy. This form of theocracy is most popular in its country of origin, the United States, but it has been becoming more prominent in Apartheid South Africa."
  liberal_ilminism:0 "Liberal Ilminism"
  liberal_ilminism_desc:0 "Liberal Ilminism is the political ideology of the Democratic Justice Party. Although it retains the strong sense of nationalism, anti-communism, and authoritarian rule associated with Ilminism, it has loosened its grip somewhat, transitioning towards civilian rule, releasing its grip on the economy, and even introducing elements of local democracy."
  kemalist:0 "Kemalism"

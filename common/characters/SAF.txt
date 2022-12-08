@@ -1,0 +1,158 @@
+characters = {
+	SAF_blade_nzimande = {
+		name = "Blade Nzimande"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SAF/SAF_Blade_Nzimande.dds"
+			}
+		}
+		country_leader = {
+			desc = BLADE_NZIMANDE_DESC
+			ideology = leninist
+			expire = "2065.1.1"
+		}
+	}
+	SAF_sydney_mufamadi = {
+		name = "Sydney Mufamadi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SAF/SAF_Sydney_Mufamadi.dds"
+			}
+		}
+		country_leader = {
+			desc = SYDNEY_MUFAMADI_DESC
+			ideology = left_communist
+			expire = "2065.1.1"
+		}
+	}
+	SAF_nelson_mandela = {
+		name = "Nelson Mandela"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SAF/SAF_Nelson_Mandela.dds"
+			}
+		}
+		country_leader = {
+			desc = NELSON_MANDELA_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	SAF_trevor_manuel = {
+		name = "Trevor Manuel"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SAF/SAF_Trevor_Manuel.dds"
+			}
+		}
+		country_leader = {
+			desc = TREVOR_MANUEL_DESC
+			ideology = neo_reformist
+			expire = "2065.1.1"
+		}
+	}
+	SAF_john_steenhuisen = {
+		name = "John Steenhuisen"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SAF/SAF_John_Steenhuisen.dds"
+			}
+		}
+		country_leader = {
+			desc = JOHN_STEENHUISEN_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	SAF_tony_leon = {
+		name = "Tony Leon"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SAF/SAF_Tony_Leon.dds"
+			}
+		}
+		country_leader = {
+			desc = TONY_LEON_DESC
+			ideology = centrist
+			expire = "2065.1.1"
+		}
+	}
+	SAF_f_w_de_klerk = {
+		name = "F. W. De Klerk"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SAF/SAF_F_W_De_Klerk.dds"
+			}
+		}
+		country_leader = {
+			desc = F_W_DE_KLERK_DESC
+			ideology = christian_democracy
+			expire = "2065.1.1"
+		}
+	}
+	SAF_barend_du_plessis = {
+		name = "Barend du Plessis"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SAF/SAF_Barend_Du_Plessis.dds"
+			}
+		}
+		country_leader = {
+			desc = BAREND_DU_PLESSIS_DESC
+			ideology = christian_right
+			expire = "2065.1.1"
+		}
+	}
+	SAF_pieter_mulder = {
+		name = "Pieter Mulder"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SAF/SAF_Pieter_Mulder.dds"
+			}
+		}
+		country_leader = {
+			desc = PIETER_MULDER_DESC
+			ideology = dominionist
+			expire = "2065.1.1"
+		}
+	}
+	SAF_prince_mangosuthu_buthelezi = {
+		name = "Prince Mangosuthu Buthelezi"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SAF/SAF_Mangosuthu_Buthelezi.dds"
+			}
+		}
+		country_leader = {
+			desc = PRINCE_MANGOSUTHU_BUTHELEZI_DESC
+			ideology = regency
+			expire = "2065.1.1"
+		}
+	}
+	SAF_julius_malema = {
+		name = "Julius Malema"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SAF/SAF_Julius_Malema.dds"
+			}
+		}
+		country_leader = {
+			desc = JULIUS_MALEMA_DESC
+			ideology = third_way
+			expire = "2065.1.1"
+		}
+	}
+	SAF_corne_mulder = {
+		name = "Corné Mulder"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/SAF/SAF_Corne_Mulder.dds"
+			}
+		}
+		country_leader = {
+			desc = CORNE_MULDER_DESC
+			ideology = clerical_fascist
+			expire = "2065.1.1"
+		}
+	}
+}

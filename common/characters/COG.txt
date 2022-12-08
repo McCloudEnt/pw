@@ -1,0 +1,158 @@
+characters = {
+	COG_denis_sassou_nguesso = {
+		name = "Denis Sassou Nguesso"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/COG/COG_Denis_Sassou_Nguesso.dds"
+			}
+		}
+		country_leader = {
+			desc = DENIS_SASSOU_NGUESSO_DESC
+			ideology = leninist
+			expire = "2065.1.1"
+		}
+	}
+	COG_mambou_aimee_gnali = {
+		name = "Mambou Aimée Gnali"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/COG/COG_Mambou_Aimee_Gnali.dds"
+			}
+		}
+		country_leader = {
+			desc = MAMBOU_AIMEE_GNALI_DESC
+			ideology = left_communist
+			expire = "2065.1.1"
+		}
+	}
+	COG_antoine_gizenga = {
+		name = "Antoine Gizenga"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/COG/COG_Antoine_Gizenga.dds"
+			}
+		}
+		country_leader = {
+			desc = ANTOINE_GIZENGA_DESC
+			ideology = democratic_socialist
+			expire = "2065.1.1"
+		}
+	}
+	COG_joseph_kabila = {
+		name = "Joseph Kabila"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/COG/COG_Joseph_Kabila.dds"
+			}
+		}
+		country_leader = {
+			desc = JOSEPH_KABILA_DESC
+			ideology = neo_reformist
+			expire = "2065.1.1"
+		}
+	}
+	COG_azarias_ruberwa = {
+		name = "Azarias Ruberwa"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/COG/COG_Azarias_Ruberwa.dds"
+			}
+		}
+		country_leader = {
+			desc = AZARIAS_RUBERWA_DESC
+			ideology = radical_liberal
+			expire = "2065.1.1"
+		}
+	}
+	COG_raymond_tshibanda = {
+		name = "Raymond Tshibanda"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/COG/COG_Raymond_Tshibanda.dds"
+			}
+		}
+		country_leader = {
+			desc = RAYMOND_TSHIBANDA_DESC
+			ideology = centrist
+			expire = "2065.1.1"
+		}
+	}
+	COG_pierre_pay_pay_wa_syakasighe = {
+		name = "Pierre Pay-Pay wa Syakasighe"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/COG/COG_Pierre_Pay_Pay_Wa_Syakasighe.dds"
+			}
+		}
+		country_leader = {
+			desc = PIERRE_PAY_PAY_WA_SYAKASIGHE_DESC
+			ideology = christian_democracy
+			expire = "2065.1.1"
+		}
+	}
+	COG_jean_pierre_bemba = {
+		name = "Jean-Pierre Bemba"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/COG/COG_Jean_Pierre_Bemba.dds"
+			}
+		}
+		country_leader = {
+			desc = JEAN_PIERRE_BEMBA_DESC
+			ideology = christian_right
+			expire = "2065.1.1"
+		}
+	}
+	COG_nzanga_mobutu = {
+		name = "Nzanga Mobutu"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/COG/COG_Nzanga_Mobutu.dds"
+			}
+		}
+		country_leader = {
+			desc = NZANGA_MOBUTU_DESC
+			ideology = right_mobutist
+			expire = "2065.1.1"
+		}
+	}
+	COG_moe_makosso_iv = {
+		name = "Moé Makosso IV"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/COG/COG_Makosso_IV.dds"
+			}
+		}
+		country_leader = {
+			desc = MOE_MAKOSSO_IV_DESC
+			ideology = absolute_monarchist
+			expire = "2065.1.1"
+		}
+	}
+	COG_kongulu_mobutu = {
+		name = "Kongulu Mobutu"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/COG/COG_Kongulu_Mobutu.dds"
+			}
+		}
+		country_leader = {
+			desc = KONGULU_MOBUTU_DESC
+			ideology = left_mobutist
+			expire = "2065.1.1"
+		}
+	}
+	COG_mobutu_sese_seko = {
+		name = "Mobutu Sese Seko"
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/COG/COG_Mobutu_Sese_Seko.dds"
+			}
+		}
+		country_leader = {
+			desc = MOBUTU_SESE_SEKO_DESC
+			ideology = centre_mobutist
+			expire = "2065.1.1"
+		}
+	}
+}

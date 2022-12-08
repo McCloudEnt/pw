@@ -287,6 +287,10 @@ defined_text = {
 		localization_key = jandalist
 	}
 	text = {
+		trigger = { has_country_leader_ideology = centrist }
+		localization_key = centrist
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_classical_liberal }
 		localization_key = san_min_zhuyi_classical_liberal
 	}
@@ -913,6 +917,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = jandalist }
 		localization_key = jandalist_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = centrist }
+		localization_key = centrist_desc
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_classical_liberal }

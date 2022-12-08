@@ -1,12 +1,27 @@
 ﻿capital = 295
 
 set_politics = {	
-	ruling_party = communist
+	ruling_party = fascist
 	last_election = "2005.1.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 
 set_popularities = {
-    communist = 100
+	populist_nationalist = 32
+	third_positionist = 26
+	fascist = 42
 }
+
+recruit_character = COG_denis_sassou_nguesso
+recruit_character = COG_mambou_aimee_gnali
+recruit_character = COG_atoine_gizenga
+recruit_character = COG_joseph_kabila
+recruit_character = COG_azarias_ruberwa
+recruit_character = COG_raymond_tshibanda
+recruit_character = COG_pierre_pay_pay_wa_syakasighe
+recruit_character = COG_jean_pierre_bemba
+recruit_character = COG_nzanga_mobutu
+recruit_character = COG_moe_makosso_iv
+recruit_character = COG_kongulu_mobutu
+recruit_character = COG_mobutu_sese_seko

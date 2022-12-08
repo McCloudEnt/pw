@@ -12,6 +12,7 @@ ideologies = {
                         liberal_zionist = {}
                         binational_democracy = {}
                         jandalist = {}
+                        centrist = {}
                         san_min_zhuyi_classical_liberal = {}
 		}
 		
