@@ -434,6 +434,10 @@ defined_text = {
 		localization_key = right_mobutist
 	}
 	text = {
+		trigger = { has_country_leader_ideology = military_junta }
+		localization_key = military_junta
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_populist_nationalist }
 		localization_key = san_min_zhuyi_populist_nationalist
 	}
@@ -623,6 +627,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = centre_mobutist }
 		localization_key = centre_mobutist
+	}
+	text = {
+		trigger = { has_country_leader_ideology = military_dictatorship }
+		localization_key = military_dictatorship
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_fascist }
@@ -1066,6 +1074,10 @@ defined_text = {
 		localization_key = right_mobutist_desc
 	}
 	text = {
+		trigger = { has_country_leader_ideology = military_junta }
+		localization_key = military_junta_desc
+	}
+	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_populist_nationalist }
 		localization_key = san_min_zhuyi_populist_nationalist_desc
 	}
@@ -1255,6 +1267,10 @@ defined_text = {
 	text = {
 		trigger = { has_country_leader_ideology = centre_mobutist }
 		localization_key = centre_mobutist_desc
+	}
+	text = {
+		trigger = { has_country_leader_ideology = military_dictatorship }
+		localization_key = military_dictatorship_desc
 	}
 	text = {
 		trigger = { has_country_leader_ideology = san_min_zhuyi_fascist }

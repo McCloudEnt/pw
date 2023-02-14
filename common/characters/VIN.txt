@@ -151,7 +151,7 @@ characters = {
 		}
 		country_leader = {
 			desc = TRAN_THIEN_KHIEM_DESC
-			ideology = clerical_fascist
+			ideology = military_dictatorship
 			expire = "2065.1.1"
 		}
 	}

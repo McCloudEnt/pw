@@ -20,6 +20,7 @@ ideologies = {
                         austrofascist = {}
                         shiv_sena = {}
                         centre_mobutist = {}
+                        military_dictatorship = {}
                         san_min_zhuyi_fascist = {}
 		}
 		

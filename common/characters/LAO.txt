@@ -112,7 +112,7 @@ characters = {
 		}
 		country_leader = {
 			desc = KONG_LE_DESC
-			ideology = national_liberal
+			ideology = military_junta
 			expire = "2065.1.1"
 		}
 	}

@@ -17,6 +17,7 @@ ideologies = {
                         rss_nationalist = {}
                         metaxist = {}
                         right_mobutist = {}
+                        military_junta = {}
                         san_min_zhuyi_populist_nationalist = {}
 		}
 		

@@ -112,7 +112,7 @@ characters = {
 		}
 		country_leader = {
 			desc = KONG_KORM_DESC
-			ideology = reactionary
+			ideology = military_junta
 			expire = "2065.1.1"
 		}
 	}
@@ -151,7 +151,7 @@ characters = {
 		}
 		country_leader = {
 			desc = LON_RITH_DESC
-			ideology = ultranationalist
+			ideology = military_dictatorship
 			expire = "2065.1.1"
 		}
 	}
